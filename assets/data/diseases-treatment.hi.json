@@ -1,0 +1,544 @@
+{
+  "Apple": {
+    "Alternaria leaf spot": {
+      "_name": "अल्टरनेरिया लीफ स्पॉट"
+    },
+    "Black rot": {
+      "_name": "ब्लैक रॉट"
+    },
+    "Brown spot": {
+      "_name": "भूरा धब्बा"
+    },
+    "Gray spot": {
+      "_name": "ग्रे स्पॉट"
+    },
+    "Healthy": {
+      "_name": "स्वस्थ"
+    },
+    "Rust": {
+      "_name": "रस्ट"
+    },
+    "Scab": {
+      "_name": "स्कैब"
+    }
+  },
+  "Banana": {
+    "banana": {
+      "_name": "केला रोग"
+    }
+  },
+  "Bell Pepper / Chili / Pepper": {
+    "Bell Pepper Bacterial Spot": {
+      "_name": "बेल पेपर बैक्टीरियल स्पॉट"
+    },
+    "Bell Pepper Healthy": {
+      "_name": "बेल पेपर स्वस्थ"
+    },
+    "Chili Leaf Curl": {
+      "_name": "मिर्च लीफ कर्ल"
+    },
+    "Chili Leaf Spot": {
+      "_name": "मिर्च लीफ स्पॉट"
+    },
+    "Chili Whitefly": {
+      "_name": "मिर्च व्हाइटफ्लाई"
+    },
+    "Chili Yellowish": {
+      "_name": "मिर्च पीलापन"
+    },
+    "Pepper Bell Bacterial Spot": {
+      "_name": "पेपर बेल बैक्टीरियल स्पॉट"
+    },
+    "Pepper Bell Healthy": {
+      "_name": "पेपर बेल स्वस्थ"
+    }
+  },
+  "Cassava": {
+    "Bacterial blight": {
+      "_name": "बैक्टीरियल ब्लाइट"
+    },
+    "Brown streak disease": {
+      "_name": "ब्राउन स्ट्रीक रोग"
+    },
+    "Green mottle": {
+      "_name": "ग्रीन मॉटल"
+    },
+    "Healthy": {
+      "_name": "स्वस्थ"
+    },
+    "Mosaic disease": {
+      "_name": "मोज़ेक रोग"
+    }
+  },
+  "Cherry": {
+    "Powdery mildew": {
+      "_name": "पाउडरी मिल्ड्यू"
+    },
+    "Healthy": {
+      "_name": "स्वस्थ"
+    }
+  },
+  "Coffee": {
+    "Cercospora leaf spot": {
+      "_name": "सर्कोस्पोरा लीफ स्पॉट"
+    },
+    "Red spider mite": {
+      "_name": "रेड स्पाइडर माइट"
+    },
+    "Rust": {
+      "_name": "रस्ट"
+    },
+    "Healthy": {
+      "_name": "स्वस्थ"
+    }
+  },
+  "Corn / Maize": {
+    "Blight / Northern Leaf Blight": {
+      "_name": "ब्लाइट / उत्तरी लीफ ब्लाइट"
+    },
+    "Common Rust": {
+      "_name": "सामान्य रस्ट"
+    },
+    "Gray Leaf Spot": {
+      "_name": "ग्रे लीफ स्पॉट"
+    },
+    "Healthy": {
+      "_name": "स्वस्थ"
+    },
+    "Maize Ear Rot": {
+      "_name": "मक्का इयर रॉट"
+    },
+    "Maize Fall Armyworm": {
+      "_name": "मक्का फॉल आर्मीवर्म"
+    },
+    "Maize Stem Borer": {
+      "_name": "मक्का स्टेम बोरर"
+    }
+  },
+  "Cotton": {
+    "Aphid": {
+      "_name": "एफिड"
+    },
+    "Bacterial blight": {
+      "_name": "बैक्टीरियल ब्लाइट"
+    },
+    "Boll rot": {
+      "_name": "बॉल रॉट"
+    },
+    "Bollworm": {
+      "_name": "बॉलवर्म"
+    },
+    "Mealy bug": {
+      "_name": "मिली बग"
+    },
+    "Pink bollworm": {
+      "_name": "पिंक बॉलवर्म"
+    },
+    "Red cotton bug": {
+      "_name": "रेड कॉटन बग"
+    },
+    "Thirps": {
+      "_name": "थ्रिप्स"
+    },
+    "Whitefly": {
+      "_name": "व्हाइटफ्लाई"
+    },
+    "Healthy": {
+      "_name": "स्वस्थ"
+    }
+  },
+  "Cucumber": {
+    "Diseased": {
+      "_name": "रोगग्रस्त"
+    },
+    "Healthy": {
+      "_name": "स्वस्थ"
+    }
+  },
+  "Grape": {
+    "Black measles": {
+      "_name": "ब्लैक मीज़ल्स"
+    },
+    "Black rot": {
+      "_name": "ब्लैक रॉट"
+    },
+    "Esca": {
+      "_name": "एस्का"
+    },
+    "Leaf blight (Isariopsis Leaf Spot)": {
+      "_name": "लीफ ब्लाइट"
+    },
+    "Healthy": {
+      "_name": "स्वस्थ"
+    }
+  },
+  "Lemon": {
+    "Diseased": {
+      "_name": "रोगग्रस्त"
+    },
+    "Healthy": {
+      "_name": "स्वस्थ"
+    }
+  },
+  "Mango": {
+    "Diseased": {
+      "_name": "रोगग्रस्त"
+    },
+    "Gall midge": {
+      "_name": "गॉल मिज"
+    },
+    "Healthy": {
+      "_name": "स्वस्थ"
+    },
+    "Powdery mildew": {
+      "_name": "पाउडरी मिल्ड्यू"
+    },
+    "Sooty mould": {
+      "_name": "सूटी मोल्ड"
+    }
+  },
+  "Melon / Watermelon": {
+    "Anthracnose": {
+      "_name": "एन्थ्रेक्नोज"
+    },
+    "Downy mildew": {
+      "_name": "डाउनि मिल्ड्यू"
+    },
+    "Mosaic virus": {
+      "_name": "मोज़ेक वायरस"
+    },
+    "Healthy": {
+      "_name": "स्वस्थ"
+    }
+  },
+  "Peach": {
+    "Bacterial spot": {
+      "_name": "बैक्टीरियल स्पॉट"
+    },
+    "Healthy": {
+      "_name": "स्वस्थ"
+    }
+  },
+  "Peanut": {
+    "Early leaf spot": {
+      "_name": "अर्ली लीफ स्पॉट"
+    },
+    "Early rust": {
+      "_name": "अर्ली रस्ट"
+    },
+    "Late leaf spot": {
+      "_name": "लेट लीफ स्पॉट"
+    },
+    "Nutrition deficiency": {
+      "_name": "पोषण की कमी"
+    },
+    "Rust": {
+      "_name": "रस्ट"
+    },
+    "Healthy": {
+      "_name": "स्वस्थ"
+    }
+  },
+  "Pomegranate": {
+    "Diseased": {
+      "_name": "रोगग्रस्त"
+    },
+    "Healthy": {
+      "_name": "स्वस्थ"
+    }
+  },
+  "Potato": {
+    "Bacterial wilt": {
+      "_name": "बैक्टीरियल विल्ट"
+    },
+    "Early blight": {
+      "_name": "अर्ली ब्लाइट"
+    },
+    "Late blight": {
+      "_name": "लेट ब्लाइट"
+    },
+    "Leafroll virus": {
+      "_name": "लीफरोल वायरस"
+    },
+    "Mosaic virus": {
+      "_name": "मोज़ेक वायरस"
+    },
+    "Nematode": {
+      "_name": "निमेटोड"
+    },
+    "Phytophthora": {
+      "_name": "फाइटोफ्थोरा"
+    },
+    "Pests": {
+      "_name": "कीट"
+    },
+    "Healthy": {
+      "_name": "स्वस्थ"
+    }
+  },
+  "Rice": {
+    "Bacterial blight": {
+      "_name": "बैक्टीरियल ब्लाइट"
+    },
+    "Blast": {
+      "_name": "ब्लास्ट"
+    },
+    "Brown spot": {
+      "_name": "भूरा धब्बा"
+    },
+    "Hispa (insect)": {
+      "_name": "हिस्पा (कीट)"
+    },
+    "Leaf blast": {
+      "_name": "लीफ ब्लास्ट"
+    },
+    "Neck blast": {
+      "_name": "नेक ब्लास्ट"
+    },
+    "Tungro": {
+      "_name": "टंग्रो"
+    },
+    "Healthy": {
+      "_name": "स्वस्थ"
+    }
+  },
+  "Rose": {
+    "Rust": {
+      "_name": "रस्ट"
+    },
+    "Slug sawfly": {
+      "_name": "स्लग सॉफ़्लाई"
+    },
+    "Healthy": {
+      "_name": "स्वस्थ"
+    }
+  },
+  "Sunflower": {
+    "Sunflower": {
+      "_name": "सूरजमुखी"
+    }
+  },
+  "Soybean": {
+    "Bacterial blight": {
+      "_name": "बैक्टीरियल ब्लाइट"
+    },
+    "Caterpillar": {
+      "_name": "इल्ली"
+    },
+    "Diabrotica speciosa": {
+      "_name": "डियाब्रोटिका स्पेसियोसा"
+    },
+    "Downy mildew": {
+      "_name": "डाउनि मिल्ड्यू"
+    },
+    "Mosaic virus": {
+      "_name": "मोज़ेक वायरस"
+    },
+    "Powdery mildew": {
+      "_name": "पाउडरी मिल्ड्यू"
+    },
+    "Rust": {
+      "_name": "रस्ट"
+    },
+    "Southern blight": {
+      "_name": "सदर्न ब्लाइट"
+    },
+    "Healthy": {
+      "_name": "स्वस्थ"
+    }
+  },
+  "Strawberry": {
+    "Leaf scorch": {
+      "_name": "लीफ स्कॉर्च"
+    },
+    "Healthy": {
+      "_name": "स्वस्थ"
+    }
+  },
+  "Sugarcane": {
+    "Bacterial blight": {
+      "_name": "बैक्टीरियल ब्लाइट"
+    },
+    "Mosaic": {
+      "_name": "मोज़ेक"
+    },
+    "Red rot": {
+      "_name": "रेड रॉट"
+    },
+    "Red stripe": {
+      "_name": "रेड स्ट्राइप"
+    },
+    "Rust": {
+      "_name": "रस्ट"
+    },
+    "Yellow leaf": {
+      "_name": "येलो लीफ"
+    },
+    "Healthy": {
+      "_name": "स्वस्थ"
+    }
+  },
+  "Tea": {
+    "Algal leaf": {
+      "_name": "एल्गल लीफ"
+    },
+    "Anthracnose": {
+      "_name": "एन्थ्रेक्नोज"
+    },
+    "Bird eye spot": {
+      "_name": "बर्ड आई स्पॉट"
+    },
+    "Brown blight": {
+      "_name": "ब्राउन ब्लाइट"
+    },
+    "Red leaf spot": {
+      "_name": "रेड लीफ स्पॉट"
+    },
+    "Healthy": {
+      "_name": "स्वस्थ"
+    }
+  },
+  "Tomato": {
+    "Bacterial spot": {
+      "_name": "बैक्टीरियल स्पॉट"
+    },
+    "Early blight": {
+      "_name": "अर्ली ब्लाइट"
+    },
+    "Late blight": {
+      "_name": "लेट ब्लाइट"
+    },
+    "Leaf curl": {
+      "_name": "लीफ कर्ल"
+    },
+    "Leaf mold": {
+      "_name": "लीफ मोल्ड"
+    },
+    "Mosaic virus": {
+      "_name": "मोज़ेक वायरस"
+    },
+    "Septoria leaf spot": {
+      "_name": "सेप्टोरिया लीफ स्पॉट"
+    },
+    "Spider mites (Two spotted)": {
+      "_name": "स्पाइडर माइट्स (दो धब्बेदार)"
+    },
+    "Target spot": {
+      "_name": "टारगेट स्पॉट"
+    },
+    "Tomato yellow leaf curl virus": {
+      "_name": "टमाटर येलो लीफ कर्ल वायरस"
+    },
+    "Healthy": {
+      "_name": "स्वस्थ"
+    }
+  },
+  "Wheat": {
+    "Aphid": {
+      "_name": "एफिड"
+    },
+    "Black rust": {
+      "_name": "ब्लैक रस्ट"
+    },
+    "Brown rust": {
+      "_name": "ब्राउन रस्ट"
+    },
+    "Leaf blight": {
+      "_name": "लीफ ब्लाइट"
+    },
+    "Mite": {
+      "_name": "माइट"
+    },
+    "Powdery mildew": {
+      "_name": "पाउडरी मिल्ड्यू"
+    },
+    "Scab": {
+      "_name": "स्कैब"
+    },
+    "Septoria": {
+      "_name": "सेप्टोरिया"
+    },
+    "Stem fly": {
+      "_name": "स्टेम फ्लाई"
+    },
+    "Yellow rust": {
+      "_name": "येलो रस्ट"
+    },
+    "Healthy": {
+      "_name": "स्वस्थ"
+    }
+  },
+  "Non-Crop / Wild Plants": {
+    "Bush Clock Vine": {
+      "_name": "बुश क्लॉक वाइन"
+    },
+    "Champaka": {
+      "_name": "चंपाका"
+    },
+    "Common Lantana": {
+      "_name": "कॉमन लैंटाना"
+    },
+    "Crown Flower": {
+      "_name": "क्राउन फ्लावर"
+    },
+    "Datura": {
+      "_name": "धतूरा"
+    },
+    "Four O’ Clock Flower": {
+      "_name": "फोर ओ क्लॉक फ्लावर"
+    },
+    "Hibiscus": {
+      "_name": "गुड़हल"
+    },
+    "Honey Suckle": {
+      "_name": "हनी सकल"
+    },
+    "Indian Mallow": {
+      "_name": "इंडियन मैलो"
+    },
+    "Jatropha": {
+      "_name": "जेट्रोफा"
+    },
+    "Malabar Melastome": {
+      "_name": "मलबार मेलास्टोम"
+    },
+    "Marigold": {
+      "_name": "गेंदा"
+    },
+    "Nagapoovu": {
+      "_name": "नागापूवु"
+    },
+    "Nityakalyani": {
+      "_name": "नित्यकल्याणी"
+    },
+    "Pinwheel": {
+      "_name": "पिनव्हील"
+    },
+    "Spider Lily": {
+      "_name": "स्पाइडर लिली"
+    },
+    "Thechi": {
+      "_name": "थेची"
+    },
+    "Thumba": {
+      "_name": "थुंबा"
+    },
+    "Touch Me Not": {
+      "_name": "छुईमुई"
+    },
+    "Tridax procumbens": {
+      "_name": "ट्राइडैक्स प्रोकंबेंस"
+    },
+    "Wild Potato Vine": {
+      "_name": "वाइल्ड पोटैटो वाइन"
+    },
+    "Yellow Daisy": {
+      "_name": "येलो डेज़ी"
+    }
+  },
+  "Guava": {
+    "Fruit fly": {
+      "_name": "फ्रूट फ्लाई"
+    }
+  }
+}

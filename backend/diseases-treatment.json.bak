@@ -1,0 +1,808 @@
+{
+  "Apple": {
+    "Alternaria leaf spot": {
+      "recommendation": "Fungicide: Mancozeb or Chlorothalonil; Alternative: Azoxystrobin (systemic). Organic: copper sprays, neem oil.",
+      "treatment": "Remove and destroy infected leaves, improve air circulation, avoid overhead irrigation, apply fungicide at 7–14 day intervals during wet weather."
+    },
+    "Black rot": {
+      "recommendation": "Fungicide: Captan or Copper oxychloride; Alternative: Tebuconazole. Organic: copper sprays, remove mummified fruit.",
+      "treatment": "Prune and remove infected wood and mummies, sanitize tools, apply protectant fungicides during season, maintain good tree hygiene."
+    },
+    "Brown spot": {
+      "recommendation": "Fungicide: Mancozeb or Copper formulations; Organic: sulfur or copper sprays.",
+      "treatment": "Remove infected tissue, reduce leaf wetness, ensure proper spacing and airflow, rotate fungicides to avoid resistance."
+    },
+    "Gray spot": {
+      "recommendation": "Fungicide: Chlorothalonil or Azoxystrobin. Organic: copper or sulfur sprays.",
+      "treatment": "Remove infected material, avoid prolonged leaf wetness, apply protective sprays before rainy periods."
+    },
+    "Healthy": {
+      "recommendation": "Preventive: balanced nutrition, regular copper or protectant fungicide program if needed; organic: compost, biocontrols.",
+      "treatment": "Maintain orchard sanitation, proper pruning, irrigation management, monitoring and early intervention."
+    },
+    "Rust": {
+      "recommendation": "Fungicide: Myclobutanil or Propiconazole; Organic: copper or sulfur (if suitable).",
+      "treatment": "Remove alternate hosts (if applicable), prune infected parts, apply systemic fungicide during active infection period."
+    },
+    "Scab": {
+      "recommendation": "Fungicide: Mancozeb, Captan or Difenoconazole; Organic: sulfur or copper.",
+      "treatment": "Sanitize fallen leaves (mulch or remove), apply protective fungicides at green tip and during wet weather, select resistant varieties."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  },
+  "Banana": {
+    "banana": {
+      "recommendation": "Depends on problem: for fungal use copper-based fungicides or systemic fungicides; for nematodes use neem cake/organic amendments; for pests use Bacillus thuringiensis or spinosad.",
+      "treatment": "Use clean planting material, good drainage, remove diseased plants, crop rotation, soil health improvement (organic matter), and vector control."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  },
+  "Bell Pepper / Chili / Pepper": {
+    "Bell Pepper Bacterial Spot": {
+      "recommendation": "Copper-based bactericide (apply as label permits). Organic: copper or plant-strengthening biostimulants.",
+      "treatment": "Use certified seed/seedlings, remove infected plants, avoid overhead irrigation, apply copper as preventive, practice crop rotation."
+    },
+    "Bell Pepper Healthy": {
+      "recommendation": "Preventive: balanced fertilization, rotation, mulching and regular monitoring.",
+      "treatment": "Maintain field hygiene and timely scouting for pests/diseases."
+    },
+    "Chili Leaf Curl": {
+      "recommendation": "No cure for virus; control vectors with systemic insecticide (e.g., imidacloprid) or safer alternative like neem; use reflective mulches to deter whiteflies.",
+      "treatment": "Rogue out infected plants, use virus-free transplants, control whitefly vectors, deploy yellow sticky traps, plant resistant varieties if available."
+    },
+    "Chili Leaf Spot": {
+      "recommendation": "Fungicide: Mancozeb, Chlorothalonil or Copper oxychloride. Organic: copper sprays.",
+      "treatment": "Remove affected leaves, avoid overhead watering, apply protectant fungicides during humid/wet periods."
+    },
+    "Chili Whitefly": {
+      "recommendation": "Insecticide: Spinosad or insecticidal soap; biological: Encarsia spp. or lacewing release. Cultural: yellow sticky traps.",
+      "treatment": "Monitor and use integrated control: natural enemies, sticky traps, avoid excessive nitrogen, timely targeted sprays."
+    },
+    "Chili Yellowish": {
+      "recommendation": "Symptom-based: could be nutrient deficiency or virus; check for N deficiency and foliar application of balanced fertilizer; if viral, control vectors.",
+      "treatment": "Soil test and correct nutrient deficiencies, inspect for pests, remove severely affected plants, improve irrigation uniformity."
+    },
+    "Pepper Bell Bacterial Spot": {
+      "recommendation": "Copper-based sprays; seed treatment and certified seed recommended.",
+      "treatment": "Sanitize tools, remove infected debris, avoid overhead irrigation, rotate crops and use resistant varieties."
+    },
+    "Pepper Bell Healthy": {
+      "recommendation": "Good field sanitation, monitoring, drip irrigation and mulch to reduce foliar diseases.",
+      "treatment": "Balanced fertilization, timely pruning, and IPM."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  },
+  "Cassava": {
+    "Bacterial blight": {
+      "recommendation": "Copper-based bactericides (where permitted) and improved agronomy; no reliable chemical cure.",
+      "treatment": "Use disease-free cuttings, remove infected plants, practice quarantine and sanitation, plant tolerant varieties."
+    },
+    "Brown streak disease": {
+      "recommendation": "No chemical control; focus on using resistant varieties and clean planting material.",
+      "treatment": "Rogue infected plants, control whitefly vectors, use certified virus-free cuttings, rotate fields."
+    },
+    "Green mottle": {
+      "recommendation": "Likely viral — no chemical cure; use disease-free materials and tolerant varieties.",
+      "treatment": "Rogue infected plants, control insect vectors, use certified cuttings and sanitation."
+    },
+    "Healthy": {
+      "recommendation": "Use clean planting material, good soil health, and monitoring for pests and viral symptoms.",
+      "treatment": "Proper spacing, soil fertility management, and vector control."
+    },
+    "Mosaic disease": {
+      "recommendation": "No chemical cure; use virus-free propagules and resistant varieties where available.",
+      "treatment": "Rogue symptomatic plants, control vectors (whiteflies/aphids), and plant clean cuttings."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  },
+  "Cherry": {
+    "Powdery mildew": {
+      "recommendation": "Fungicide: Potassium bicarbonate, Myclobutanil or sulfur-based sprays. Organic: sulfur or potassium bicarbonate.",
+      "treatment": "Prune for air flow, remove infected shoots, apply treatments early when conditions favor disease."
+    },
+    "Healthy": {
+      "recommendation": "Preventive fungicide program in high-risk zones, good pruning and sanitation.",
+      "treatment": "Regular monitoring and orchard hygiene."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  },
+  "Coffee": {
+    "Cercospora leaf spot": {
+      "recommendation": "Fungicide: Copper formulations or systemic fungicides (strobilurins). Cultural: remove infected leaves.",
+      "treatment": "Improve shade/airflow, remove fallen infected leaves, spray protectant fungicides in wet seasons."
+    },
+    "Red spider mite": {
+      "recommendation": "Miticide: acaricides like propargite or safer options like neem oil and predatory mites (Phytoseiulus).",
+      "treatment": "Encourage natural predators, avoid excessive dust and drought stress, apply miticide/biological control early."
+    },
+    "Rust": {
+      "recommendation": "For Hemileia vastatrix: Copper fungicides can reduce spread; integrated approach with resistant varieties (robusta/arabica hybrids).",
+      "treatment": "Use resistant varieties, remove heavily infected plants, maintain proper spacing and shade management, follow local recommendations."
+    },
+    "Healthy": {
+      "recommendation": "Good shade management, balanced fertilization and regular scouting.",
+      "treatment": "Sanitation, proper pruning, and monitor for pests and diseases."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  },
+  "Corn / Maize": {
+    "Blight / Northern Leaf Blight": {
+      "recommendation": "Fungicide: Azoxystrobin or Propiconazole for high-value crops; use resistant hybrids.",
+      "treatment": "Plant resistant hybrids, crop rotation, residue management, timely fungicide where economically justified."
+    },
+    "Common Rust": {
+      "recommendation": "Fungicide optional (e.g., Azoxystrobin) if severe. Use resistant hybrids.",
+      "treatment": "Plant resistant varieties, monitor and apply fungicides only in high disease/late season conditions."
+    },
+    "Gray Leaf Spot": {
+      "recommendation": "Fungicide: Strobilurins or Triazoles; rotate modes of action.",
+      "treatment": "Reduce residue, crop rotation, select tolerant hybrids and apply fungicide when threshold exceeded."
+    },
+    "Healthy": {
+      "recommendation": "Use resistant hybrids, balanced nutrition and residue management.",
+      "treatment": "Timely scouting and integrated pest management."
+    },
+    "Maize Ear Rot": {
+      "recommendation": "Fungicide at silking with valid products (where labeled); harvest timely to reduce mycotoxin risk.",
+      "treatment": "Avoid insect damage (control ear-feeding insects), timely harvesting and drying, remove infected ears."
+    },
+    "Maize Fall Armyworm": {
+      "recommendation": "Biocontrol: Bacillus thuringiensis (Bt) or Spinosad; synthetic: Chlorantraniliprole or Lambda-cyhalothrin where registered.",
+      "treatment": "Early scouting, use pheromone traps, biologicals (Bt), timely selective insecticides to avoid resistance."
+    },
+    "Maize Stem Borer": {
+      "recommendation": "Use pheromone traps, biological control (Trichogramma), and selective insecticides (e.g., Emamectin benzoate).",
+      "treatment": "Stubble management, trap cropping, timely insecticide applications at egg/larval stages."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  },
+  "Cotton": {
+    "Aphid": {
+      "recommendation": "Insecticidal soap, neem oil, or systemic insecticides (imidacloprid) if threshold exceeded. Encourage natural predators.",
+      "treatment": "Promote beneficial insects, avoid unnecessary broad-spectrum sprays, use threshold-based control programs."
+    },
+    "Bacterial blight": {
+      "recommendation": "Copper-based sprays where permitted; no full cure.",
+      "treatment": "Use disease-free seed, rotate crops, remove infected plants, practice sanitation."
+    },
+    "Boll rot": {
+      "recommendation": "Reduce insect damage (control pests), avoid excessive irrigation; fungicides rarely effective post-infection.",
+      "treatment": "Control bollworms and other pests, improve harvest timing, field sanitation."
+    },
+    "Bollworm": {
+      "recommendation": "Bt cotton, or insecticides such as Emamectin benzoate or Spinosad; biological: Trichogramma.",
+      "treatment": "Use Bt varieties, pheromone traps, release natural enemies, rotate insecticide classes to manage resistance."
+    },
+    "Mealy bug": {
+      "recommendation": "Systemic insecticides or insecticidal soaps; natural enemies (ladybirds, parasitoids).",
+      "treatment": "Remove heavily infested plants, encourage predators, avoid excessive nitrogen that favors outbreaks."
+    },
+    "Pink bollworm": {
+      "recommendation": "Pheromone trapping and mating disruption; insecticides at threshold if needed.",
+      "treatment": "Use Bt varieties, timely harvest, destroy stalks post-harvest, pheromone traps to monitor/control."
+    },
+    "Red cotton bug": {
+      "recommendation": "Targeted insecticides (follow local labels); cultural sanitation to remove host residues.",
+      "treatment": "Sanitation, crop rotation, early detection and spot sprays if necessary."
+    },
+    "Thirps": {
+      "recommendation": "Use spinosad or insecticidal soaps; encourage predators and use blue sticky traps for monitoring.",
+      "treatment": "Avoid excessive fertilizer, monitor, and use selective insecticides to preserve beneficials."
+    },
+    "Whitefly": {
+      "recommendation": "Use insecticidal soap, neem, or selective systemic insecticides; biological control recommended.",
+      "treatment": "Monitor with yellow sticky traps, conserve natural enemies, and apply targeted sprays only when needed."
+    },
+    "Healthy": {
+      "recommendation": "IPM approach: Bt varieties, crop rotation, balanced fertilizer and monitoring.",
+      "treatment": "Maintain field hygiene and monitor pest thresholds before spraying."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  },
+  "Cucumber": {
+    "Diseased": {
+      "recommendation": "Depends on symptom: for fungal use copper/sulfur or systemic fungicides; for pests use neem or Bt.",
+      "treatment": "Remove infected vines, improve air circulation, use drip irrigation, rotate crops and use resistant varieties."
+    },
+    "Healthy": {
+      "recommendation": "Preventive sanitation, trellising, mulching and regular scouting.",
+      "treatment": "Maintain proper soil fertility and irrigation practices to reduce stress and disease susceptibility."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  },
+  "Grape": {
+    "Black measles": {
+      "recommendation": "Fungicide: Copper or systemic fungicides (strobilurins/triazoles) depending on pathogen; manage thrips/mites if vector-related.",
+      "treatment": "Sanitation, remove diseased berries, canopy management and protectant fungicide program through the season."
+    },
+    "Black rot": {
+      "recommendation": "Fungicide: Captan or Myclobutanil; Organic: sulfur and copper-based products.",
+      "treatment": "Prune out infected wood, remove mummies, apply protective fungicides during wet periods."
+    },
+    "Esca": {
+      "recommendation": "No reliable chemical cure; focus on pruning out infected wood and improving vine vigor.",
+      "treatment": "Sanitize pruning tools, remove and burn heavily infected vines, maintain balanced nutrition and avoid trunk injuries."
+    },
+    "Leaf blight (Isariopsis Leaf Spot)": {
+      "recommendation": "Fungicide: Copper or chlorothalonil; Organic: copper sprays and improved canopy management.",
+      "treatment": "Improve air circulation, remove infected leaves, apply protective sprays in humid seasons."
+    },
+    "Healthy": {
+      "recommendation": "Good canopy management, balanced fertilization and regular scouting for pests/diseases.",
+      "treatment": "Maintain sanitation and harvest timing to reduce disease pressure."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  },
+  "Lemon": {
+    "Diseased": {
+      "recommendation": "Depends on disease: fungal → copper/sulfur; bacterial → copper bactericide; pest → appropriate insecticide/biocontrol.",
+      "treatment": "Identify specific issue, remove infected parts, improve drainage and orchard hygiene, use resistant rootstocks if available."
+    },
+    "Healthy": {
+      "recommendation": "Regular copper sprays as protectant in high-risk seasons, balanced nutrition, and irrigation management.",
+      "treatment": "Prune for airflow, monitor for pests and diseases, and use certified planting material."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  },
+  "Mango": {
+    "Diseased": {
+      "recommendation": "Symptom-specific: fungal diseases → copper or systemic fungicides; bacterial → copper; organic options include neem.",
+      "treatment": "Prune affected parts, remove dropped fruit, manage irrigation, and use certified disease-free seedlings."
+    },
+    "Gall midge": {
+      "recommendation": "Insecticide sprays targeting adults (follow local labels) and pheromone monitoring if available.",
+      "treatment": "Prune and destroy infested panicles, monitor adults, and maintain orchard hygiene."
+    },
+    "Healthy": {
+      "recommendation": "Good pruning, sanitation, and fungicide program during flowering/fruit set if area is high-risk.",
+      "treatment": "Use resistant varieties, proper nutrition and monitor for pests."
+    },
+    "Powdery mildew": {
+      "recommendation": "Sulfur-based sprays or systemic fungicides (triazoles). Organic: sulfur or potassium bicarbonate.",
+      "treatment": "Prune for air flow, apply sulfur early, avoid excess nitrogen, and spray at bud/flowering stages if needed."
+    },
+    "Sooty mould": {
+      "recommendation": "Control sap-sucking insects (aphids/whiteflies) causing honeydew; use insecticidal soap, neem or biological control.",
+      "treatment": "Wash off sooty mould with water, control the insect vectors and encourage natural enemies."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  },
+  "Melon / Watermelon": {
+    "Anthracnose": {
+      "recommendation": "Fungicide: Mancozeb or Azoxystrobin; Organic: copper sprays.",
+      "treatment": "Use disease-free seed, rotate crops, remove infected debris, and apply protectant sprays during wet weather."
+    },
+    "Downy mildew": {
+      "recommendation": "Fungicide: Metalaxyl or Chlorothalonil (follow local recommendations). Use resistant varieties where possible.",
+      "treatment": "Improve airflow, avoid overhead irrigation, and apply fungicides preventively in high-risk regions."
+    },
+    "Mosaic virus": {
+      "recommendation": "No chemical cure; control aphid vectors and use resistant varieties.",
+      "treatment": "Rogue infected plants, use virus-free seed, control aphids and practice good field sanitation."
+    },
+    "Healthy": {
+      "recommendation": "Use resistant varieties, crop rotation, and seed sanitation.",
+      "treatment": "Timely irrigation, avoid waterlogging, and monitor for pests."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  },
+  "Peach": {
+    "Bacterial spot": {
+      "recommendation": "Copper sprays (pre-bloom and post-bloom) as preventive; organic: copper products.",
+      "treatment": "Sanitation, remove infected twigs, select resistant cultivars, and apply protective sprays during vulnerable periods."
+    },
+    "Healthy": {
+      "recommendation": "Regular pruning and preventive spray schedule in wet climates.",
+      "treatment": "Monitor blossoms and young fruit, maintain orchard hygiene."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  },
+  "Peanut": {
+    "Early leaf spot": {
+      "recommendation": "Fungicide: Mancozeb or Chlorothalonil; follow scheduled sprays.",
+      "treatment": "Use certified seed, crop rotation, and apply protective fungicides starting at early pod stage."
+    },
+    "Early rust": {
+      "recommendation": "Fungicide: Triazole or strobilurin fungicides; integrated approach advised.",
+      "treatment": "Plant resistant cultivars, monitor disease development and apply sprays based on thresholds."
+    },
+    "Late leaf spot": {
+      "recommendation": "Fungicide programs with Mancozeb or Triazoles; start before disease peaks.",
+      "treatment": "Rotate crops, manage residue, and follow recommended spray schedules."
+    },
+    "Nutrition deficiency": {
+      "recommendation": "Soil test-driven fertilization; correct deficiencies with appropriate fertilizers (K, P, micronutrients).",
+      "treatment": "Conduct soil test, apply balanced nutrients, and use foliar feeds if needed."
+    },
+    "Rust": {
+      "recommendation": "Use rust-resistant varieties and timely fungicide application (triazoles/strobilurins).",
+      "treatment": "Monitor, remove highly infected areas, and follow cultural controls."
+    },
+    "Healthy": {
+      "recommendation": "Good rotation, timely fungicide program in high-risk areas and balanced nutrition.",
+      "treatment": "Keep field well-drained and avoid stress conditions."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  },
+  "Pomegranate": {
+    "Diseased": {
+      "recommendation": "Symptom-specific: use copper-based fungicides for fungal/bacterial issues; control insect vectors for viral problems.",
+      "treatment": "Remove infected fruit and branches, maintain sanitation and optimize irrigation and nutrition."
+    },
+    "Healthy": {
+      "recommendation": "Balanced irrigation, pruning and preventive sprays in humid seasons.",
+      "treatment": "Monitor trees and practice good orchard hygiene."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  },
+  "Potato": {
+    "Bacterial wilt": {
+      "recommendation": "No chemical cure; use clean seed tubers and soil sanitation. Soil solarization may help.",
+      "treatment": "Use resistant varieties, rotate crops, destroy infected plants and avoid contaminated planting materials."
+    },
+    "Early blight": {
+      "recommendation": "Fungicide: Chlorothalonil or Mancozeb; systemic options: Azoxystrobin. Organic: copper or biologicals.",
+      "treatment": "Remove infected debris, rotate crops, and apply protectant/systemic fungicides as needed."
+    },
+    "Late blight": {
+      "recommendation": "Fungicide: Metalaxyl + Mancozeb mixes, or other labeled late blight fungicides; organic options limited (copper).",
+      "treatment": "Use certified seed, rapid removal of infected plants, protectant spray programs during cool/wet weather."
+    },
+    "Leafroll virus": {
+      "recommendation": "No cure; control aphid vectors and use virus-free seed tubers.",
+      "treatment": "Rogue infected plants, use certified seed, and control aphids to reduce spread."
+    },
+    "Mosaic virus": {
+      "recommendation": "No chemical cure; use clean seed and control insect vectors (aphids/whiteflies).",
+      "treatment": "Remove infected plants, use certified seed, and practice vector control."
+    },
+    "Nematode": {
+      "recommendation": "Soil amendments (neem cake), crop rotation and resistant varieties; chemical nematicides where permitted.",
+      "treatment": "Use organic soil health measures, solarization, resistant cultivars and clean seed tubers."
+    },
+    "Phytophthora": {
+      "recommendation": "Fungicide: Phosphonates (phosphites) or metalaxyl-based products where labeled.",
+      "treatment": "Improve drainage, avoid waterlogged soils, remove infected plants and apply systemic fungicides per local guidance."
+    },
+    "Pests": {
+      "recommendation": "Pest-specific: for late blight vectors and tuber pests use appropriate insecticides or biocontrol (Bt for caterpillars).",
+      "treatment": "Monitor and apply IPM: traps, biologicals, and targeted insecticides following thresholds."
+    },
+    "Healthy": {
+      "recommendation": "Certified seed tubers, rotation, and balanced fertility with good drainage.",
+      "treatment": "Early detection, sanitation, and appropriate fungicide/insecticide use only when needed."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  },
+  "Rice": {
+    "Bacterial blight": {
+      "recommendation": "No complete chemical cure; use resistant varieties and proper water management. Copper sprays rarely effective in paddies.",
+      "treatment": "Use resistant cultivars, good field drainage, seed treatment and proper fertilization management."
+    },
+    "Blast": {
+      "recommendation": "Fungicide: Tricyclazole or Azoxystrobin (where labeled); use blast-resistant varieties.",
+      "treatment": "Use resistant varieties, avoid high nitrogen, reduce leaf wetness, and apply fungicide at tillering/heading if needed."
+    },
+    "Brown spot": {
+      "recommendation": "Balanced nutrition and fungicide if severe (protectants like copper).",
+      "treatment": "Improve soil fertility (especially K), plant healthy seed and avoid prolonged moisture stress."
+    },
+    "Hispa (insect)": {
+      "recommendation": "Insecticide: Spinosad or carbaryl alternatives; biologicals and resistant varieties recommended.",
+      "treatment": "Field sanitation, maintain healthy crop vigor, and targeted insecticide application based on scouting."
+    },
+    "Leaf blast": {
+      "recommendation": "As for blast: fungicides like tricyclazole or protective fungicides and resistant varieties.",
+      "treatment": "Reduce plant stress, avoid excessive N, and use resistant cultivars."
+    },
+    "Neck blast": {
+      "recommendation": "Use blast-resistant cultivars and timely fungicide sprays at booting if risk is high.",
+      "treatment": "Timely fungicide application and use of resistant varieties reduce yield loss."
+    },
+    "Tungro": {
+      "recommendation": "Viral disease — no chemical cure; control leafhopper vectors (use appropriate insecticides or cultural controls).",
+      "treatment": "Use resistant varieties, healthy transplants, and control vector populations with IPM measures."
+    },
+    "Healthy": {
+      "recommendation": "Use certified seed, proper nutrient management, and resistant varieties for known local threats.",
+      "treatment": "Field sanitation, water management and timed fungicide/insecticide application based on monitoring."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  },
+  "Rose": {
+    "Rust": {
+      "recommendation": "Fungicide: Sulfur or systemic fungicides (triazoles). Organic: sulfur or potassium bicarbonate.",
+      "treatment": "Remove infected leaves, improve airflow, and apply fungicide on schedule during wet periods."
+    },
+    "Slug sawfly": {
+      "recommendation": "Hand-pick slugs/larvae, use organic baits (iron phosphate) or biological control.",
+      "treatment": "Remove hiding spots, apply baits at dusk, and promote predatory wildlife."
+    },
+    "Healthy": {
+      "recommendation": "Regular pruning, good airflow, and preventive fungicide program in humid seasons.",
+      "treatment": "Monitor and treat early; ensure balanced fertilizer and watering regime."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  },
+  "Sunflower": {
+    "Sunflower": {
+      "recommendation": "Monitor common diseases and pests; use resistant hybrids and follow IPM. Fungicides/insecticides as per identified problem.",
+      "treatment": "Crop rotation, good residue management, and timely scouting for rust, downy mildew or insect pests."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  },
+  "Soybean": {
+    "Bacterial blight": {
+      "recommendation": "Copper sprays may reduce spread in some cases; prioritize resistant varieties.",
+      "treatment": "Use clean seed, rotate crops, and avoid overhead irrigation in humid conditions."
+    },
+    "Caterpillar": {
+      "recommendation": "Bt (if available), Bacillus thuringiensis sprays or Spinosad for chewing pests.",
+      "treatment": "Monitor and spray biologicals or selective insecticides when threshold crossed."
+    },
+    "Diabrotica speciosa": {
+      "recommendation": "Soil/seed treatments and insecticides at planting where necessary; cultural control.",
+      "treatment": "Rotate crops, use seed treatments and monitor adult beetles for targeted control."
+    },
+    "Downy mildew": {
+      "recommendation": "Fungicide: Metalaxyl for seedling stages; use resistant varieties where available.",
+      "treatment": "Seed treatment, avoid waterlogging and apply fungicide as recommended."
+    },
+    "Mosaic virus": {
+      "recommendation": "No cure; rogue infected plants and control aphid vectors.",
+      "treatment": "Plant virus-free seed, control vectors and use tolerant varieties if available."
+    },
+    "Powdery mildew": {
+      "recommendation": "Sulfur or systemic fungicides (triazoles). Organic: sulfur or potassium bicarbonate.",
+      "treatment": "Improve air circulation, reduce humidity and apply fungicides early."
+    },
+    "Rust": {
+      "recommendation": "Fungicides (triazoles/strobilurins) if high pressure; select resistant varieties.",
+      "treatment": "Monitor disease, use resistant cultivars and apply fungicide when threshold is reached."
+    },
+    "Southern blight": {
+      "recommendation": "Use soil sanitation, remove infected debris; fungicides limited in effect.",
+      "treatment": "Avoid infected soil, rotate crops, solarize soil and maintain good drainage."
+    },
+    "Healthy": {
+      "recommendation": "Use certified seed, crop rotation and balanced fertilization.",
+      "treatment": "Regular scouting and targeted interventions only when needed."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  },
+  "Strawberry": {
+    "Leaf scorch": {
+      "recommendation": "Fungicide: Copper or appropriate contact fungicides; improve drainage and air circulation.",
+      "treatment": "Remove infected leaves, rotate beds, avoid overhead irrigation and use disease-free runners."
+    },
+    "Healthy": {
+      "recommendation": "Mulching, drip irrigation and regular monitoring for fungal and pest issues.",
+      "treatment": "Use certified runners and timely sanitation measures."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  },
+  "Sugarcane": {
+    "Bacterial blight": {
+      "recommendation": "Use clean setts and sanitation; copper sprays may help on foliage where applicable.",
+      "treatment": "Use disease-free planting material, avoid mechanical injury and control vectors."
+    },
+    "Mosaic": {
+      "recommendation": "Viral — no chemical cure; use virus-free setts and resistant varieties.",
+      "treatment": "Rogue infected canes, use clean planting material and control insect vectors."
+    },
+    "Red rot": {
+      "recommendation": "Use tolerant varieties and hot water treatment of setts where recommended.",
+      "treatment": "Use resistant cultivars, destroy infected canes, and practice field sanitation."
+    },
+    "Red stripe": {
+      "recommendation": "Use tolerant varieties and proper nitrogen management.",
+      "treatment": "Remove infected material and manage nutrient balance and waterlogging."
+    },
+    "Rust": {
+      "recommendation": "Fungicide sprays where labeled; use resistant varieties and balanced nutrition.",
+      "treatment": "Monitor rust incidence and apply fungicides or follow local extension guidance."
+    },
+    "Yellow leaf": {
+      "recommendation": "Nutrient and management related; soil testing and balanced fertilization recommended.",
+      "treatment": "Correct nutrient deficiencies and use clean planting materials."
+    },
+    "Healthy": {
+      "recommendation": "Balanced fertilizer, disease-free setts and crop rotation where possible.",
+      "treatment": "Regular monitoring and sanitation."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  },
+  "Tea": {
+    "Algal leaf": {
+      "recommendation": "Improve canopy airflow and apply copper fungicides if algae persist.",
+      "treatment": "Prune to reduce shade, remove affected leaves and improve sunlight penetration."
+    },
+    "Anthracnose": {
+      "recommendation": "Fungicide: Copper or systemic fungicides; organic: copper sprays.",
+      "treatment": "Sanitation, pruning of infected shoots and apply fungicide during wet seasons."
+    },
+    "Bird eye spot": {
+      "recommendation": "Fungicide applications (follow local label); improve nutrition and drainage.",
+      "treatment": "Remove infected leaves, manage shade and apply protectant sprays."
+    },
+    "Brown blight": {
+      "recommendation": "Fungicide: copper or appropriate contact fungicides and cultural controls.",
+      "treatment": "Improve ventilation, remove diseased foliage and apply protectant sprays in rainy periods."
+    },
+    "Red leaf spot": {
+      "recommendation": "Fungicides and improved cultural practices; use resistant clones where possible.",
+      "treatment": "Prune infected areas, improve airflow and apply fungicide during humid conditions."
+    },
+    "Healthy": {
+      "recommendation": "Proper pruning, shade management, and nutrient balance to reduce disease susceptibility.",
+      "treatment": "Regular scouting and prompt removal of infected material."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  },
+  "Tomato": {
+    "Black Rot": {
+      "recommendation": "Fungicide: Captan or Copper oxychloride; Alternative: Mancozeb or Difenoconazole. Organic: copper sprays, sanitize and remove infected material.",
+      "treatment": "Remove and destroy infected plants/fruit, improve air circulation, avoid overhead irrigation, apply appropriate fungicide as per label and local guidance. Rotate modes of action to prevent resistance."
+    },
+    "Bacterial spot": {
+      "recommendation": "Copper-based bactericides and sanitation. Organic: copper formulations.",
+      "treatment": "Use certified seed, avoid overhead watering, remove infected plants and practice crop rotation."
+    },
+    "Early blight": {
+      "recommendation": "Fungicide: Chlorothalonil or Mancozeb; systemic: Azoxystrobin. Organic: copper/sulfur.",
+      "treatment": "Mulch, rotate crops, remove infected debris and apply protective fungicides during season."
+    },
+    "Late blight": {
+      "recommendation": "Fungicide: Metalaxyl-based mixes or other labeled late blight products; copper can reduce spread.",
+      "treatment": "Use certified seedling, remove infected plants immediately, and follow protective spray schedules during cool/wet conditions."
+    },
+    "Leaf curl": {
+      "recommendation": "Usually viral (Tomato yellow leaf curl virus) — control whitefly vectors with insecticidal soap or neem.",
+      "treatment": "Rogue infected plants, use insect-proof screens, control whiteflies, and use resistant varieties if available."
+    },
+    "Leaf mold": {
+      "recommendation": "Fungicide: Copper or Mancozeb; improve greenhouse ventilation in protected culture.",
+      "treatment": "Increase airflow, reduce humidity, and apply protective fungicides in humid environments."
+    },
+    "Mosaic virus": {
+      "recommendation": "No cure; use virus-free transplants and control vectors.",
+      "treatment": "Rogue infected plants, control aphids and thrips, and practice strict sanitation."
+    },
+    "Septoria leaf spot": {
+      "recommendation": "Fungicides: Chlorothalonil, Mancozeb or strobilurins; remove infected leaves.",
+      "treatment": "Mulch to prevent soil splash, remove lower leaves, apply fungicide programs in wet weather."
+    },
+    "Spider mites (Two spotted)": {
+      "recommendation": "Miticides or insecticidal soap; biological: predatory mites (Phytoseiulus).",
+      "treatment": "Reduce plant stress, wash leaves, encourage predators and apply miticide if threshold exceeded."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    },
+    "Tomato yellow leaf curl virus": {
+      "recommendation": "No chemical cure; prevent by controlling whitefly vectors and using resistant varieties.",
+      "treatment": "Remove infected plants, protect seedlings with insect-proof netting, and apply vector control."
+    },
+    "Healthy": {
+      "recommendation": "Use resistant varieties when possible, crop rotation, and IPM for pests and diseases.",
+      "treatment": "Timely irrigation, ventilation (greenhouse), and monitoring to apply targeted controls only as needed."
+    }
+  },
+  "Wheat": {
+    "Aphid": {
+      "recommendation": "Use pheromone/monitoring and treat with selective insecticides only if thresholds are exceeded; conserve natural enemies.",
+      "treatment": "Monitor for aphid-borne viruses, encourage predators and apply targeted insecticides if necessary."
+    },
+    "Black rust": {
+      "recommendation": "Use resistant varieties and fungicides (triazoles) where necessary.",
+      "treatment": "Plant resistant cultivars, monitor and apply fungicide sprays based on disease forecasts."
+    },
+    "Brown rust": {
+      "recommendation": "Resistant varieties and fungicide sprays when monitoring indicates threat.",
+      "treatment": "Use timed fungicide applications and resistant cultivars."
+    },
+    "Leaf blight": {
+      "recommendation": "Fungicides (triazoles or strobilurins) when required and use tolerant varieties.",
+      "treatment": "Crop rotation, residue management, and fungicide as per scouting results."
+    },
+    "Mite": {
+      "recommendation": "Miticides where thresholds are reached; encourage natural enemies.",
+      "treatment": "Monitor and apply acaricide or cultural controls to reduce mite populations."
+    },
+    "Powdery mildew": {
+      "recommendation": "Fungicides like triazoles or sulfur; resistant varieties helpful.",
+      "treatment": "Use resistant cultivars, improve airflow, and treat early to limit spread."
+    },
+    "Scab": {
+      "recommendation": "Fusarium head blight: use resistant varieties, fungicides at flowering (e.g., tebuconazole) and harvest timing to reduce mycotoxin risk.",
+      "treatment": "Crop rotation away from corn, tillage to reduce residue, and fungicide at flowering if warranted."
+    },
+    "Septoria": {
+      "recommendation": "Fungicides (triazoles/strobilurins) in severe cases; resistant varieties.",
+      "treatment": "Crop rotation, residue management and fungicide application guided by monitoring."
+    },
+    "Stem fly": {
+      "recommendation": "Seed treatments and timely sowing; insecticides if heavy infestation.",
+      "treatment": "Adjust sowing date, use seed treatments and monitor adult flies."
+    },
+    "Yellow rust": {
+      "recommendation": "Use resistant cultivars and fungicides when necessary (triazoles/strobilurins).",
+      "treatment": "Monitor rust forecasts, use resistant varieties and apply fungicide if thresholds reached."
+    },
+    "Healthy": {
+      "recommendation": "Choose region-appropriate resistant varieties, balanced fertilization and monitoring.",
+      "treatment": "Use IPM, crop rotation and apply controls only when necessary."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  },
+  "Non-Crop / Wild Plants": {
+    "Bush Clock Vine": {
+      "recommendation": "Observe; manage if invasive.",
+      "treatment": "Mechanical removal if unwanted."
+    },
+    "Champaka": {
+      "recommendation": "Manage for ornamental health; consult local extension for pests.",
+      "treatment": "Prune, monitor pests and use targeted treatments."
+    },
+    "Common Lantana": {
+      "recommendation": "Often invasive — control mechanically or herbicide where permitted.",
+      "treatment": "Remove seed heads, dig out roots to control spread."
+    },
+    "Crown Flower": {
+      "recommendation": "Ornamental care; treat pests as observed.",
+      "treatment": "Prune and monitor for leaf diseases/pests."
+    },
+    "Datura": {
+      "recommendation": "Toxic plant — avoid ingestion; control if invasive.",
+      "treatment": "Physical removal; wear protective gear."
+    },
+    "Four O’ Clock Flower": {
+      "recommendation": "General ornamental care.",
+      "treatment": "Water and mulch appropriately; remove diseased foliage."
+    },
+    "Hibiscus": {
+      "recommendation": "Monitor for aphids, scale and fungal leaf spots; treat with neem or insecticidal soap.",
+      "treatment": "Prune and apply targeted controls."
+    },
+    "Honey Suckle": {
+      "recommendation": "Prune for shape and monitor pests.",
+      "treatment": "Remove invasive parts and manage growth."
+    },
+    "Indian Mallow": {
+      "recommendation": "General care and weed control.",
+      "treatment": "Remove as needed and manage soil fertility."
+    },
+    "Jatropha": {
+      "recommendation": "Monitor pests; handle seeds carefully (toxic).",
+      "treatment": "Sanitation and targeted pest control."
+    },
+    "Malabar Melastome": {
+      "recommendation": "Ornamental; monitor fungal leaf spots.",
+      "treatment": "Prune and apply fungicide if needed."
+    },
+    "Marigold": {
+      "recommendation": "Good companion plant; manage nematodes naturally.",
+      "treatment": "Remove diseased plants and use compost."
+    },
+    "Nagapoovu": {
+      "recommendation": "Ornamental care.",
+      "treatment": "Prune and monitor."
+    },
+    "Nityakalyani": {
+      "recommendation": "Ornamental upkeep.",
+      "treatment": "Water and prune as required."
+    },
+    "Pinwheel": {
+      "recommendation": "General ornamental maintenance.",
+      "treatment": "Monitor pests and diseases."
+    },
+    "Spider Lily": {
+      "recommendation": "Bulb care; avoid rot.",
+      "treatment": "Ensure drainage and remove rotted bulbs."
+    },
+    "Thechi": {
+      "recommendation": "Ornamental tree care.",
+      "treatment": "Prune and monitor for pests."
+    },
+    "Thumba": {
+      "recommendation": "Seed oil crop — manage pests by scouting.",
+      "treatment": "Use IPM and remove infected plants."
+    },
+    "Touch Me Not": {
+      "recommendation": "Ornamental; avoid ingestion.",
+      "treatment": "Control seedlings if invasive."
+    },
+    "Tridax procumbens": {
+      "recommendation": "Common weed — remove physically.",
+      "treatment": "Pull up roots to prevent regrowth."
+    },
+    "Wild Potato Vine": {
+      "recommendation": "Monitor for pests/diseases if used ornamentally.",
+      "treatment": "Remove if invasive."
+    },
+    "Yellow Daisy": {
+      "recommendation": "Ornamental care and pest monitoring.",
+      "treatment": "Prune and treat pests as needed."
+    },
+    "Target spot": {
+      "recommendation": "Leaf spot — Fungicides: Copper oxychloride, Chlorothalonil or Mancozeb; systemic options where labeled. Use resistant varieties when available. Organic options: copper sprays, neem oil or Bordeaux mixture. Rotate modes of action to reduce resistance risk and follow label instructions.",
+      "treatment": "Leaf spot treatment: Remove and destroy infected leaves and debris, improve air circulation and plant spacing, avoid overhead irrigation, and apply registered fungicides at first signs of disease. Repeat applications per label and local guidance. Maintain balanced nutrition (avoid excess nitrogen) and monitor regularly."
+    }
+  }
+}

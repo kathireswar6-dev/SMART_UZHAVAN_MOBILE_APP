@@ -1,0 +1,647 @@
+
+=== MISSING TRANSLATIONS SUMMARY ===
+
+[ta] 127 missing:
+  - Suggestion by Soil and State
+  - State
+  - Soil Type
+  - N (Nitrogen)
+  - P (Phosphorous)
+  - K (Potassium)
+  - pH
+  - Humidity (%)
+  - Temperature (°C)
+  - Rainfall (mm)
+  - Get Suggestion
+  - Enter the soil values
+  - N (Nitrogen content):
+  - P (Phosphorous content):
+  - K (Potassium content):
+  - pH (Soil pH value):
+  - Temperature (°C):
+  - Humidity (%):
+  - Rainfall (mm):
+  - Incomplete Data
+  - Please fill in all values before proceeding.
+  - Crop Suggestion Assistant
+  - Do you know the following soil and weather values?
+  - Yes
+  - No
+  - N – Nitrogen content in soil
+  - P – Phosphorous content in soil
+  - K – Potassium content in soil
+  - pH – Soil pH value
+  - Temperature – in °C
+  - Humidity – in %
+  - Rainfall – in mm
+  - Upload Crop Images
+  - + Camera or Gallery
+  - Processing...
+  - Permission denied
+  - Please allow access to your photos.
+  - Please allow access to your camera.
+  - Limit reached
+  - Upload Image
+  - Choose a source
+  - Camera
+  - Gallery
+  - No image selected
+  - Please upload at least one image.
+  - Failed to process images. Please try again.
+  - Analyzing Images...
+  - Please wait while we analyze your images
+  - Select Crop Type
+  - Please select a crop type before uploading images.
+  - Tap to select crop
+  - Crop Diseases and Diagnosis
+  - Select the crop
+  - Organic Farming Resources
+  - Your prediction and diagnosis history will appear here once you start using the app.
+  - Go to Home
+  - uploaded
+  - Stores
+  - Quick Actions
+  - Your Location
+  - Location permission required
+  - Unable to get location. Try refreshing or check location settings.
+  - Are you sure you want to log out?
+  - Offline Language Models
+  - Download language models for offline translation.
+  - Downloaded
+  - Not downloaded
+  - Download
+  - Downloading...
+  - Deleting...
+  - Refresh
+  - Auto-detect input language
+  - Supported
+  - Not supported
+  - Delete model is not supported by this ML Kit wrapper.
+  - Failed to update language model.
+  - Failed to get response
+  - Connection error
+  - Please ensure the backend server is running.
+  - Full Name
+  - Account Status
+  - Member Since
+  - Not set
+  - Verified
+  - Not Verified
+  - Edit Name
+  - Edit Phone
+  - Edit Location
+  - Email Address
+  - Email cannot be changed
+  - Enter your full name
+  - City, State/Province
+  - Save Changes
+  - Unknown
+  - Diagnosis Results
+  - Diagnosis Result
+  - Confidence Level
+  - Processing image...
+  - Loading results...
+  - Generating PDF...
+  - Download PDF
+  - Go Home
+  - Generated on
+  - Important
+  - This report is for informational purposes only. Please consult with agricultural experts for professional advice.
+  - Image
+  - Security Questions
+  - Set recovery questions to protect your account
+  - Refreshing...
+  - Finding nearby stores...
+  - km away
+  - Navigation error
+  - Could not open maps for this store.
+  - Looking for offices near
+  - No government offices found yet
+  - results matching your filter
+  - government offices near
+  - government offices nearby
+  - Input Values
+  - No Results
+  - Unknown Crop
+  - Causal Organism
+  - Symptoms
+  - How to Treat
+  - Disease management guide
+  - No data available
+  - Disease recommendations are not available for this crop yet.
+
+[ml] 127 missing:
+  - Suggestion by Soil and State
+  - State
+  - Soil Type
+  - N (Nitrogen)
+  - P (Phosphorous)
+  - K (Potassium)
+  - pH
+  - Humidity (%)
+  - Temperature (°C)
+  - Rainfall (mm)
+  - Get Suggestion
+  - Enter the soil values
+  - N (Nitrogen content):
+  - P (Phosphorous content):
+  - K (Potassium content):
+  - pH (Soil pH value):
+  - Temperature (°C):
+  - Humidity (%):
+  - Rainfall (mm):
+  - Incomplete Data
+  - Please fill in all values before proceeding.
+  - Crop Suggestion Assistant
+  - Do you know the following soil and weather values?
+  - Yes
+  - No
+  - N – Nitrogen content in soil
+  - P – Phosphorous content in soil
+  - K – Potassium content in soil
+  - pH – Soil pH value
+  - Temperature – in °C
+  - Humidity – in %
+  - Rainfall – in mm
+  - Upload Crop Images
+  - + Camera or Gallery
+  - Processing...
+  - Permission denied
+  - Please allow access to your photos.
+  - Please allow access to your camera.
+  - Limit reached
+  - Upload Image
+  - Choose a source
+  - Camera
+  - Gallery
+  - No image selected
+  - Please upload at least one image.
+  - Failed to process images. Please try again.
+  - Analyzing Images...
+  - Please wait while we analyze your images
+  - Select Crop Type
+  - Please select a crop type before uploading images.
+  - Tap to select crop
+  - Crop Diseases and Diagnosis
+  - Select the crop
+  - Organic Farming Resources
+  - Your prediction and diagnosis history will appear here once you start using the app.
+  - Go to Home
+  - uploaded
+  - Stores
+  - Quick Actions
+  - Your Location
+  - Location permission required
+  - Unable to get location. Try refreshing or check location settings.
+  - Are you sure you want to log out?
+  - Offline Language Models
+  - Download language models for offline translation.
+  - Downloaded
+  - Not downloaded
+  - Download
+  - Downloading...
+  - Deleting...
+  - Refresh
+  - Auto-detect input language
+  - Supported
+  - Not supported
+  - Delete model is not supported by this ML Kit wrapper.
+  - Failed to update language model.
+  - Failed to get response
+  - Connection error
+  - Please ensure the backend server is running.
+  - Full Name
+  - Account Status
+  - Member Since
+  - Not set
+  - Verified
+  - Not Verified
+  - Edit Name
+  - Edit Phone
+  - Edit Location
+  - Email Address
+  - Email cannot be changed
+  - Enter your full name
+  - City, State/Province
+  - Save Changes
+  - Unknown
+  - Diagnosis Results
+  - Diagnosis Result
+  - Confidence Level
+  - Processing image...
+  - Loading results...
+  - Generating PDF...
+  - Download PDF
+  - Go Home
+  - Generated on
+  - Important
+  - This report is for informational purposes only. Please consult with agricultural experts for professional advice.
+  - Image
+  - Security Questions
+  - Set recovery questions to protect your account
+  - Refreshing...
+  - Finding nearby stores...
+  - km away
+  - Navigation error
+  - Could not open maps for this store.
+  - Looking for offices near
+  - No government offices found yet
+  - results matching your filter
+  - government offices near
+  - government offices nearby
+  - Input Values
+  - No Results
+  - Unknown Crop
+  - Causal Organism
+  - Symptoms
+  - How to Treat
+  - Disease management guide
+  - No data available
+  - Disease recommendations are not available for this crop yet.
+
+[kn] 127 missing:
+  - Suggestion by Soil and State
+  - State
+  - Soil Type
+  - N (Nitrogen)
+  - P (Phosphorous)
+  - K (Potassium)
+  - pH
+  - Humidity (%)
+  - Temperature (°C)
+  - Rainfall (mm)
+  - Get Suggestion
+  - Enter the soil values
+  - N (Nitrogen content):
+  - P (Phosphorous content):
+  - K (Potassium content):
+  - pH (Soil pH value):
+  - Temperature (°C):
+  - Humidity (%):
+  - Rainfall (mm):
+  - Incomplete Data
+  - Please fill in all values before proceeding.
+  - Crop Suggestion Assistant
+  - Do you know the following soil and weather values?
+  - Yes
+  - No
+  - N – Nitrogen content in soil
+  - P – Phosphorous content in soil
+  - K – Potassium content in soil
+  - pH – Soil pH value
+  - Temperature – in °C
+  - Humidity – in %
+  - Rainfall – in mm
+  - Upload Crop Images
+  - + Camera or Gallery
+  - Processing...
+  - Permission denied
+  - Please allow access to your photos.
+  - Please allow access to your camera.
+  - Limit reached
+  - Upload Image
+  - Choose a source
+  - Camera
+  - Gallery
+  - No image selected
+  - Please upload at least one image.
+  - Failed to process images. Please try again.
+  - Analyzing Images...
+  - Please wait while we analyze your images
+  - Select Crop Type
+  - Please select a crop type before uploading images.
+  - Tap to select crop
+  - Crop Diseases and Diagnosis
+  - Select the crop
+  - Organic Farming Resources
+  - Your prediction and diagnosis history will appear here once you start using the app.
+  - Go to Home
+  - uploaded
+  - Stores
+  - Quick Actions
+  - Your Location
+  - Location permission required
+  - Unable to get location. Try refreshing or check location settings.
+  - Are you sure you want to log out?
+  - Offline Language Models
+  - Download language models for offline translation.
+  - Downloaded
+  - Not downloaded
+  - Download
+  - Downloading...
+  - Deleting...
+  - Refresh
+  - Auto-detect input language
+  - Supported
+  - Not supported
+  - Delete model is not supported by this ML Kit wrapper.
+  - Failed to update language model.
+  - Failed to get response
+  - Connection error
+  - Please ensure the backend server is running.
+  - Full Name
+  - Account Status
+  - Member Since
+  - Not set
+  - Verified
+  - Not Verified
+  - Edit Name
+  - Edit Phone
+  - Edit Location
+  - Email Address
+  - Email cannot be changed
+  - Enter your full name
+  - City, State/Province
+  - Save Changes
+  - Unknown
+  - Diagnosis Results
+  - Diagnosis Result
+  - Confidence Level
+  - Processing image...
+  - Loading results...
+  - Generating PDF...
+  - Download PDF
+  - Go Home
+  - Generated on
+  - Important
+  - This report is for informational purposes only. Please consult with agricultural experts for professional advice.
+  - Image
+  - Security Questions
+  - Set recovery questions to protect your account
+  - Refreshing...
+  - Finding nearby stores...
+  - km away
+  - Navigation error
+  - Could not open maps for this store.
+  - Looking for offices near
+  - No government offices found yet
+  - results matching your filter
+  - government offices near
+  - government offices nearby
+  - Input Values
+  - No Results
+  - Unknown Crop
+  - Causal Organism
+  - Symptoms
+  - How to Treat
+  - Disease management guide
+  - No data available
+  - Disease recommendations are not available for this crop yet.
+
+[te] 127 missing:
+  - Suggestion by Soil and State
+  - State
+  - Soil Type
+  - N (Nitrogen)
+  - P (Phosphorous)
+  - K (Potassium)
+  - pH
+  - Humidity (%)
+  - Temperature (°C)
+  - Rainfall (mm)
+  - Get Suggestion
+  - Enter the soil values
+  - N (Nitrogen content):
+  - P (Phosphorous content):
+  - K (Potassium content):
+  - pH (Soil pH value):
+  - Temperature (°C):
+  - Humidity (%):
+  - Rainfall (mm):
+  - Incomplete Data
+  - Please fill in all values before proceeding.
+  - Crop Suggestion Assistant
+  - Do you know the following soil and weather values?
+  - Yes
+  - No
+  - N – Nitrogen content in soil
+  - P – Phosphorous content in soil
+  - K – Potassium content in soil
+  - pH – Soil pH value
+  - Temperature – in °C
+  - Humidity – in %
+  - Rainfall – in mm
+  - Upload Crop Images
+  - + Camera or Gallery
+  - Processing...
+  - Permission denied
+  - Please allow access to your photos.
+  - Please allow access to your camera.
+  - Limit reached
+  - Upload Image
+  - Choose a source
+  - Camera
+  - Gallery
+  - No image selected
+  - Please upload at least one image.
+  - Failed to process images. Please try again.
+  - Analyzing Images...
+  - Please wait while we analyze your images
+  - Select Crop Type
+  - Please select a crop type before uploading images.
+  - Tap to select crop
+  - Crop Diseases and Diagnosis
+  - Select the crop
+  - Organic Farming Resources
+  - Your prediction and diagnosis history will appear here once you start using the app.
+  - Go to Home
+  - uploaded
+  - Stores
+  - Quick Actions
+  - Your Location
+  - Location permission required
+  - Unable to get location. Try refreshing or check location settings.
+  - Are you sure you want to log out?
+  - Offline Language Models
+  - Download language models for offline translation.
+  - Downloaded
+  - Not downloaded
+  - Download
+  - Downloading...
+  - Deleting...
+  - Refresh
+  - Auto-detect input language
+  - Supported
+  - Not supported
+  - Delete model is not supported by this ML Kit wrapper.
+  - Failed to update language model.
+  - Failed to get response
+  - Connection error
+  - Please ensure the backend server is running.
+  - Full Name
+  - Account Status
+  - Member Since
+  - Not set
+  - Verified
+  - Not Verified
+  - Edit Name
+  - Edit Phone
+  - Edit Location
+  - Email Address
+  - Email cannot be changed
+  - Enter your full name
+  - City, State/Province
+  - Save Changes
+  - Unknown
+  - Diagnosis Results
+  - Diagnosis Result
+  - Confidence Level
+  - Processing image...
+  - Loading results...
+  - Generating PDF...
+  - Download PDF
+  - Go Home
+  - Generated on
+  - Important
+  - This report is for informational purposes only. Please consult with agricultural experts for professional advice.
+  - Image
+  - Security Questions
+  - Set recovery questions to protect your account
+  - Refreshing...
+  - Finding nearby stores...
+  - km away
+  - Navigation error
+  - Could not open maps for this store.
+  - Looking for offices near
+  - No government offices found yet
+  - results matching your filter
+  - government offices near
+  - government offices nearby
+  - Input Values
+  - No Results
+  - Unknown Crop
+  - Causal Organism
+  - Symptoms
+  - How to Treat
+  - Disease management guide
+  - No data available
+  - Disease recommendations are not available for this crop yet.
+
+[hi] 127 missing:
+  - Suggestion by Soil and State
+  - State
+  - Soil Type
+  - N (Nitrogen)
+  - P (Phosphorous)
+  - K (Potassium)
+  - pH
+  - Humidity (%)
+  - Temperature (°C)
+  - Rainfall (mm)
+  - Get Suggestion
+  - Enter the soil values
+  - N (Nitrogen content):
+  - P (Phosphorous content):
+  - K (Potassium content):
+  - pH (Soil pH value):
+  - Temperature (°C):
+  - Humidity (%):
+  - Rainfall (mm):
+  - Incomplete Data
+  - Please fill in all values before proceeding.
+  - Crop Suggestion Assistant
+  - Do you know the following soil and weather values?
+  - Yes
+  - No
+  - N – Nitrogen content in soil
+  - P – Phosphorous content in soil
+  - K – Potassium content in soil
+  - pH – Soil pH value
+  - Temperature – in °C
+  - Humidity – in %
+  - Rainfall – in mm
+  - Upload Crop Images
+  - + Camera or Gallery
+  - Processing...
+  - Permission denied
+  - Please allow access to your photos.
+  - Please allow access to your camera.
+  - Limit reached
+  - Upload Image
+  - Choose a source
+  - Camera
+  - Gallery
+  - No image selected
+  - Please upload at least one image.
+  - Failed to process images. Please try again.
+  - Analyzing Images...
+  - Please wait while we analyze your images
+  - Select Crop Type
+  - Please select a crop type before uploading images.
+  - Tap to select crop
+  - Crop Diseases and Diagnosis
+  - Select the crop
+  - Organic Farming Resources
+  - Your prediction and diagnosis history will appear here once you start using the app.
+  - Go to Home
+  - uploaded
+  - Stores
+  - Quick Actions
+  - Your Location
+  - Location permission required
+  - Unable to get location. Try refreshing or check location settings.
+  - Are you sure you want to log out?
+  - Offline Language Models
+  - Download language models for offline translation.
+  - Downloaded
+  - Not downloaded
+  - Download
+  - Downloading...
+  - Deleting...
+  - Refresh
+  - Auto-detect input language
+  - Supported
+  - Not supported
+  - Delete model is not supported by this ML Kit wrapper.
+  - Failed to update language model.
+  - Failed to get response
+  - Connection error
+  - Please ensure the backend server is running.
+  - Full Name
+  - Account Status
+  - Member Since
+  - Not set
+  - Verified
+  - Not Verified
+  - Edit Name
+  - Edit Phone
+  - Edit Location
+  - Email Address
+  - Email cannot be changed
+  - Enter your full name
+  - City, State/Province
+  - Save Changes
+  - Unknown
+  - Diagnosis Results
+  - Diagnosis Result
+  - Confidence Level
+  - Processing image...
+  - Loading results...
+  - Generating PDF...
+  - Download PDF
+  - Go Home
+  - Generated on
+  - Important
+  - This report is for informational purposes only. Please consult with agricultural experts for professional advice.
+  - Image
+  - Security Questions
+  - Set recovery questions to protect your account
+  - Refreshing...
+  - Finding nearby stores...
+  - km away
+  - Navigation error
+  - Could not open maps for this store.
+  - Looking for offices near
+  - No government offices found yet
+  - results matching your filter
+  - government offices near
+  - government offices nearby
+  - Input Values
+  - No Results
+  - Unknown Crop
+  - Causal Organism
+  - Symptoms
+  - How to Treat
+  - Disease management guide
+  - No data available
+  - Disease recommendations are not available for this crop yet.

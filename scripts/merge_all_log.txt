@@ -1,0 +1,7 @@
+Merged missing translation keys.
+ta: +95 keys, total 137
+ml: +95 keys, total 137
+kn: +95 keys, total 137
+te: +95 keys, total 137
+hi: +95 keys, total 137
+en total keys: 137

@@ -1,0 +1,392 @@
+{
+  "Apple": {
+    "Alternaria leaf spot": {
+      "_name": "அல்டர்நேரியா இலைப்புள்ளி",
+      "recommendation": "பூஞ்சைநாசினி: மான்கோசெப் அல்லது குளோரோத்தாலோனில்; மாற்று: அசோக்ஸிஸ்ட்ரோபின் (சிஸ்டமிக்). இயற்கை: காப்பர் தெளிப்பு, வேப்பெண்ணெய்.",
+      "treatment": "பாதிக்கப்பட்ட இலைகளை அகற்றி அழிக்கவும், காற்றோட்டத்தை மேம்படுத்தவும், மேல் பாசனத்தை தவிர்க்கவும், ஈரமான காலநிலையில் 7–14 நாள் இடைவெளியில் மருந்து தெளிக்கவும்."
+    },
+    "Black rot": {
+      "_name": "கருப்பு அழுகல்"
+    },
+    "Brown spot": {
+      "_name": "பழுப்பு புள்ளி"
+    },
+    "Gray spot": {},
+    "Healthy": {
+      "_name": "ஆரோக்கியம்"
+    },
+    "Rust": {
+      "_name": "ரஸ்ட்"
+    },
+    "Scab": {
+      "_name": "ஸ்காப்"
+    }
+  },
+  "Banana": {
+    "banana": {
+      "_name": "வாழை நோய்",
+      "recommendation": "பிரச்சனையைப் பொறுத்து: பூஞ்சைக்கு காப்பர் அடிப்படையிலான அல்லது சிஸ்டமிக் பூஞ்சைநாசினி; நூல்புழுவுக்கு வேப்பக்கேக்/கரிம திருத்திகள்; பூச்சிக்காக பாசில்லஸ் துரிஞ்ஜியென்சிஸ் அல்லது ஸ்பினோசாட்.",
+      "treatment": "நல்ல தரமான நட்டு பொருள், நல்ல வடிகால், நோயுற்ற செடிகளை அகற்றல், பயிர் சுழற்சி, மண் ஆரோக்கிய மேம்பாடு மற்றும் வாக்டர் கட்டுப்பாடு பின்பற்றவும்."
+    }
+  },
+  "Bell Pepper / Chili / Pepper": {
+    "Bell Pepper Bacterial Spot": {},
+    "Bell Pepper Healthy": {
+      "_name": "பெல் பெப்பர் ஆரோக்கியம்"
+    },
+    "Chili Leaf Curl": {},
+    "Chili Leaf Spot": {},
+    "Chili Whitefly": {},
+    "Chili Yellowish": {},
+    "Pepper Bell Bacterial Spot": {},
+    "Pepper Bell Healthy": {
+      "_name": "பெப்பர் பெல் ஆரோக்கியம்"
+    }
+  },
+  "Cassava": {
+    "Bacterial blight": {
+      "_name": "பாக்டீரியா இலை எரிச்சல்"
+    },
+    "Brown streak disease": {},
+    "Green mottle": {},
+    "Healthy": {
+      "_name": "ஆரோக்கியம்"
+    },
+    "Mosaic disease": {
+      "_name": "மொசைக் நோய்"
+    }
+  },
+  "Cherry": {
+    "Powdery mildew": {
+      "_name": "தூள் பூஞ்சை"
+    },
+    "Healthy": {
+      "_name": "ஆரோக்கியம்"
+    }
+  },
+  "Coffee": {
+    "Cercospora leaf spot": {},
+    "Red spider mite": {},
+    "Rust": {
+      "_name": "ரஸ்ட்"
+    },
+    "Healthy": {
+      "_name": "ஆரோக்கியம்"
+    }
+  },
+  "Corn / Maize": {
+    "Blight / Northern Leaf Blight": {},
+    "Common Rust": {
+      "_name": "பொதுவான ரஸ்ட்"
+    },
+    "Gray Leaf Spot": {},
+    "Healthy": {
+      "_name": "ஆரோக்கியம்"
+    },
+    "Maize Ear Rot": {},
+    "Maize Fall Armyworm": {},
+    "Maize Stem Borer": {}
+  },
+  "Cotton": {
+    "Aphid": {
+      "_name": "ஆபிட்"
+    },
+    "Bacterial blight": {
+      "_name": "பாக்டீரியா இலை எரிச்சல்"
+    },
+    "Boll rot": {},
+    "Bollworm": {},
+    "Mealy bug": {},
+    "Pink bollworm": {},
+    "Red cotton bug": {},
+    "Thirps": {},
+    "Whitefly": {
+      "_name": "வெள்ளை ஈ"
+    },
+    "Healthy": {
+      "_name": "ஆரோக்கியம்"
+    }
+  },
+  "Cucumber": {
+    "Diseased": {
+      "_name": "நோயுற்றது"
+    },
+    "Healthy": {
+      "_name": "ஆரோக்கியம்"
+    }
+  },
+  "Grape": {
+    "Black measles": {},
+    "Black rot": {
+      "_name": "கருப்பு அழுகல்"
+    },
+    "Esca": {},
+    "Leaf blight (Isariopsis Leaf Spot)": {
+      "_name": "இலை கருகல்"
+    },
+    "Healthy": {
+      "_name": "ஆரோக்கியம்"
+    }
+  },
+  "Lemon": {
+    "Diseased": {
+      "_name": "நோயுற்றது"
+    },
+    "Healthy": {
+      "_name": "ஆரோக்கியம்"
+    }
+  },
+  "Mango": {
+    "Diseased": {
+      "_name": "நோயுற்றது"
+    },
+    "Gall midge": {},
+    "Healthy": {
+      "_name": "ஆரோக்கியம்"
+    },
+    "Powdery mildew": {
+      "_name": "தூள் பூஞ்சை"
+    },
+    "Sooty mould": {}
+  },
+  "Melon / Watermelon": {
+    "Anthracnose": {
+      "_name": "ஆந்த்ராக்னோஸ்"
+    },
+    "Downy mildew": {
+      "_name": "டவுனி மில்டியூ"
+    },
+    "Mosaic virus": {
+      "_name": "மொசைக் வைரஸ்"
+    },
+    "Healthy": {
+      "_name": "ஆரோக்கியம்"
+    }
+  },
+  "Peach": {
+    "Bacterial spot": {},
+    "Healthy": {
+      "_name": "ஆரோக்கியம்"
+    }
+  },
+  "Peanut": {
+    "Early leaf spot": {},
+    "Early rust": {},
+    "Late leaf spot": {},
+    "Nutrition deficiency": {},
+    "Rust": {
+      "_name": "ரஸ்ட்"
+    },
+    "Healthy": {
+      "_name": "ஆரோக்கியம்"
+    }
+  },
+  "Pomegranate": {
+    "Diseased": {
+      "_name": "நோயுற்றது"
+    },
+    "Healthy": {
+      "_name": "ஆரோக்கியம்"
+    }
+  },
+  "Potato": {
+    "Bacterial wilt": {},
+    "Early blight": {
+      "_name": "ஆரம்ப பிளைட்"
+    },
+    "Late blight": {
+      "_name": "தாமத பிளைட்"
+    },
+    "Leafroll virus": {},
+    "Mosaic virus": {
+      "_name": "மொசைக் வைரஸ்"
+    },
+    "Nematode": {},
+    "Phytophthora": {},
+    "Pests": {},
+    "Healthy": {
+      "_name": "ஆரோக்கியம்"
+    }
+  },
+  "Rice": {
+    "Bacterial blight": {
+      "_name": "பாக்டீரியா இலை எரிச்சல்"
+    },
+    "Blast": {},
+    "Brown spot": {
+      "_name": "பழுப்பு புள்ளி"
+    },
+    "Hispa (insect)": {},
+    "Leaf blast": {
+      "_name": "இலை பிளாஸ்ட்"
+    },
+    "Neck blast": {
+      "_name": "கழுத்து பிளாஸ்ட்"
+    },
+    "Tungro": {},
+    "Healthy": {
+      "_name": "ஆரோக்கியம்"
+    }
+  },
+  "Rose": {
+    "Rust": {
+      "_name": "ரஸ்ட்"
+    },
+    "Slug sawfly": {},
+    "Healthy": {
+      "_name": "ஆரோக்கியம்"
+    }
+  },
+  "Sunflower": {
+    "Sunflower": {
+      "_name": "சூரியகாந்தி"
+    }
+  },
+  "Soybean": {
+    "Bacterial blight": {
+      "_name": "பாக்டீரியா இலை எரிச்சல்"
+    },
+    "Caterpillar": {
+      "_name": "புழு"
+    },
+    "Diabrotica speciosa": {},
+    "Downy mildew": {
+      "_name": "டவுனி மில்டியூ"
+    },
+    "Mosaic virus": {
+      "_name": "மொசைக் வைரஸ்"
+    },
+    "Powdery mildew": {
+      "_name": "தூள் பூஞ்சை"
+    },
+    "Rust": {
+      "_name": "ரஸ்ட்"
+    },
+    "Southern blight": {
+      "_name": "தெற்கு பிளைட்"
+    },
+    "Healthy": {
+      "_name": "ஆரோக்கியம்"
+    }
+  },
+  "Strawberry": {
+    "Leaf scorch": {},
+    "Healthy": {
+      "_name": "ஆரோக்கியம்"
+    }
+  },
+  "Sugarcane": {
+    "Bacterial blight": {
+      "_name": "பாக்டீரியா இலை எரிச்சல்"
+    },
+    "Mosaic": {
+      "_name": "மொசைக்"
+    },
+    "Red rot": {},
+    "Red stripe": {},
+    "Rust": {
+      "_name": "ரஸ்ட்"
+    },
+    "Yellow leaf": {},
+    "Healthy": {
+      "_name": "ஆரோக்கியம்"
+    }
+  },
+  "Tea": {
+    "Algal leaf": {},
+    "Anthracnose": {
+      "_name": "ஆந்த்ராக்னோஸ்"
+    },
+    "Bird eye spot": {},
+    "Brown blight": {
+      "_name": "பழுப்பு பிளைட்"
+    },
+    "Red leaf spot": {},
+    "Healthy": {
+      "_name": "ஆரோக்கியம்"
+    }
+  },
+  "Tomato": {
+    "Bacterial spot": {},
+    "Early blight": {
+      "_name": "ஆரம்ப பிளைட்"
+    },
+    "Late blight": {
+      "_name": "தாமதமான பிளைட்"
+    },
+    "Leaf curl": {},
+    "Leaf mold": {},
+    "Mosaic virus": {
+      "_name": "மொசைக் வைரஸ்"
+    },
+    "Septoria leaf spot": {},
+    "Spider mites (Two spotted)": {},
+    "Target spot": {},
+    "Tomato yellow leaf curl virus": {},
+    "Healthy": {
+      "_name": "ஆரோக்கியம்"
+    }
+  },
+  "Wheat": {
+    "Aphid": {
+      "_name": "ஆபிட்"
+    },
+    "Black rust": {
+      "_name": "கருப்பு ரஸ்ட்"
+    },
+    "Brown rust": {
+      "_name": "பழுப்பு ரஸ்ட்"
+    },
+    "Leaf blight": {
+      "_name": "இலை கருகல்"
+    },
+    "Mite": {},
+    "Powdery mildew": {
+      "_name": "தூள் பூஞ்சை"
+    },
+    "Scab": {
+      "_name": "ஸ்காப்"
+    },
+    "Septoria": {},
+    "Stem fly": {
+      "_name": "தண்டு ஈ"
+    },
+    "Yellow rust": {
+      "_name": "மஞ்சள் ரஸ்ட்"
+    },
+    "Healthy": {
+      "_name": "ஆரோக்கியம்"
+    }
+  },
+  "Non-Crop / Wild Plants": {
+    "Bush Clock Vine": {},
+    "Champaka": {},
+    "Common Lantana": {},
+    "Crown Flower": {},
+    "Datura": {},
+    "Four O’ Clock Flower": {},
+    "Hibiscus": {},
+    "Honey Suckle": {},
+    "Indian Mallow": {},
+    "Jatropha": {},
+    "Malabar Melastome": {},
+    "Marigold": {},
+    "Nagapoovu": {},
+    "Nityakalyani": {},
+    "Pinwheel": {},
+    "Spider Lily": {},
+    "Thechi": {},
+    "Thumba": {},
+    "Touch Me Not": {},
+    "Tridax procumbens": {},
+    "Wild Potato Vine": {},
+    "Yellow Daisy": {}
+  },
+  "Guava": {
+    "Fruit fly": {
+      "_name": "பழ ஈ",
+      "recommendation": "ஆண் ஈ அழிப்பு/பெரோமோன் வலைகள், சுகாதாரம் மற்றும் ஈர்ப்பு வலைகள் (ஸ்பினோசாட்) பயன்படுத்தவும்.",
+      "treatment": "வீழ்ந்த பழங்களை சேகரித்து அழிக்கவும், ஈர்ப்பு அல்லது புரத வலைகள் பயன்படுத்தவும், அங்கீகரிக்கப்பட்ட பூச்சிக்கொல்லி அல்லது ஸ்டெரைல் இன்செக்ட் நுட்பம் பயன்படுத்தவும்."
+    }
+  }
+}

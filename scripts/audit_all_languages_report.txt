@@ -1,0 +1,11 @@
+Total translate() keys: 221
+
+[ta] missing: 0
+
+[ml] missing: 0
+
+[kn] missing: 0
+
+[te] missing: 0
+
+[hi] missing: 0

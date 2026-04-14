@@ -8,6 +8,7 @@ node_modules/
 dist/
 web-build/
 expo-env.d.ts
+expo_debug.log
 
 # Native
 .kotlin/
@@ -26,6 +27,27 @@ npm-debug.*
 yarn-debug.*
 yarn-error.*
 
+# generated build outputs
+/build
+
+# Android build artifacts
+android/.gradle/
+android/build/
+android/app/build/
+
+# backend virtual environment
+/backend/venv
+
+# Python cache and env files
+__pycache__/
+*.pyc
+.env
+backend/.env
+
+# Databases and logs
+*.db
+*.log
+
 # macOS
 .DS_Store
 *.pem
@@ -37,7 +59,3 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
-
-# generated native folders
-/ios
-/android

@@ -1,0 +1,392 @@
+{
+  "Apple": {
+    "Alternaria leaf spot": {
+      "_name": "ఆల్టర్నేరియా ఆకు మచ్చ",
+      "recommendation": "ఫంగిసైడ్: మాంకోజెబ్ లేదా క్లోరోథాలోనిల్; ప్రత్యామ్నాయం: అజోక్సిస్ట్రోబిన్ (సిస్టమిక్). సేంద్రియం: కాపర్ స్ప్రేలు, వేపనూనె.",
+      "treatment": "సంక్రమిత ఆకులను తొలగించి నాశనం చేయండి, గాలి ప్రసరణ మెరుగుపరచండి, పై నుంచి నీరు పెట్టడం తగ్గించండి, తడి వాతావరణంలో 7–14 రోజుల వ్యవధిలో స్ప్రే చేయండి."
+    },
+    "Black rot": {
+      "_name": "బ్లాక్ రాట్"
+    },
+    "Brown spot": {
+      "_name": "బ్రౌన్ స్పాట్"
+    },
+    "Gray spot": {},
+    "Healthy": {
+      "_name": "ఆరోగ్యంగా"
+    },
+    "Rust": {
+      "_name": "రస్ట్"
+    },
+    "Scab": {
+      "_name": "స్క్యాబ్"
+    }
+  },
+  "Banana": {
+    "banana": {
+      "_name": "అరటి వ్యాధి",
+      "recommendation": "సమస్యపై ఆధారపడి: ఫంగల్‌కు కాపర్ ఆధారిత లేదా సిస్టమిక్ ఫంగిసైడ్లు; నేమటోడ్లకు వేపకేక్/సేంద్రియ సవరణలు; పురుగులకు Bt లేదా స్పినోసాడ్.",
+      "treatment": "శుభ్రమైన నాటే పదార్థం, మంచి డ్రైనేజ్, రోగగ్రస్త మొక్కల తొలగింపు, పంట మార్పిడి, నేల ఆరోగ్య నిర్వహణ మరియు వెక్టర్ నియంత్రణ పాటించండి."
+    }
+  },
+  "Bell Pepper / Chili / Pepper": {
+    "Bell Pepper Bacterial Spot": {},
+    "Bell Pepper Healthy": {
+      "_name": "బెల్ పెప్పర్ ఆరోగ్యంగా"
+    },
+    "Chili Leaf Curl": {},
+    "Chili Leaf Spot": {},
+    "Chili Whitefly": {},
+    "Chili Yellowish": {},
+    "Pepper Bell Bacterial Spot": {},
+    "Pepper Bell Healthy": {
+      "_name": "పెప్పర్ బెల్ ఆరోగ్యంగా"
+    }
+  },
+  "Cassava": {
+    "Bacterial blight": {
+      "_name": "బాక్టీరియల్ బ్లైట్"
+    },
+    "Brown streak disease": {},
+    "Green mottle": {},
+    "Healthy": {
+      "_name": "ఆరోగ్యంగా"
+    },
+    "Mosaic disease": {
+      "_name": "మొజాయిక్ వ్యాధి"
+    }
+  },
+  "Cherry": {
+    "Powdery mildew": {
+      "_name": "పౌడరీ మిల్డ్యూ"
+    },
+    "Healthy": {
+      "_name": "ఆరోగ్యంగా"
+    }
+  },
+  "Coffee": {
+    "Cercospora leaf spot": {},
+    "Red spider mite": {},
+    "Rust": {
+      "_name": "రస్ట్"
+    },
+    "Healthy": {
+      "_name": "ఆరోగ్యంగా"
+    }
+  },
+  "Corn / Maize": {
+    "Blight / Northern Leaf Blight": {},
+    "Common Rust": {
+      "_name": "సాధారణ రస్ట్"
+    },
+    "Gray Leaf Spot": {},
+    "Healthy": {
+      "_name": "ఆరోగ్యంగా"
+    },
+    "Maize Ear Rot": {},
+    "Maize Fall Armyworm": {},
+    "Maize Stem Borer": {}
+  },
+  "Cotton": {
+    "Aphid": {
+      "_name": "ఏఫిడ్"
+    },
+    "Bacterial blight": {
+      "_name": "బాక్టీరియల్ బ్లైట్"
+    },
+    "Boll rot": {},
+    "Bollworm": {},
+    "Mealy bug": {},
+    "Pink bollworm": {},
+    "Red cotton bug": {},
+    "Thirps": {},
+    "Whitefly": {
+      "_name": "వైట్ ఫ్లై"
+    },
+    "Healthy": {
+      "_name": "ఆరోగ్యంగా"
+    }
+  },
+  "Cucumber": {
+    "Diseased": {
+      "_name": "రోగగ్రస్తం"
+    },
+    "Healthy": {
+      "_name": "ఆరోగ్యంగా"
+    }
+  },
+  "Grape": {
+    "Black measles": {},
+    "Black rot": {
+      "_name": "బ్లాక్ రాట్"
+    },
+    "Esca": {},
+    "Leaf blight (Isariopsis Leaf Spot)": {
+      "_name": "ఆకు బ్లైట్"
+    },
+    "Healthy": {
+      "_name": "ఆరోగ్యంగా"
+    }
+  },
+  "Lemon": {
+    "Diseased": {
+      "_name": "రోగగ్రస్తం"
+    },
+    "Healthy": {
+      "_name": "ఆరోగ్యంగా"
+    }
+  },
+  "Mango": {
+    "Diseased": {
+      "_name": "రోగగ్రస్తం"
+    },
+    "Gall midge": {},
+    "Healthy": {
+      "_name": "ఆరోగ్యంగా"
+    },
+    "Powdery mildew": {
+      "_name": "పౌడరీ మిల్డ్యూ"
+    },
+    "Sooty mould": {}
+  },
+  "Melon / Watermelon": {
+    "Anthracnose": {
+      "_name": "ఆంత్రాక్నోస్"
+    },
+    "Downy mildew": {
+      "_name": "డౌనీ మిల్డ్యూ"
+    },
+    "Mosaic virus": {
+      "_name": "మొజాయిక్ వైరస్"
+    },
+    "Healthy": {
+      "_name": "ఆరోగ్యంగా"
+    }
+  },
+  "Peach": {
+    "Bacterial spot": {},
+    "Healthy": {
+      "_name": "ఆరోగ్యంగా"
+    }
+  },
+  "Peanut": {
+    "Early leaf spot": {},
+    "Early rust": {},
+    "Late leaf spot": {},
+    "Nutrition deficiency": {},
+    "Rust": {
+      "_name": "రస్ట్"
+    },
+    "Healthy": {
+      "_name": "ఆరోగ్యంగా"
+    }
+  },
+  "Pomegranate": {
+    "Diseased": {
+      "_name": "రోగగ్రస్తం"
+    },
+    "Healthy": {
+      "_name": "ఆరోగ్యంగా"
+    }
+  },
+  "Potato": {
+    "Bacterial wilt": {},
+    "Early blight": {
+      "_name": "ఎర్లీ బ్లైట్"
+    },
+    "Late blight": {
+      "_name": "లేట్ బ్లైట్"
+    },
+    "Leafroll virus": {},
+    "Mosaic virus": {
+      "_name": "మొజాయిక్ వైరస్"
+    },
+    "Nematode": {},
+    "Phytophthora": {},
+    "Pests": {},
+    "Healthy": {
+      "_name": "ఆరోగ్యంగా"
+    }
+  },
+  "Rice": {
+    "Bacterial blight": {
+      "_name": "బాక్టీరియల్ బ్లైట్"
+    },
+    "Blast": {},
+    "Brown spot": {
+      "_name": "బ్రౌన్ స్పాట్"
+    },
+    "Hispa (insect)": {},
+    "Leaf blast": {
+      "_name": "ఆకు బ్లాస్ట్"
+    },
+    "Neck blast": {
+      "_name": "నెక్ బ్లాస్ట్"
+    },
+    "Tungro": {},
+    "Healthy": {
+      "_name": "ఆరోగ్యంగా"
+    }
+  },
+  "Rose": {
+    "Rust": {
+      "_name": "రస్ట్"
+    },
+    "Slug sawfly": {},
+    "Healthy": {
+      "_name": "ఆరోగ్యంగా"
+    }
+  },
+  "Sunflower": {
+    "Sunflower": {
+      "_name": "సూర్యకాంతి"
+    }
+  },
+  "Soybean": {
+    "Bacterial blight": {
+      "_name": "బాక్టీరియల్ బ్లైట్"
+    },
+    "Caterpillar": {
+      "_name": "పిల్లిపురుగు"
+    },
+    "Diabrotica speciosa": {},
+    "Downy mildew": {
+      "_name": "డౌనీ మిల్డ్యూ"
+    },
+    "Mosaic virus": {
+      "_name": "మొజాయిక్ వైరస్"
+    },
+    "Powdery mildew": {
+      "_name": "పౌడరీ మిల్డ్యూ"
+    },
+    "Rust": {
+      "_name": "రస్ట్"
+    },
+    "Southern blight": {
+      "_name": "సదర్న్ బ్లైట్"
+    },
+    "Healthy": {
+      "_name": "ఆరోగ్యంగా"
+    }
+  },
+  "Strawberry": {
+    "Leaf scorch": {},
+    "Healthy": {
+      "_name": "ఆరోగ్యంగా"
+    }
+  },
+  "Sugarcane": {
+    "Bacterial blight": {
+      "_name": "బాక్టీరియల్ బ్లైట్"
+    },
+    "Mosaic": {
+      "_name": "మొజాయిక్"
+    },
+    "Red rot": {},
+    "Red stripe": {},
+    "Rust": {
+      "_name": "రస్ట్"
+    },
+    "Yellow leaf": {},
+    "Healthy": {
+      "_name": "ఆరోగ్యంగా"
+    }
+  },
+  "Tea": {
+    "Algal leaf": {},
+    "Anthracnose": {
+      "_name": "ఆంత్రాక్నోస్"
+    },
+    "Bird eye spot": {},
+    "Brown blight": {
+      "_name": "బ్రౌన్ బ్లైట్"
+    },
+    "Red leaf spot": {},
+    "Healthy": {
+      "_name": "ఆరోగ్యంగా"
+    }
+  },
+  "Tomato": {
+    "Bacterial spot": {},
+    "Early blight": {
+      "_name": "ఎర్లీ బ్లైట్"
+    },
+    "Late blight": {
+      "_name": "లేట్ బ్లైట్"
+    },
+    "Leaf curl": {},
+    "Leaf mold": {},
+    "Mosaic virus": {
+      "_name": "మొజాయిక్ వైరస్"
+    },
+    "Septoria leaf spot": {},
+    "Spider mites (Two spotted)": {},
+    "Target spot": {},
+    "Tomato yellow leaf curl virus": {},
+    "Healthy": {
+      "_name": "ఆరోగ్యంగా"
+    }
+  },
+  "Wheat": {
+    "Aphid": {
+      "_name": "ఏఫిడ్"
+    },
+    "Black rust": {
+      "_name": "బ్లాక్ రస్ట్"
+    },
+    "Brown rust": {
+      "_name": "బ్రౌన్ రస్ట్"
+    },
+    "Leaf blight": {
+      "_name": "ఆకు బ్లైట్"
+    },
+    "Mite": {},
+    "Powdery mildew": {
+      "_name": "పౌడరీ మిల్డ్యూ"
+    },
+    "Scab": {
+      "_name": "స్క్యాబ్"
+    },
+    "Septoria": {},
+    "Stem fly": {
+      "_name": "కాండం ఈగ"
+    },
+    "Yellow rust": {
+      "_name": "యెల్లో రస్ట్"
+    },
+    "Healthy": {
+      "_name": "ఆరోగ్యంగా"
+    }
+  },
+  "Non-Crop / Wild Plants": {
+    "Bush Clock Vine": {},
+    "Champaka": {},
+    "Common Lantana": {},
+    "Crown Flower": {},
+    "Datura": {},
+    "Four O’ Clock Flower": {},
+    "Hibiscus": {},
+    "Honey Suckle": {},
+    "Indian Mallow": {},
+    "Jatropha": {},
+    "Malabar Melastome": {},
+    "Marigold": {},
+    "Nagapoovu": {},
+    "Nityakalyani": {},
+    "Pinwheel": {},
+    "Spider Lily": {},
+    "Thechi": {},
+    "Thumba": {},
+    "Touch Me Not": {},
+    "Tridax procumbens": {},
+    "Wild Potato Vine": {},
+    "Yellow Daisy": {}
+  },
+  "Guava": {
+    "Fruit fly": {
+      "_name": "పండ్ల ఈగ",
+      "recommendation": "మేల్ అనిహిలేషన్/ఫెరోమోన్ ట్రాప్స్, శుభ్రత మరియు బెయిట్ ట్రాప్స్ (స్పినోసాడ్) ఉపయోగించండి.",
+      "treatment": "పడిపోయిన పండ్లను సేకరించి నాశనం చేయండి, బెయిట్ లేదా ప్రోటీన్ ట్రాప్స్ వాడండి, అనుమతించిన పురుగుమందులు లేదా స్టెరైల్ ఇన్సెక్ట్ టెక్నిక్ వాడండి."
+    }
+  }
+}

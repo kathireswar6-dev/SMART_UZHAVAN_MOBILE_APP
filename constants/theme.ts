@@ -5,24 +5,24 @@
 
 import { Platform } from 'react-native';
 
-const tintColorLight = '#0a7ea4';
-const tintColorDark = '#fff';
+const tintColorLight = '#1f8a4c';
+const tintColorDark = '#8ee4af';
 
 export const Colors = {
   light: {
-    text: '#11181C',
-    background: '#fff',
+    text: '#0f2418',
+    background: '#f5f8f4',
     tint: tintColorLight,
-    icon: '#687076',
-    tabIconDefault: '#687076',
+    icon: '#245f3d',
+    tabIconDefault: '#7b8a80',
     tabIconSelected: tintColorLight,
   },
   dark: {
-    text: '#ECEDEE',
-    background: '#151718',
+    text: '#e8f5ec',
+    background: '#0f1510',
     tint: tintColorDark,
-    icon: '#9BA1A6',
-    tabIconDefault: '#9BA1A6',
+    icon: '#9adcb6',
+    tabIconDefault: '#6c7a71',
     tabIconSelected: tintColorDark,
   },
 };

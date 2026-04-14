@@ -1,0 +1,4778 @@
+[
+  {
+    "key": "american_bollworm_on_cotton",
+    "common_name": "American bollworm (Helicoverpa armigera) on cotton",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Spinosad (e.g., Saccharopolyspora-based formulations)",
+        "Emamectin benzoate",
+        "Chlorantraniliprole (group 28)",
+        "Indoxacarb",
+        "Lambda-cyhalothrin (pyrethroid) — use only where resistance is known to be low"
+      ],
+      "other_medicines": [
+        "Bacillus thuringiensis (Bt) spray formulations",
+        "Nucleopolyhedrovirus (NPV) bioinsecticides where available",
+        "Neem oil / azadirachtin formulations for repellence and larval development disruption",
+        "Trichogramma egg parasitoids (biological control)",
+        "Pheromone traps for monitoring and mass-trapping"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Control focuses on early detection and targeting young larvae. Chemical insecticides are effective on small larvae but resistance management is critical. Integrated Pest Management (IPM) combines monitoring with biologicals (Bt, NPV), predators/parasitoids, and targeted chemical sprays when thresholds are reached.",
+      "step_by_step": [
+        "Monitor fields weekly — inspect flowers and bolls; use pheromone traps to track male moth flights.",
+        "Determine action threshold (e.g., a set number of larvae per 100 plants or trap catch threshold).",
+        "If threshold exceeded, treat low-instar larvae with selective products: Bt or spinosad for minimal non-target impact.",
+        "If heavy infestation of larger larvae, use systemic/contact insecticides like chlorantraniliprole or emamectin benzoate following label guidance.",
+        "Rotate insecticide modes of action to reduce resistance (avoid repeated use of same group).",
+        "Release Trichogramma in hotspot areas and maintain refuge for natural predators (ladybirds, lacewings).",
+        "Record treatments and monitor for effectiveness — follow up if new outbreaks occur."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Maintain field sanitation: remove and destroy crop residues and infested bolls after harvest to reduce overwintering populations.",
+        "Use pheromone traps for continuous monitoring and to time interventions accurately.",
+        "Plant early/late sowing strategies to avoid peak moth flights where locally recommended.",
+        "Adopt crop rotation and intercropping (e.g., non-host trap crops) to reduce pest build-up.",
+        "Encourage beneficial insects by growing insectary strips (e.g., buckwheat, sunn hemp) and avoiding broad-spectrum insecticides during flowering."
+      ],
+      "points2": [
+        "Implement insecticide resistance management: rotate chemical classes and use biologicals as first line where possible.",
+        "Follow label rates and recommended withholding periods — avoid under-dosing (drives resistance) or overdosing (cost, residues).",
+        "Train field workers to recognize early damage symptoms and scout systematically (random sample of plants, record data).",
+        "Ensure irrigation and nutrition are balanced; stressed plants suffer greater damage and yield loss.",
+        "Coordinate area-wide management with neighboring farms for synchronous control (reduces reinvasion)."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Integrate pheromone-based mating disruption in high-value or seed cotton blocks — reduces mating and long-term population growth.",
+      "Adopt real-time trap data logging (mobile apps) to predict peaks and plan interventions precisely."
+      ],
+      "tips2": [
+        "Consider release of commercially available NPVs targeted to Helicoverpa for organic-compatible, high-specificity control during high-pressure years.",
+        "Use optical/AI scouting (drone or handheld plus model) to detect hotspots for spot-treatment rather than whole-field sprays, saving cost and preserving beneficials."
+      ]
+    }
+  },
+  {
+    "key": "apple_apple_scab",
+    "common_name": "Apple scab (Venturia inaequalis)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Mancozeb (contact protectant) — used pre-infection",
+        "Captan (protectant fungicide)",
+        "Difenoconazole or other triazoles (systemic) for curative action",
+        "Pyraclostrobin or azoxystrobin (QoI fungicides) used in rotation"
+      ],
+      "other_medicines": [
+        "Sulfur sprays (organic option) for mild infections",
+        "Copper-based fungicides (limited use due to phytotoxicity risk)",
+        "Kaput/biological fungicides containing Bacillus subtilis or other antagonist strains",
+        "Cultural sanitation (removal of fallen leaves and mummified fruit) — not a 'medicine' but critical"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Apple scab is primarily managed by protecting foliage during the wet, susceptible period. Preventive protectant sprays timed to leaf emergence and rain events are most effective; systemic fungicides help during established infections. Sanitation breaks the disease cycle.",
+      "step_by_step": [
+        "Rake and remove all fallen leaves and mummified fruit in autumn or use leaf decomposition accelerants (e.g., urea sprays) where appropriate.",
+        "At bud break, apply a protectant fungicide such as mancozeb or captan according to local recommendations.",
+        "Monitor weather and re-apply protectants before/after major rain events during the vulnerable leaf and young fruit stage.",
+        "If scab lesions appear, apply a systemic or translaminar fungicide (e.g., difenoconazole) and alternate chemistry to avoid resistance.",
+        "Continue protective sprays through the critical period (typically until after fruit set and early season depending on region).",
+        "Remove and destroy severely infected shoots and fruit to reduce inoculum."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Choose scab-resistant apple cultivars where possible (varieties labelled as scab-resistant dramatically reduce disease pressure).",
+        "Prune for good air circulation and light penetration to speed leaf drying and reduce favorable high-humidity microclimates.",
+        "Maintain good orchard sanitation: remove leaf litter and mummies to lower overwintering inoculum.",
+        "Implement a calendar of protectant sprays tied to local infection models (many extension services provide scab risk tools)."
+      ],
+      "points2": [
+        "Ensure balanced fertilization — excess nitrogen encourages dense, susceptible foliage.",
+        "Use ground cover or mulching to speed leaf decomposition and prevent spore splash-back from wet leaves.",
+        "Avoid overhead irrigation; if necessary, irrigate early in the day to allow leaves to dry quickly.",
+        "Record fungicide use and rotate modes of action to delay resistance to systemic fungicides."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use disease forecasting models (local extension or online services) that combine leaf wetness and temperature to time sprays precisely and reduce unnecessary applications."
+      ],
+      "tips2": [
+        "Introduce beneficial epiphytic microbes (commercial Bacillus-based products) as part of a spray program to establish a protective microflora on leaves."
+      ]
+    }
+  },
+  {
+    "key": "apple_black_rot",
+    "common_name": "Apple black rot (Botryosphaeria and related fungi)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Tebuconazole or other triazole fungicides for canker and fruit-rot control",
+        "Boscalid + pyraclostrobin mixes (as per label) for fruit protection",
+        "Captan as protectant spray during fruit development"
+      ],
+      "other_medicines": [
+        "Copper formulations for wound protection (limited and careful use)",
+        "Removal of cankered wood and mummified fruit (cultural control)",
+        "Biologicals containing Trichoderma spp. for pruning wound protection"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Black rot manifests as fruit rots and cankers. Management requires removal of infected tissues, protectant sprays during fruit maturation, and chemical treatments for severe outbreaks. Good pruning hygiene is essential to stop spread.",
+      "step_by_step": [
+        "Identify and prune out cankered branches and dead wood — cut well into healthy wood and disinfect tools between cuts.",
+        "Collect and destroy mummified fruits from tree and ground immediately.",
+        "Apply protectant fungicides (captan) during fruit development and switch to systemic fungicides if active infections are observed.",
+        "Treat pruning wounds with appropriate protectants or biological wound protectants where available.",
+        "Sanitize tools and burn or bury infected debris to prevent reinfection."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Inspect orchards regularly for early cankers and fruit lesions; remove infected material promptly.",
+        "Maintain tree vigor with balanced nutrition and irrigation to reduce susceptibility.",
+        "Avoid excessive canopy density; prune to improve airflow and light penetration."
+      ],
+      "points2": [
+        "Sterilize pruning tools between trees in infected orchards to avoid mechanical spread.",
+        "Space trees appropriately and avoid planting into sites with poor drainage or heavy inoculum from prior infections."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "After heavy rains or storms, do a focused inspection and remove any wounded or damaged tissue quickly — wounds are infection courts for black rot."
+      ],
+      "tips2": [
+        "Combine biological wound protectants (Trichoderma) with minimal protective fungicide where label permits to reduce chemical reliance and support long-term disease suppression."
+      ]
+    }
+  },
+  {
+    "key": "apple_cedar_apple_rust",
+    "common_name": "Cedar-apple rust (Gymnosporangium juniperi-virginianae)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Myclobutanil or propiconazole (systemic triazoles) timed during the spring infection period",
+        "Protectants like mancozeb may reduce initial infections"
+      ],
+      "other_medicines": [
+        "Prune out heavily infected lashes and remove nearby alternate hosts (junipers/cupressaceae) if feasible",
+        "Resistant cultivars exist and are the most effective non-chemical measure"
+      ]
+    },
+    "how_to_treat": {
+      "description": "The fungus requires both juniper (cedar) and apple/related hosts to complete its lifecycle. Management is through removing/isolating alternate hosts, protecting apple trees during spore-release windows, and using systemic fungicides at critical times.",
+      "step_by_step": [
+        "Locate and identify nearby junipers or alternate hosts that may harbor the fungus during winter.",
+        "If possible, remove or trim junipers within a few hundred meters of orchards; alternatively, create buffer zones.",
+        "Apply protectant fungicides on apple trees at green-tip to petal-fall stages timed to predicted spore release from junipers.",
+        "If infections appear, apply a systemic fungicide and repeat according to label intervals.",
+        "Plant resistant apple varieties when establishing new blocks to reduce long-term risk."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Map and manage alternate hosts in the landscape — even ornamental cedars in nearby gardens can sustain the disease.",
+        "Avoid planting susceptible apple cultivars adjacent to hedges of junipers."
+      ],
+      "points2": [
+        "Time fungicide sprays to coincide with known spore-release periods (spring rains/wet spells).",
+        "Train staff to recognize early orange gelatinous telial horns on junipers in spring (indicator for imminent spore release)."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Coordinate with neighbors/municipal authorities to manage ornamental junipers in the surrounding area if public plantings are a source of inoculum."
+      ],
+      "tips2": [
+        "Use ‘trap’ monitoring — inspect junipers for telia formation and use that data to precisely time protective sprays on apples, reducing unnecessary applications."
+      ]
+    }
+  },
+  {
+    "key": "army_worm",
+    "common_name": "Armyworm (Spodoptera spp.)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Spinosad (selective and effective on larvae)",
+        "Emamectin benzoate",
+        "Chlorantraniliprole",
+        "Alpha-cypermethrin or lambda-cyhalothrin for heavy, rapid knockdown (careful — non-selective)"
+      ],
+      "other_medicines": [
+        "Bacillus thuringiensis (effective on early instars)",
+        "Nomuraea rileyi (entomopathogenic fungus) and NPV biopesticides where available",
+        "Encourage natural enemies (parasitoid wasps, birds) and use light/pheromone traps for monitoring"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Armyworms can cause rapid defoliation. Early detection and quick response are essential — target small larvae with selective bioinsecticides; reserve broad-spectrum chemicals for large outbreaks and only where necessary to protect beneficials.",
+      "step_by_step": [
+        "Scout fields daily when moth flights are detected; focus on margins and young plants.",
+        "If small larvae dominate, apply Bt or spinosad for good control with minimal beneficial impact.",
+        "For heavy infestations of larger larvae, use chlorantraniliprole or emamectin benzoate following label rates.",
+        "Spot-spray hotspots rather than blanket-spraying entire fields where practical.",
+        "After control, maintain monitoring for late-emerging cohorts and treat if thresholds are again exceeded."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Maintain weed-free field margins — many armyworm species breed on grasses and weeds which act as refuges.",
+        "Use light traps or pheromone traps to monitor adult moth flights and predict larval outbreaks."
+      ],
+      "points2": [
+        "Encourage and conserve natural enemies by avoiding untargeted pyrethroid use during peak predator activity periods.",
+        "Stagger plantings or use synchronous planting at landscape scale to reduce continuous availability of preferred hosts."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use predictive models tied to trap catches and degree-day accumulation to anticipate outbreaks and preemptively treat only where necessary."
+      ],
+      "tips2": [
+        "In high-value crops, integrate banker plants or augmentative releases of parasitoids (e.g., Trichogramma) timed to egg-laying peaks for sustained suppression."
+      ]
+    }
+  },
+  {
+    "key": "bacterial_blight_rice",
+    "common_name": "Bacterial blight of rice (Xanthomonas oryzae pv. oryzae)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "No curative chemical 'antibiotic' widely recommended for field use in many countries; copper-based bactericides (e.g., copper hydroxide) are used as protectants but have limited efficacy.",
+        "Certain systemic plant defense inducers (e.g., acibenzolar-S-methyl) used in some programs to boost resistance."
+      ],
+      "other_medicines": [
+        "Resistant varieties (the single most effective measure)",
+        "Seed treatments with antagonistic bacteria/fungi (Bacillus spp.) and good seed health management",
+        "Implementing cultural controls — optimal spacing, balanced fertilization"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Because bacterial blight is systemic and difficult to cure once established, management focuses on prevention: using resistant varieties, clean seed, and cultural measures. Chemical bactericides give only partial control and should be used as part of an integrated program.",
+      "step_by_step": [
+        "Select and plant rice cultivars with known resistance genes (locally recommended resistant varieties).",
+        "Use certified disease-free seed and treat seed where appropriate.",
+        "Avoid excessive nitrogen fertilization which favors severe epidemics — follow recommended N regimes and timing.",
+        "Implement proper water management (avoid prolonged leaf wetness and excessive standing water during vulnerable stages if feasible).",
+        "If local guidelines recommend copper sprays or SAR inducers, apply them as protectants early in the disease window; consult local extension for approved products and timing.",
+        "Rogue out heavily infected plants in nurseries to limit spread."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Use resistant cultivars as the primary strategy — stack resistance genes where possible for durable control.",
+        "Strictly practice seed health management: certified seed, hot-water seed treatments if recommended locally, and avoid transplanting infected seedlings."
+      ],
+      "points2": [
+        "Manage nitrogen carefully — split applications and avoid excessive pre-heading N to reduce susceptibility.",
+        "Maintain field hygiene and minimize equipment movement between infected and clean fields without sanitation."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Collaborate with local breeding programs to adopt new resistant lines adapted to your area — combining resistance genes reduces risk of breakdown."
+      ],
+      "tips2": [
+        "Use pathogen monitoring (strain typing where available) to know which resistance genes are effective locally and adapt variety choice accordingly."
+      ]
+    }
+  },
+  {
+    "key": "bean_angular_leaf_spot",
+    "common_name": "Bean angular leaf spot (Pseudocercospora spp./Phaeoisariopsis?)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Protectant fungicides such as mancozeb or chlorothalonil for leaf-spot control",
+        "Systemic fungicides (triazoles like tebuconazole) in severe cases"
+      ],
+      "other_medicines": [
+        "Seed treatment with Trichoderma or Pseudomonas antagonist strains",
+        "Crop rotation and removal of volunteer beans and residue",
+        "Use of resistant/tolerant cultivars where available"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Angular leaf spot spreads rapidly under warm, humid conditions. Timely protectant sprays and good sanitation minimize yield loss. Seed and residue management reduce initial inoculum.",
+      "step_by_step": [
+        "Use disease-free seed and treat seed with biologicals or recommended fungicide seed dressings.",
+        "Apply protectant fungicides at first sign of disease or when weather favors disease (frequent rains/high humidity).",
+        "Use systemic fungicides if disease is widespread, alternating modes of action to avoid resistance.",
+        "Remove infected crop residue and avoid planting beans in the same field consecutively.",
+        "Maintain adequate plant spacing for airflow and reduce canopy humidity."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Rotate with non-host crops (e.g., cereals) for at least one season to reduce pathogen carryover.",
+        "Use raised beds and adequate spacing to improve drainage and reduce leaf wetness duration."
+      ],
+      "points2": [
+        "Avoid late-season dense foliage through pruning or thinning where applicable to reduce humid microclimates.",
+        "Sanitize seed sources and inspect seed lots for symptoms before planting."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Adopt on-farm seed multiplication under strict sanitation to ensure an ongoing supply of clean seed for subsequent seasons."
+      ],
+      "tips2": [
+        "Combine foliar biological fungicides with protectants on a rotation schedule to maintain efficacy and support beneficial phyllosphere microbes."
+      ]
+    }
+  },
+  {
+    "key": "bean_rust",
+    "common_name": "Bean rust (Uromyces appendiculatus)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Protectant fungicides such as chlorothalonil or mancozeb",
+        "Systemic fungicides (e.g., triazoles) for severe infections"
+      ],
+      "other_medicines": [
+        "Resistant bean varieties where available",
+        "Cultural measures: sanitation and crop rotation"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Rust on beans shows as pustules and can reduce photosynthetic area. Control relies on resistant cultivars and timely protectant fungicides; systemic fungicides can limit spread in severe outbreaks.",
+      "step_by_step": [
+        "Plant resistant/tolerant cultivars when possible.",
+        "Apply protectant fungicides before conditions that favor rust (damp, cool-moderate weather).",
+        "If pustules are widespread, apply systemic fungicides and follow up with protectants.",
+        "Remove heavily infected plants to reduce spore load if practical in small plantings."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Avoid overhead irrigation late in the day and schedule watering early to allow leaves to dry.",
+        "Rotate with non-host crops to reduce pathogen build-up in soil and residue."
+      ],
+      "points2": [
+        "Avoid overcrowding and maintain good ventilation in beds/rows.",
+        "Monitor for early pustules; early intervention reduces need for repeated sprays."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Implement varietal blends (mixing resistant and tolerant lines) to reduce epidemic development at smallholder scale."
+      ],
+      "tips2": [
+        "Use sentinel plots at field margins to give early warning of rust build-up in the area and time sprays regionally."
+      ]
+    }
+  },
+  {
+    "key": "bell_pepper_bacterial_spot",
+    "common_name": "Bell pepper bacterial spot (Xanthomonas euvesicatoria / X. campestris)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Copper-based bactericides (copper hydroxide or copper oxychloride) — protectant effect",
+        "Combination copper + mancozeb products in some regions for enhanced protection"
+      ],
+      "other_medicines": [
+        "Use of disease-free transplants and seed treatments",
+        "Biological antagonists (Bacillus subtilis products) for suppression",
+        "Resistant varieties if available"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Bacterial spot is best managed preventively. Copper sprays help reduce disease spread; however, bacteria may develop copper tolerance. Integrated measures — clean seed, resistant varieties, and sanitation — are essential.",
+      "step_by_step": [
+        "Grow or buy certified disease-free transplants; inspect seedlings before transplanting.",
+        "Apply copper sprays as protectants at the first sign of wet weather or when disease is known in the area.",
+        "Alternate copper with biological products to reduce selection for copper-tolerant strains.",
+        "Remove severely infected plants and avoid working in the field when foliage is wet to minimize mechanical spread."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Sanitize tools and hands between blocks to reduce mechanical transfer of bacteria.",
+        "Avoid overhead irrigation or irrigate early so foliage dries quickly."
+      ],
+      "points2": [
+        "Rogue infected transplants immediately; do not move suspect plants between greenhouses.",
+        "Use mulch or plastic film to reduce soil splash onto lower leaves which can carry bacteria."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Implement periodic pathogen monitoring for copper tolerance; if present, shift strategy to stronger emphasis on biologicals and cultural practices."
+      ],
+      "tips2": [
+        "Use grafting onto tolerant rootstocks (where available) for high-value pepper production to reduce foliar disease impact and increase yield stability."
+      ]
+    }
+  },
+  {
+    "key": "brownspot",
+    "common_name": "Brown spot (general name — context-dependent; commonly rice/broadleaf brown spots)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "For rice brown spot: copper oxychloride or mancozeb as protectants",
+        "Triazole fungicides (tebuconazole) where label permits for systemic control"
+      ],
+      "other_medicines": [
+        "Balanced fertilization (preventive cultural measure)",
+        "Seed treatments with Trichoderma or other antagonists",
+        "Resistant varieties where available"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Brown spot diseases vary by host; general approach is protectant fungicides, seed treatments, and cultural measures to improve plant vigor. Critical to identify the host crop and pathogen for precise selection of chemical controls.",
+      "step_by_step": [
+        "Confirm pathogen identity (if possible) — brown spot on rice vs. broadleaf differ in optimal control.",
+        "Use disease-free seed and apply recommended seed treatments.",
+        "Apply protectant fungicides during periods of high humidity or when symptoms first appear.",
+        "Adjust fertilization (avoid potassium/micronutrient deficiencies) and improve drainage where waterlogging contributes to disease."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Maintain healthy, vigorous plants through balanced nutrient management; stressed plants show worse brown spot severity.",
+        "Use crop rotation to reduce pathogen carryover in many cases."
+      ],
+      "points2": [
+        "Improve field drainage and reduce prolonged leaf wetness; avoid dense canopies that trap humidity.",
+        "Sanitize seed and debris to lower primary inoculum for subsequent seasons."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Map nutrient status periodically (leaf tissue testing) to identify and correct deficiencies that predispose to brown spot outbreaks."
+      ],
+      "tips2": [
+        "Use integrated seed systems (on-farm certified seed protocol) to maintain clean seed stock and reduce brown spot introduction."
+      ]
+    }
+  },
+  {
+    "key": "cherry_powdery_mildew",
+    "common_name": "Cherry powdery mildew (Erysiphe spp.)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Sulfur (wettable sulfur sprays) — effective protectant",
+        "Myclobutanil or tebuconazole (triazoles) — systemic/curative action",
+        "Triadimefon or trifloxystrobin (as per local label and resistance guidelines)"
+      ],
+      "other_medicines": [
+        "Potassium bicarbonate sprays (organic option, contact effect)",
+        "Biologicals containing Bacillus subtilis for suppression",
+        "Pruning and canopy management to reduce humidity"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Powdery mildew thrives in warm, dry days with cool nights and high humidity. Management emphasizes early fungicide sprays at first sign or during susceptible growth stages plus cultural measures to improve airflow and reduce inoculum.",
+      "step_by_step": [
+        "Scout for the white powdery mycelium on young leaves, shoots and fruitlets during spring-summer.",
+        "Apply a protectant sulfur spray at first detection and repeat at label intervals while conditions remain favorable.",
+        "If lesions are established, use a systemic fungicide (triazole) for curative action; rotate chemistry to avoid resistance.",
+        "Prune to open canopy, remove infected shoots and destroy prunings away from orchard.",
+        "Maintain good nutrition, avoiding excessive nitrogen that encourages succulent growth favored by mildew."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Prune trees to improve light penetration and air movement, reducing favorable microclimates for powdery mildew.",
+        "Avoid excessive high-nitrogen fertilizers; apply balanced nutrition to reduce overly succulent growth."
+      ],
+      "points2": [
+        "Use sulfur or biological protectants during repeated-risk periods and rotate with systemic fungicides to prevent resistance.",
+        "Remove and destroy heavily infected debris and shoots to lower overwintering inoculum."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Apply anti-sporulant biologicals (Bacillus-based) as part of an alternating spray program to support long-term suppression and protect beneficials."
+      ],
+      "tips2": [
+        "Monitor microclimate (leaf wetness/relative humidity) inside canopy with low-cost sensors to time preventative sprays precisely and reduce unnecessary treatments."
+      ]
+    }
+  },
+  {
+    "key": "chilli__damping_off",
+    "common_name": "Chilli damping-off (soilborne fungi: Pythium, Rhizoctonia, Fusarium, etc.)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Seed treatments with metalaxyl-M (for Pythium) or thiram/carboxin (as per local approvals)",
+        "Soil drenches with azoxystrobin + difenoconazole or prochloraz in nursery management where permitted"
+      ],
+      "other_medicines": [
+        "Use of Trichoderma-based biocontrols in soil or as seed treatment",
+        "Sterile or pasteurized potting mix, good nursery hygiene",
+        "Hot-water treatment of seed (where appropriate) and certified pathogen-free seed"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Damping-off affects seedlings and is often catastrophic in nurseries. Prevention (clean media, seed treatment, and sanitation) is the cornerstone. Chemical drenches can suppress outbreaks but must be applied early.",
+      "step_by_step": [
+        "Use certified disease-free seed and treat seed with recommended fungicidal/bio seed treatments before sowing.",
+        "Prepare sterile or well-drained growing media; avoid re-using contaminated soil.",
+        "Ensure benches/trays have excellent drainage; avoid overwatering and water from below where possible.",
+        "If damping-off appears, remove and destroy affected trays, apply appropriate soil drench in adjacent trays and adjust watering/nursery sanitation.",
+        "Introduce Trichoderma or other antagonists in substrate as long-term preventive measure."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Maintain nursery hygiene: sanitize trays, tools, benches and use clean water sources for irrigation.",
+        "Avoid overcrowding of seedlings; provide ventilation and gentle air movement to reduce humidity."
+      ],
+      "points2": [
+        "Use properly composted/sterile potting mixes and avoid high organic loads that favor pathogenic oomycetes.",
+        "Rotate substrate sources and avoid reusing old potting soil without pasteurization or composting."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Incorporate biological consortia (Trichoderma + Bacillus spp.) into potting mixes as a long-term suppressive approach rather than relying solely on chemical drenches."
+      ],
+      "tips2": [
+        "Monitor nursery temperature and moisture closely; automated bottom-watering with moisture sensors reduces overwatering risks that fuel damping-off."
+      ]
+    }
+  },
+  {
+    "key": "chilli_anthracnose",
+    "common_name": "Chilli anthracnose (Colletotrichum spp.)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Protectant fungicides: mancozeb or chlorothalonil during pre-harvest fruit development",
+        "Systemic fungicides: carbendazim (where allowed) or azoxystrobin/thiophanate-methyl in rotation for control of active infections"
+      ],
+      "other_medicines": [
+        "Hot-water seed treatment and seed certification to reduce seedborne inoculum",
+        "Biologicals such as Bacillus subtilis or Trichoderma formulations for suppressive spray programs",
+        "Post-harvest sanitation and careful handling to reduce fruit rots"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Anthracnose infects fruit and causes significant post-harvest losses. Managing inoculum from seed, residue, and infected fruit plus timely protectant sprays during wet seasons is essential. Post-harvest handling reduces rot development.",
+      "step_by_step": [
+        "Use certified disease-free seed or treat seed with hot water / appropriate seed treatment to reduce seedborne Colletotrichum.",
+        "Apply protectant fungicides during flowering and fruit set and continue at intervals during rainy periods.",
+        "If fruit infections appear, use systemic fungicides according to label and rotate modes of action.",
+        "Practice strict field sanitation: remove mummified fruit, avoid fruit-to-fruit contact, and ensure good field drainage.",
+        "Handle harvested fruit carefully, cool quickly and avoid bruising which predisposes to post-harvest rot."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Avoid overhead irrigation during fruit ripening; if necessary irrigate early so fruit dries quickly.",
+        "Plant in well-drained sites and maintain good plant spacing for air flow."
+      ],
+      "points2": [
+        "Sanitize harvest containers and transport to prevent cross-contamination of healthy fruit.",
+        "Rotate with non-host crops and remove volunteers to lower field inoculum."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Adopt integrated pre- and post-harvest programs: field sprays combined with rapid post-harvest cooling to cut losses from anthracnose."
+      ],
+      "tips2": [
+        "Use cultivar selection — choose capsicum varieties with known field tolerance to Colletotrichum where available."
+      ]
+    }
+  },
+  {
+    "key": "chilli_healthy",
+    "common_name": "Chilli healthy (no disease)",
+    "recommended_medicine": {
+      "chemical_drugs": [],
+      "other_medicines": [
+        "Preventive foliar nutrition and biostimulants to maintain plant vigor",
+        "Routine monitoring and use of low-impact biologicals for phyllosphere protection"
+      ]
+    },
+    "how_to_treat": {
+      "description": "No treatment required. Emphasis should be on maintaining plant health to prevent disease introduction and on regular scouting to detect early problems.",
+      "step_by_step": [
+        "Maintain recommended fertilization and irrigation schedules.",
+        "Scout regularly for pests and diseases; act promptly on early signs.",
+        "Use cover crops, organic matter and beneficial microbes to maintain soil health.",
+        "Sanitize tools and limit movement from other fields to prevent pathogen introduction."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Adopt integrated pest and disease management practices even when plants are healthy to prolong disease-free status.",
+        "Use mulches and drip irrigation to reduce leaf wetness and soil splash."
+      ],
+      "points2": [
+        "Keep records of crop performance, inputs and pest/disease observations to spot trends early.",
+        "Implement border monitoring (sentinel rows) to detect incoming threats from nearby fields."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use weekly low-dose biological foliar sprays (Bacillus/Beneficial consortia) as a protective microbiome reinforcement strategy."
+      ],
+      "tips2": [
+        "Apply precision nutrition (foliar micro-nutrients based on tissue tests) to keep plants resilient against episodic stress that can trigger disease."
+      ]
+    }
+  },
+  {
+    "key": "chilli_leaf_curl",
+    "common_name": "Chilli leaf curl (Tomato/Chilli leaf curl virus complex transmitted by whitefly)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "No direct antiviral chemical; control focuses on vector control using systemic/insecticidal options like imidacloprid (seedling treatment) and insect growth regulators or neonicotinoids where allowed",
+        "Use of contact insecticides (pyrethroids) may reduce whitefly briefly but monitor resistance"
+      ],
+      "other_medicines": [
+        "Remove and destroy infected plants to reduce virus source",
+        "Use of reflective mulches and yellow sticky traps to reduce whitefly landing",
+        "Resistant/tolerant varieties and grafting onto tolerant rootstocks where available"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Leaf curl is viral — incurable once systemically infected. Management targets prevention: vector (whitefly) suppression, use of clean transplants, and removal of infected plants to limit virus spread.",
+      "step_by_step": [
+        "Use virus-free transplants and install physical barriers (nets) in nurseries where feasible.",
+        "Treat seedlings with systemic insecticide seedling treatments per label to protect them from early whitefly attack.",
+        "Deploy yellow sticky traps and reflective mulches to deter and monitor whitefly populations.",
+        "Rogue out infected plants immediately and destroy them (do not compost) to remove virus reservoirs.",
+        "Coordinate whitefly management with surrounding growers to lower regional vector pressure."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Maintain strict nursery hygiene and isolate new transplants until inspected for symptoms.",
+        "Avoid planting during peak whitefly seasons when possible; consider staggered planting to avoid vulnerable windows."
+      ],
+      "points2": [
+        "Encourage natural enemies of whitefly (ladybirds, lacewings) by planting insectary strips and reducing broad-spectrum insecticide use.",
+        "Implement physical exclusion (fine-mesh netting) for high-value protected crops."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use area-wide integrated whitefly management combining reflective mulches, sticky traps, biological control and targeted insecticide rotations to keep vector pressure low."
+      ],
+      "tips2": [
+        "Apply RNAi- or cross-protection-based technologies only where proven and permitted (research-stage in many regions); consult local authorities and experts before use."
+      ]
+    }
+  },
+  {
+    "key": "chilli_leaf_spot",
+    "common_name": "Chilli leaf spot (various pathogens including Alternaria, Cercospora, Colletotrichum)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Protectants: mancozeb or chlorothalonil during wet seasons",
+        "Systemics: azoxystrobin or tebuconazole in rotation for active outbreaks"
+      ],
+      "other_medicines": [
+        "Biological fungicides (Bacillus, Trichoderma) as alternates",
+        "Use of clean seed and seed treatments to reduce seedborne pathogens"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Leaf spot control uses protectant fungicides and cultural measures to reduce humidity and inoculum. Identify the causal genus if possible to pick the most effective systemic fungicide.",
+      "step_by_step": [
+        "Inspect plants early in the season for small spots; implement protectant sprays when rainy/humid conditions begin.",
+        "Rotate systemic fungicides with different modes of action to avoid resistance.",
+        "Remove heavily infected lower leaves and avoid practices that splash soil onto foliage.",
+        "Ensure good fertility and watering practices to reduce plant stress."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Do not let plant canopies become overly dense; prune or thin to promote airflow.",
+        "Use drip irrigation to avoid leaf wetting."
+      ],
+      "points2": [
+        "Avoid late-season irrigation that keeps leaves wet overnight and increases disease spread.",
+        "Sanitize stakes, trellises and tools between seasons to reduce carryover."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use integrated spray programs combining low-toxicity biologicals and infrequent systemic applications to preserve efficacy and reduce residues."
+      ],
+      "tips2": [
+        "Adopt cultivar selection and local adaptation trials to find varieties with better leaf-spot tolerance under your microclimate."
+      ]
+    }
+  },
+  {
+    "key": "chilli_mottle",
+    "common_name": "Chilli mottle (could indicate viral or nutrient disorder — e.g., mosaic/mottle viruses)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "No chemical cure for viral causes; manage vectors (aphids, whiteflies) with registered insecticides if necessary"
+      ],
+      "other_medicines": [
+        "Remove and destroy infected plants (if viral) to prevent spread",
+        "Ensure balanced micronutrient regime to rule out nutritional mottle (soil test guided)"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Mottle symptoms can arise from viruses (mosaic/mottle viruses) or from nutrient imbalances. Correct diagnosis is critical. Viral infections are managed by vector control and plant removal; nutrient causes are corrected with targeted fertilization.",
+      "step_by_step": [
+        "Diagnose cause: send samples to extension lab or compare pattern — mosaic/vein clearing suggests virus; uniform chlorosis/mottling suggests nutrient deficiency.",
+        "If viral, rogue infected plants, control vectors with integrated measures (biocontrols, selective insecticides) and use virus-free seed/transplants.",
+        "If nutritional, perform soil and tissue tests and apply targeted fertilization (e.g., magnesium, manganese, zinc) according to recommendations.",
+        "Implement crop hygiene and avoid moving sap-contaminated tools between plants."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Use certified virus-free seed and resistant varieties where available.",
+        "Monitor and control common vectors using cultural (reflective mulches, intercropping) and biological measures."
+      ],
+      "points2": [
+        "Maintain good soil fertility and pH to prevent nutrient imbalances that mimic disease symptoms.",
+        "Keep records of symptoms and management actions to identify recurrent problems early."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "If viral, implement an area-wide virus management plan with neighboring farms because viruses and vectors move across properties rapidly."
+      ],
+      "tips2": [
+        "Use rapid on-farm diagnostic kits or send samples to labs for precise virus identification when mottle appears in multiple fields to guide long-term strategy."
+      ]
+    }
+  },
+  {
+    "key": "chilli_whitefly",
+    "common_name": "Chilli whitefly (Bemisia tabaci and related species)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Neonicotinoids (e.g., imidacloprid) as seedling/young-plant protection where permitted",
+        "Insect growth regulators (pyriproxyfen) and selective insecticides like spiromesifen/ spirotetramat for sap-feeders",
+        "Avoid sole reliance on pyrethroids due to resistance and non-target effects"
+      ],
+      "other_medicines": [
+        "Encarsia formosa and other parasitoids (biological control) in protected or greenhouse production",
+        "Yellow sticky traps for monitoring and mass-trapping",
+        "Reflective mulches to deter landing"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Whitefly populations can explode and spread viruses (leaf curl, mosaic). IPM focusing on monitoring, biologicals, cultural deterrents and targeted insecticide rotations is most effective. Preserve natural enemies where possible.",
+      "step_by_step": [
+        "Monitor using yellow sticky traps and regular leaf inspections for nymphs on undersides of leaves.",
+        "If low levels, augment natural enemies and apply selective insecticides (spiromesifen, spirotetramat) timed to nymphal stages for best effect.",
+        "Use seedling treatments (systemic) for high-value transplants but rotate actives to delay resistance.",
+        "Implement physical deterrents: reflective mulch, insect-proof netting in nurseries, and removal of alternate host weeds.",
+        "Record treatments and evaluate whitefly population response to adjust strategy."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Maintain weed-free surroundings; many weeds harbor whiteflies and act as refuges.",
+        "Establish insectary strips to attract and keep natural enemies in the landscape."
+      ],
+      "points2": [
+        "Avoid broad-spectrum insecticide sprays during bloom or when beneficials are active; target sprays at peak nymphal vulnerability.",
+        "Coordinate regional whitefly management with neighboring farms to reduce reinfestation."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use biological control augmentations (Encarsia, Eretmocerus) combined with banker plants in protected culture for sustainable suppression."
+      ],
+      "tips2": [
+        "Apply precision release of parasitoids tied to trap counts and use sticky-trap networks with mobile logging to guide release timing."
+      ]
+    }
+  },
+  {
+    "key": "chilli_yellowish",
+    "common_name": "Chilli yellowing (non-specific; could be nutrient deficiency, viral disease, or physiological stress)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "If vector-borne virus suspected, control vectors with appropriate insecticides (see whitefly/aphid measures)",
+        "No chemical cures for viral causes; focus on vector and cultural management"
+      ],
+      "other_medicines": [
+        "Corrective nutrient applications (nitrogen, magnesium, iron, zinc) based on soil/tissue tests",
+        "Improve irrigation and drainage to avoid waterlogging or drought stress"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Yellowing is a symptom with many causes. Diagnosis (tissue tests, visual pattern, lab assays) is key. Treat nutrient imbalances, root problems, or control vectors depending on diagnosis.",
+      "step_by_step": [
+        "Inspect pattern of yellowing: interveinal, marginal, uniform or mosaic — this helps narrow nutrient vs viral vs root disorder causes.",
+        "Take soil and leaf tissue samples for lab analysis if pattern unclear.",
+        "Correct identified nutrient deficiencies with foliar or soil-applied fertilizers as recommended.",
+        "If root rot or water-stress is the cause, improve drainage or irrigation scheduling and treat soils accordingly.",
+        "If viral, rogue infected plants and control vectors; replace with healthy transplants."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Follow regular soil testing and tissue analysis schedules and base fertilizer programs on data.",
+        "Avoid extremes of watering — maintain consistent moisture appropriate for pepper growth stage."
+      ],
+      "points2": [
+        "Use balanced organic matter additions to improve root health and nutrient availability long-term.",
+        "Maintain healthy crop rotations to reduce root pathogen pressure that causes yellowing."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Implement routine foliar micro-nutrient sprays (based on tissue tests) rather than blanket feeding — targeted correction prevents chronic yellowing issues."
+      ],
+      "tips2": [
+        "Use rhizosphere inoculants (mycorrhizae, beneficial bacteria) in new plantings to improve root health and nutrient uptake, reducing yellowing due to minor deficiencies."
+      ]
+    }
+  },
+  {
+    "key": "common_rust",
+    "common_name": "Common rust (Puccinia spp. — host-dependent, often maize/common cereals)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Protectant fungicides: mancozeb or chlorothalonil for early-scheduled protection",
+        "Systemic fungicides: azoxystrobin or propiconazole for curative activity on cereals/maize"
+      ],
+      "other_medicines": [
+        "Use of resistant cultivars and tolerant hybrids",
+        "Crop rotation and residue management to reduce inoculum"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Rust diseases produce pustules and can reduce yield when infections occur early and are severe. Resistant varieties are a primary defense; timely fungicide sprays can protect yield during susceptible stages.",
+      "step_by_step": [
+        "Plant rust-tolerant/resistant varieties where available and suited to your area.",
+        "Monitor fields during humid weather for early pustules and flag leaf infections.",
+        "Apply fungicides at recommended growth stages if disease pressure is moderate to high, focusing on protecting the canopy and grain-filling leaves.",
+        "Manage residues and volunteer hosts that can maintain rust inoculum between seasons."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Rotate cereal crops with non-host crops to reduce carryover of urediniospores in crop residues.",
+        "Implement residue management (incorporation or residue removal) where feasible to reduce local inoculum sources."
+      ],
+      "points2": [
+        "Avoid high-density planting that increases humidity within the canopy and promotes rust development.",
+        "Coordinate regional surveillance for rust outbreaks to time preventive measures collectively."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use varietal diversification (blend of hybrids) to reduce risk of severe rust epidemics that can overcome single-variety resistance."
+      ],
+      "tips2": [
+        "Deploy sentinel plots and rapid-scoring networks for early detection and community-level response to rust outbreaks."
+      ]
+    }
+  },
+  {
+    "key": "corn_cercospora_leaf_spot",
+    "common_name": "Corn Cercospora Leaf Spot (Gray Leaf Spot precursor in some regions)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "QoI fungicides (Azoxystrobin, Pyraclostrobin) as protectants",
+        "DMI fungicides (Propiconazole, Tebuconazole) for curative action",
+        "SDHI fungicides (Fluxapyroxad) in combination products"
+      ],
+      "other_medicines": [
+        "Resistant/tolerant hybrids",
+        "Crop residue management — destroy or bury infected leaves",
+        "Good crop rotation with non-hosts (soybean, pulses)"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Cercospora leaf spot thrives in warm, humid climates. Management involves resistant hybrids, canopy ventilation, and timely fungicide applications at V8–VT stages to protect top leaves responsible for grain filling.",
+      "step_by_step": [
+        "Scout for narrow, elongated, gray-tan lesions early in growth stages.",
+        "Apply protectant fungicides at V8–VT when climatic risk is high.",
+        "Rotate chemistries (QoI → DMI → SDHI) to delay resistance.",
+        "Remove corn residues or incorporate them deeply after harvest.",
+        "Use hybrids with known tolerance to Cercospora."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Use wide rotations (2–3 years) with non-host crops to reduce pathogen carryover.",
+        "Avoid excessive irrigation; design fields for better airflow."
+      ],
+      "points2": [
+        "Perform residue shredding or mulching to enhance decomposition.",
+        "Monitor regional alerts for Cercospora outbreaks to time sprays effectively."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use aerial/drone surveillance to identify hotspot zones and perform targeted fungicide applications."
+      ],
+      "tips2": [
+        "Adopt soil microbiome enhancers (Trichoderma/Bacillus) to accelerate residue breakdown, reducing local inoculum."
+      ]
+    }
+  },
+  {
+    "key": "corn_common_rust",
+    "common_name": "Corn Common Rust (Puccinia sorghi)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Azoxystrobin",
+        "Propiconazole",
+        "Tebuconazole",
+        "Combination fungicides (QoI + DMI)"
+      ],
+      "other_medicines": [
+        "Resistant hybrids — the most effective long-term solution",
+        "Good nitrogen balance to prevent excessive susceptibility"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Common rust appears as brown-to-brick-red pustules on both leaf surfaces. Severe infection can reduce photosynthesis. Early detection and protecting upper canopy leaves are the key strategies.",
+      "step_by_step": [
+        "Scout during cooler, humid weather when rust is favored.",
+        "If infection appears before tasseling, apply fungicides to protect upper canopy.",
+        "Use resistant hybrids for long-term stability.",
+        "Remove volunteer corn plants that carry rust spores."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Avoid late-season irrigation that prolongs leaf wetness.",
+        "Maintain proper plant density — overcrowding favors rust development."
+      ],
+      "points2": [
+        "Keep field borders clean to reduce early inoculum.",
+        "Record rust levels across seasons to choose better-adapted hybrids."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use predictive rust models (temperature + humidity) to schedule fungicides with high precision."
+      ],
+      "tips2": [
+        "Adopt hybrid mixes with different resistance genes to slow pathogen adaptation."
+      ]
+    }
+  },
+  {
+    "key": "corn_gray_leaf_spot",
+    "common_name": "Corn Gray Leaf Spot (Cercospora zeae-maydis)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Azoxystrobin",
+        "Pyraclostrobin",
+        "Tebuconazole",
+        "Fluxapyroxad mixtures"
+      ],
+      "other_medicines": [
+        "Plant tolerant hybrids",
+        "Reduce residue load — pathogen survives on previous crop debris"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Gray leaf spot is highly destructive and thrives in warm, humid climates. Fungicide applications around VT–R1 are most effective, especially in susceptible hybrids.",
+      "step_by_step": [
+        "Scout for rectangular gray lesions parallel to leaf veins.",
+        "Spray protectant fungicides at VT (tasseling) stage.",
+        "Rotate actives and avoid repeated QoI use to slow resistance.",
+        "Adopt wide crop rotation and residue incorporation."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Use hybrids labeled 'GLS-tolerant' especially in high-pressure regions.",
+        "Improve airflow by maintaining proper row spacing."
+      ],
+      "points2": [
+        "Manage irrigation to avoid prolonged leaf wetness.",
+        "Remove residues after harvest to prevent overwintering."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Utilize drone thermal imaging to detect early stress zones before visible symptoms appear."
+      ],
+      "tips2": [
+        "Adopt precision fungicide nozzles to ensure canopy-penetration during VT sprays."
+      ]
+    }
+  },
+  {
+    "key": "corn_northern_leaf_blight",
+    "common_name": "Corn Northern Leaf Blight (Exserohilum turcicum)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Azoxystrobin",
+        "Tebuconazole",
+        "Propiconazole",
+        "Strobilurin + triazole combinations"
+      ],
+      "other_medicines": [
+        "Resistant hybrids with Ht genes",
+        "Destroy overwintering debris"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Northern leaf blight creates large cigar-shaped lesions that rapidly destroy leaf area. Protecting leaves above the ear is essential to preserve yield.",
+      "step_by_step": [
+        "Scout fields during cool, humid seasons for elongated gray lesions.",
+        "Apply fungicides between V12–VT if disease is present or predicted.",
+        "Adopt resistant hybrids carrying Ht resistance genes.",
+        "Rotate crops and manage debris."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Maintain hybrid diversity across farms to avoid large-scale vulnerability.",
+        "Optimize potassium and nitrogen levels to maintain foliage health."
+      ],
+      "points2": [
+        "Avoid continuous maize cropping.",
+        "Use deep ploughing in severe years to bury residues."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use forecasting tools integrating humidity + degree-days to optimize fungicide timing."
+      ],
+      "tips2": [
+        "Select hybrids with multi-gene resistance packages rather than relying on one Ht gene."
+      ]
+    }
+  },
+  {
+    "key": "cotton_aphid",
+    "common_name": "Cotton Aphid (Aphis gossypii)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Imidacloprid (systemic) early season",
+        "Thiamethoxam",
+        "Spirotetramat (selective sap-feeder control)",
+        "Avoid frequent pyrethroids due to resistance"
+      ],
+      "other_medicines": [
+        "Neem oil / azadirachtin",
+        "Encourage natural predators (ladybirds, lacewings)",
+        "Yellow sticky traps for monitoring"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Aphids weaken cotton by sap-sucking and transmitting viruses. They reproduce rapidly, so early monitoring is essential. Soft chemicals or biologicals are preferable for ecological balance.",
+      "step_by_step": [
+        "Inspect the underside of leaves weekly for colonies.",
+        "If numbers are low, use neem or soap sprays to knock back population.",
+        "For heavy infestations, apply systemic insecticide targeting nymphs.",
+        "Avoid repeated use of the same chemical group.",
+        "Promote predators by avoiding broad-spectrum insecticides."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Maintain clean field edges — many weeds host aphids.",
+        "Use balanced fertilization: excessive nitrogen encourages aphid growth."
+      ],
+      "points2": [
+        "Introduce banker plants to sustain predators throughout the season.",
+        "Monitor and record aphid levels to predict trends."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use biological control programs (ladybird releases) at early infestation stage."
+      ],
+      "tips2": [
+        "Adopt precision drip fertigation to avoid lush, over-fertilized foliage that attracts aphids."
+      ]
+    }
+  },
+  {
+    "key": "cotton_army_worm",
+    "common_name": "Cotton Armyworm (Spodoptera litura)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Spinosad",
+        "Emamectin benzoate",
+        "Chlorantraniliprole",
+        "Avoid routine pyrethroid use to prevent resistance"
+      ],
+      "other_medicines": [
+        "Bt formulations for early instars",
+        "NPV bioinsecticides",
+        "Light traps and pheromone traps"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Armyworm attacks foliage and bolls. Small larvae can be controlled easily with biologicals, but large larvae require stronger insecticides. Monitoring is essential.",
+      "step_by_step": [
+        "Check for egg masses and early instar larvae.",
+        "Apply Bt or spinosad early when larvae are small.",
+        "Use emamectin/chlorantraniliprole for large infestations.",
+        "Deploy pheromone traps at field edges.",
+        "Maintain natural enemy populations whenever possible."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Keep field margins weed-free.",
+        "Rotate crops to avoid pest carryover."
+      ],
+      "points2": [
+        "Avoid indiscriminate insecticide sprays.",
+        "Regular scouting prevents sudden outbreaks."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use early-warning trap networks to schedule intervention before larval peak."
+      ],
+      "tips2": [
+        "Adopt UAV (drone) hotspot mapping to reduce unnecessary whole-field spraying."
+      ]
+    }
+  },
+  {
+    "key": "cotton_bacterial_blight",
+    "common_name": "Cotton Bacterial Blight (Xanthomonas citri pv. malvacearum)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Copper oxychloride or copper hydroxide sprays — partial suppression only"
+      ],
+      "other_medicines": [
+        "Resistant cotton varieties (most effective)",
+        "Seed delinting and treatment",
+        "Field sanitation"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Bacterial blight causes angular leaf spots, boll rot and severe yield losses in susceptible varieties. Since bacteria cannot be cured chemically, prevention and resistant varieties are the main strategies.",
+      "step_by_step": [
+        "Use resistant cotton cultivars.",
+        "Treat seed (acid delinting + fungicide/bactericide coating).",
+        "Avoid overhead irrigation.",
+        "Remove infected debris after harvest.",
+        "Apply copper sprays only as protectants during early disease onset."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Maintain wide spacing to reduce humidity.",
+        "Sanitize tools and avoid working in wet foliage."
+      ],
+      "points2": [
+        "Control weeds that may harbor the bacteria.",
+        "Rotate cotton with cereals for at least one season."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Integrate resistant-gene rotation (use varieties with different resistance genes across seasons)."
+      ],
+      "tips2": [
+        "Adopt micro-irrigation systems to eliminate leaf wetness, substantially reducing bacterial infection."
+      ]
+    }
+  },
+  {
+    "key": "cotton_mealy_bug",
+    "common_name": "Cotton Mealybug (Phenacoccus solenopsis)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Buprofezin (insect growth regulator)",
+        "Spirotetramat",
+        "Imidacloprid (drip application early season)",
+        "Avoid broad-spectrum pyrethroids"
+      ],
+      "other_medicines": [
+        "Release predators (Cryptolaemus montrouzieri beetles)",
+        "Neem oil sprays",
+        "Remove infested weeds like Parthenium (major host)"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Mealybugs cause leaf curling, honeydew production, sooty mold, and stunted growth. They hide under leaves and in crevices, making control challenging. Biological controls are extremely important.",
+      "step_by_step": [
+        "Inspect plants for cottony clusters under leaves and stems.",
+        "Use neem oil for mild infestations.",
+        "Release Cryptolaemus beetles in hotspots.",
+        "Apply systemic insecticides like spirotetramat for severe infestations.",
+        "Remove alternate host weeds immediately."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Maintain field sanitation — destroy weeds that harbor mealybugs.",
+        "Avoid excessive nitrogen fertilization."
+      ],
+      "points2": [
+        "Prune overcrowded parts of plants to improve spray penetration.",
+        "Use sticky traps to monitor ant activity — ants protect mealybugs."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Combine predator release + selective insecticides in rotation for sustained suppression."
+      ],
+      "tips2": [
+        "Use pheromone disruption tools (where available) to reduce mating success."
+      ]
+    }
+  },
+  {
+    "key": "cotton_pink_bollworm",
+    "common_name": "Cotton Pink Bollworm (Pectinophora gossypiella)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Emamectin benzoate",
+        "Chlorantraniliprole",
+        "Indoxacarb",
+        "Avoid pyrethroids due to resistance"
+      ],
+      "other_medicines": [
+        "Pheromone traps (monitoring + mass trapping)",
+        "Refuge planting (mandatory for Bt cotton resistance management)",
+        "Destruction of unopened bolls and stalks after harvest"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Pink bollworm feeds inside cotton bolls, making control difficult. Bt cotton helps but resistance has become widespread in many regions. A combination of pheromone trapping, crop destruction, and timely insecticide application is essential.",
+      "step_by_step": [
+        "Install pheromone traps at crop start to detect moth arrival.",
+        "Spray selective insecticides when threshold trap catches are exceeded.",
+        "Remove and destroy rosette flowers and infested bolls.",
+        "Follow strict Bt refuge strategy to slow resistance spread.",
+        "Shred stalks immediately after harvest."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Do not leave cotton stalks standing — they allow overwintering.",
+        "Use early-maturing varieties to escape peak infestations."
+      ],
+      "points2": [
+        "Practice area-wide coordinated eradication with neighboring farmers.",
+        "Ensure correct Bt refuge implementation to prevent gene breakdown."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Adopt mating disruption products (PB ropes/lures) for high-value cotton blocks."
+      ],
+      "tips2": [
+        "Use drone-based thermal and RGB imaging to detect early boll damage clusters."
+      ]
+    }
+  },
+  {
+    "key": "cotton_powdery_mildew",
+    "common_name": "Cotton Powdery Mildew (Erysiphe/Leveillula spp.)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Wettable sulfur",
+        "Myclobutanil",
+        "Hexaconazole",
+        "Tebuconazole"
+      ],
+      "other_medicines": [
+        "Potassium bicarbonate sprays",
+        "Biocontrol agents (Bacillus-based)",
+        "Improving airflow with pruning"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Powdery mildew forms white fungal growth on leaves, reducing photosynthesis and boll formation. It is easily controlled with early treatments.",
+      "step_by_step": [
+        "Apply sulfur at first appearance of white powdery patches.",
+        "Switch to systemic fungicides for heavy infection.",
+        "Remove infected leaves if feasible.",
+        "Improve spacing and airflow.",
+        "Avoid overhead irrigation."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Avoid late nitrogen spikes that cause soft, susceptible leaves.",
+        "Ensure good sunlight penetration by pruning crowded plants."
+      ],
+      "points2": [
+        "Rotate fungicides to prevent resistance.",
+        "Monitor humidity levels and spray preventively during high-risk periods."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use silicon-based foliar sprays to strengthen leaves and reduce mildew susceptibility."
+      ],
+      "tips2": [
+        "Adopt beneficial microbe foliar sprays for long-term mildew suppression."
+      ]
+    }
+  },
+  {
+    "key": "cotton_target_spot",
+    "common_name": "Cotton Target Spot (Corynespora cassiicola)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Azoxystrobin (QoI)",
+        "Pyraclostrobin",
+        "Tebuconazole",
+        "Propiconazole",
+        "SDHI fungicides (Fluxapyroxad) in mixture products"
+      ],
+      "other_medicines": [
+        "Crop residue reduction",
+        "Improved airflow through proper spacing",
+        "Use of tolerant cultivars when available"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Target spot causes circular lesions with concentric rings. High humidity and dense canopies drive rapid spread. Timely fungicide applications protecting the mid-to-upper canopy are essential.",
+      "step_by_step": [
+        "Scout for early small brown target-like spots on lower canopy.",
+        "Apply protectant fungicides before disease reaches upper leaves.",
+        "Rotate QoI–DMI–SDHI chemistries to slow resistance.",
+        "Thin canopy (if feasible) to reduce humidity and improve penetration.",
+        "Remove infected residue and avoid continuous cotton cropping."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Maintain proper plant density to prevent excessive canopy shade.",
+        "Avoid overhead irrigation, especially late evening watering."
+      ],
+      "points2": [
+        "Keep fields free from excessive volunteer cotton plants.",
+        "Follow a strict crop rotation plan to reduce carryover inoculum."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use UAV (drone) multispectral imaging to detect canopy stress patterns caused by early target spot."
+      ],
+      "tips2": [
+        "Apply silicon-based foliar feeds to strengthen cell walls and reduce susceptibility."
+      ]
+    }
+  },
+  {
+    "key": "cotton_whitefly",
+    "common_name": "Cotton Whitefly (Bemisia tabaci)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Spirotetramat",
+        "Pyriproxyfen (IGR)",
+        "Imidacloprid / Thiamethoxam early season",
+        "Avoid pyrethroids to prevent resistance"
+      ],
+      "other_medicines": [
+        "Neem oil sprays",
+        "Encarsia parasitoids",
+        "Sticky traps and reflective mulches"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Whiteflies reduce plant vigor and transmit viruses. Early control is crucial. Combining biologicals with targeted insecticides prevents resistance build-up.",
+      "step_by_step": [
+        "Monitor underside of leaves weekly for eggs and nymphs.",
+        "Use sticky traps for detection and population suppression.",
+        "Apply systemic insecticides during early crop stages if pressure is high.",
+        "Rotate selective insecticides carefully.",
+        "Remove weed hosts and keep field borders clean."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Encourage beneficial insects by avoiding broad-spectrum sprays.",
+        "Use drip irrigation to avoid excessive plant stress."
+      ],
+      "points2": [
+        "Plant trap crops around field edges to divert whitefly.",
+        "Coordinate vector control efforts with neighboring fields."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "In protected cultivation, adopt Encarsia or Eretmocerus parasitoid release programs."
+      ],
+      "tips2": [
+        "Use AI-based sticky-trap image monitoring for real-time population tracking."
+      ]
+    }
+  },
+  {
+    "key": "diseased_cucumber",
+    "common_name": "Diseased Cucumber (General disease placeholder — varies by pathogen)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "For fungal diseases: Mancozeb, Chlorothalonil, Azoxystrobin",
+        "For downy mildew: Metalaxyl-M or Dimethomorph",
+        "For bacterial diseases: Copper oxychloride"
+      ],
+      "other_medicines": [
+        "Biological fungicides (Bacillus, Trichoderma)",
+        "Good irrigation practices",
+        "Resistant/tolerant varieties"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Since 'Diseased Cucumber' is a non-specific class, the exact treatment depends on symptoms. Broad management focuses on humidity control, proper spacing, and disease-specific fungicides for fungal/bacterial infections.",
+      "step_by_step": [
+        "Identify the pathogen type (fungal, bacterial, viral).",
+        "Remove infected leaves immediately to reduce spread.",
+        "Apply targeted fungicides depending on disease type.",
+        "Improve airflow by pruning and avoiding overcrowding.",
+        "Switch to resistant varieties if recurring issues are observed."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Grow cucumbers in well-ventilated areas, avoiding excessive moisture.",
+        "Use drip irrigation to prevent leaf wetness."
+      ],
+      "points2": [
+        "Avoid working in fields when foliage is wet.",
+        "Rotate cucumbers with non-cucurbit crops to reduce soilborne pathogens."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Install environmental sensors to monitor humidity peaks inside greenhouses."
+      ],
+      "tips2": [
+        "Use grafting onto disease-tolerant rootstocks for soilborne pathogen suppression."
+      ]
+    }
+  },
+  {
+    "key": "diseased_rice",
+    "common_name": "Diseased Rice (General placeholder for multiple rice diseases)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Blast: Tricyclazole, Isoprothiolane",
+        "Bacterial blight: Copper hydroxide (limited use)",
+        "Sheath blight: Validamycin, Hexaconazole"
+      ],
+      "other_medicines": [
+        "Resistant varieties",
+        "Proper nutrient management",
+        "Water management improvements"
+      ]
+    },
+    "how_to_treat": {
+      "description": "This class covers any rice disease. Exact symptoms guide treatment. Core steps focus on nursery hygiene, balanced nutrition, and timely fungicide application depending on disease type.",
+      "step_by_step": [
+        "Identify disease type using pattern (spots, blight, rot, yellowing).",
+        "Adopt resistant varieties if issues are recurrent.",
+        "Treat seed with recommended fungicide/biological seed treatments.",
+        "Apply targeted fungicides based on disease type.",
+        "Improve field drainage and avoid excessive standing water."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Follow recommended nitrogen split doses.",
+        "Keep nursery areas clean and disease-free."
+      ],
+      "points2": [
+        "Destroy leftover straw that harbors pathogens.",
+        "Rotate with non-host crops to reduce soilborne inoculum."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use weather-based rice disease forecasting tools to time sprays efficiently."
+      ],
+      "tips2": [
+        "Adopt drone-based rice canopy health monitoring for early stress detection."
+      ]
+    }
+  },
+  {
+    "key": "flag_smut",
+    "common_name": "Flag Smut of Wheat (Urocystis agropyri)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Carboxin + Thiram seed treatment",
+        "Tebuconazole seed dressing"
+      ],
+      "other_medicines": [
+        "Plant resistant varieties",
+        "Crop rotation with non-cereals",
+        "Avoid early sowing in infected fields"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Flag smut infects seedlings through soil or seed, causing twisted, streaked leaves. Seed treatment is crucial as no effective foliar fungicide exists.",
+      "step_by_step": [
+        "Use certified disease-free seed.",
+        "Apply fungicide seed treatment thoroughly.",
+        "Avoid sowing wheat repeatedly in infected fields.",
+        "Destroy stubble to reduce pathogen carryover.",
+        "Prefer resistant cultivars in smut-prone regions."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Do not save seed from fields previously affected by flag smut.",
+        "Maintain proper soil fertility to support seedling vigor."
+      ],
+      "points2": [
+        "Use wide crop rotations (2–3 years).",
+        "Remove volunteer wheat plants before sowing."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use cold storage to preserve treated seeds and maintain efficacy.",
+        "Perform routine pathogen monitoring in seed lots."
+      ],
+      "tips2": [
+        "Adopt high-residue breakdown practices (microbial sprays) to reduce soil inoculum load."
+      ]
+    }
+  },
+  {
+    "key": "grape_black_rot",
+    "common_name": "Grape Black Rot (Guignardia bidwellii)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Mancozeb",
+        "Captan",
+        "Myclobutanil",
+        "Azoxystrobin"
+      ],
+      "other_medicines": [
+        "Remove mummified berries",
+        "Good pruning practices",
+        "Increase airflow with canopy management"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Black rot affects grapes causing leaf spots and berry mummification. Early removal of mummies and preventive sprays before fruit set are critical.",
+      "step_by_step": [
+        "Remove and destroy mummified berries from last season.",
+        "Spray protectants at early leaf stages and before fruit set.",
+        "Use systemic fungicides if symptoms appear.",
+        "Prune to open canopy and improve drying.",
+        "Avoid overhead irrigation."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Clean mummies from trellises and vineyard floor before new season.",
+        "Train vines to reduce shading."
+      ],
+      "points2": [
+        "Space vines adequately.",
+        "Practice timely leaf removal around clusters."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use weather-based warning systems to time fungicide applications precisely."
+      ],
+      "tips2": [
+        "Employ canopy sensors to optimize pruning and reduce rot-conducive humidity pockets."
+      ]
+    }
+  },
+  {
+    "key": "grape_esca_black_measles",
+    "common_name": "Grape Esca / Black Measles (Trunk Disease Complex)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "No curative fungicides available",
+        "Trunk wound protectants (Trichoderma-based)"
+      ],
+      "other_medicines": [
+        "Remove infected wood",
+        "Improve vine vigor with proper nutrition",
+        "Avoid large pruning wounds"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Esca is a chronic trunk disease. No cure exists; management focuses on removing infected wood, preventing new infections, and supporting vine health.",
+      "step_by_step": [
+        "Identify tiger-stripe foliar patterns and black measles symptoms.",
+        "Remove diseased wood and disinfect tools.",
+        "Apply biological wound protectants on pruning cuts.",
+        "Avoid pruning during wet conditions.",
+        "Replace severely affected vines."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Use double pruning techniques — make rough cuts early, finish later during dry weather.",
+        "Avoid large pruning wounds."
+      ],
+      "points2": [
+        "Maintain vine vigor with balanced fertilization.",
+        "Monitor vineyards yearly for early signs of trunk disease."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Introduce Trichoderma wound protectants during every pruning cycle.",
+        "Use thermal imaging to detect trunk disease early."
+      ],
+      "tips2": [
+        "Adopt regenerative soil practices to support long-term vine resilience."
+      ]
+    }
+  },
+  {
+    "key": "grape_leaf_blight",
+    "common_name": "Grape Leaf Blight (Pseudocercospora / Alternaria spp.)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Mancozeb",
+        "Chlorothalonil",
+        "Azoxystrobin",
+        "Tebuconazole"
+      ],
+      "other_medicines": [
+        "Leaf removal to improve airflow",
+        "Resistant cultivars",
+        "Remove infected leaves regularly"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Leaf blight reduces photosynthesis and exposes clusters to sunburn. Control involves removing infected tissue and protecting leaves with fungicides.",
+      "step_by_step": [
+        "Inspect leaves for brown necrotic lesions.",
+        "Remove and burn heavily infected leaves.",
+        "Spray protectant fungicides during humid periods.",
+        "Use systemic fungicides in severe outbreaks.",
+        "Improve canopy ventilation."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Maintain lower humidity with good trellising and leaf removal.",
+        "Avoid overhead irrigation."
+      ],
+      "points2": [
+        "Rotate fungicides to prevent resistance.",
+        "Keep vineyard free of alternate hosts."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use UV-sensor mapping to identify spots where humidity consistently remains high.",
+      "Design canopy architecture to reduce disease-prone microclimates."
+      ],
+      "tips2": [
+        "Adopt biological fungicides in rotation for residue-free production."
+      ]
+    }
+  },
+  {
+    "key": "gray_leaf_spot",
+    "common_name": "Gray Leaf Spot (general, depending on crop — often turfgrass or cereals)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Azoxystrobin",
+        "Propiconazole",
+        "Tebuconazole"
+      ],
+      "other_medicines": [
+        "Aeration and good drainage (turf)",
+        "Crop rotation",
+        "Nitrogen balance"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Gray leaf spot causes elongated gray lesions and thrives in humid environments. Treatment combines fungicides and improved airflow.",
+      "step_by_step": [
+        "Identify lesions with gray centers and darker margins.",
+        "Apply fungicides during humid or rainy periods.",
+        "Improve airflow and avoid overwatering.",
+        "Balance nitrogen application.",
+        "Remove heavily infected debris."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Avoid excessive shade and moisture.",
+        "Use resistant cultivars where available."
+      ],
+      "points2": [
+        "Sanitize tools and machinery.",
+        "Adopt crop/turf rotation programs where possible."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use soil microbial enhancers to improve root-zone disease suppression."
+      ],
+      "tips2": [
+        "Apply predictive weather-based scheduling for fungicide applications."
+      ]
+    }
+  },
+  {
+    "key": "groundnut_early_leaf_spot",
+    "common_name": "Groundnut Early Leaf Spot (Cercospora arachidicola)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Chlorothalonil",
+        "Mancozeb",
+        "Tebuconazole",
+        "Azoxystrobin"
+      ],
+      "other_medicines": [
+        "Crop rotation",
+        "Remove crop residue",
+        "Maintain proper spacing"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Early leaf spot appears as brown spots with yellow halos. Protectant fungicides applied at the right time prevent rapid defoliation.",
+      "step_by_step": [
+        "Monitor leaves early for brown lesions with halos.",
+        "Apply protectant fungicides at 30–40 days after sowing.",
+        "Rotate systemic fungicides to avoid resistance.",
+        "Avoid overhead irrigation.",
+        "Destroy residue after harvest."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Practice groundnut–cereal rotation for 2+ years.",
+        "Ensure good airflow with proper plant spacing."
+      ],
+      "points2": [
+        "Avoid continuous groundnut cropping.",
+        "Remove volunteer plants between seasons."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use disease-decision support tools that track humidity and rainfall to trigger fungicide schedules."
+      ],
+      "tips2": [
+        "Apply silicon or micronutrient foliar feeds to improve tolerance."
+      ]
+    }
+  },
+  {
+    "key": "groundnut_late_leaf_spot",
+    "common_name": "Groundnut Late Leaf Spot (Phaeoisariopsis personata / Nothopassalora personata)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Chlorothalonil",
+        "Mancozeb",
+        "Tebuconazole",
+        "Azoxystrobin",
+        "Fluxapyroxad (SDHI mixtures)"
+      ],
+      "other_medicines": [
+        "Crop rotation (minimum 2–3 years)",
+        "Residue destruction after harvest",
+        "Use of tolerant varieties"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Late leaf spot typically appears later in crop cycle and is more destructive than early leaf spot. Severe defoliation occurs if untreated. Frequent protectant sprays and cultural practices suppress epidemics.",
+      "step_by_step": [
+        "Scout for dark brown to black lesions on leaflets (later more numerous than early leaf spot).",
+        "Start fungicide sprays at 30–40 DAS and continue at recommended intervals during humid seasons.",
+        "Alternate systemic and protectant fungicides to delay resistance.",
+        "Ensure proper plant spacing and avoid prolonged leaf wetness.",
+        "Destroy crop residue to reduce overwintering inoculum."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Follow strict rotation with cereals to break disease cycles.",
+        "Maintain balanced nutrition to avoid overly lush foliage, which increases humidity."
+      ],
+      "points2": [
+        "Avoid overhead irrigation when possible.",
+        "Monitor fields frequently during rainy periods for rapid spread."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Combine early- and late-leaf-spot fungicide programs to provide season-long protection.",
+        "Use predictive models (humidity + leaf wetness duration) to minimize unnecessary sprays."
+      ],
+      "tips2": [
+        "Integrate silicon-based foliar sprays to strengthen leaf structure and reduce lesion expansion."
+      ]
+    }
+  },
+  {
+    "key": "groundnut_nutrition_deficiency",
+    "common_name": "Groundnut Nutritional Deficiency (N, P, K, Zn, Fe, Mg, Ca etc.)",
+    "recommended_medicine": {
+      "chemical_drugs": [],
+      "other_medicines": [
+        "Soil test-based fertilizer application",
+        "Foliar micronutrient sprays (Zn, Fe, Mg, B, Ca as needed)",
+        "Use of organic amendments and compost to improve soil structure"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Groundnut nutritional deficiency can appear as yellowing, bronzing, stunting, poor peg formation or pod-filling issues. Correcting the right nutrient is essential for recovery.",
+      "step_by_step": [
+        "Identify deficiency type using leaf pattern (interveinal chlorosis, marginal scorching, overall yellowing).",
+        "Conduct soil and tissue testing to confirm deficient nutrients.",
+        "Apply corrective foliar sprays (e.g., ZnSO₄, MgSO₄, Fe chelates) as recommended.",
+        "Correct soil pH if needed, as many micronutrients become unavailable in alkaline soils.",
+        "Use organic matter to improve long-term nutrient availability."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Perform soil testing before each season and fertilize based on crop requirement.",
+        "Ensure optimum pH (around 6.0–6.5) for nutrient uptake."
+      ],
+      "points2": [
+        "Avoid imbalanced nitrogen-heavy fertilization.",
+        "Use drip fertigation where possible for precise nutrient supply."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Adopt integrated soil fertility management (ISFM) combining organic + inorganic sources.",
+        "Use mycorrhizal inoculants to enhance phosphorus uptake."
+      ],
+      "tips2": [
+        "Employ leaf tissue analysis at mid-vegetative stage to adjust nutrition proactively."
+      ]
+    }
+  },
+  {
+    "key": "groundnut_rust",
+    "common_name": "Groundnut Rust (Puccinia arachidis)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Hexaconazole",
+        "Tebuconazole",
+        "Propiconazole",
+        "Chlorothalonil + systemic mixtures"
+      ],
+      "other_medicines": [
+        "Resistant varieties",
+        "Crop rotation",
+        "Removal of volunteer groundnut plants"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Groundnut rust forms reddish-brown pustules, rapidly reducing photosynthesis. Early fungicide application prevents severe losses.",
+      "step_by_step": [
+        "Scout for early rust pustules on lower leaf surfaces.",
+        "Apply systemic fungicide at first detection.",
+        "Rotate fungicides to prevent resistance.",
+        "Improve field ventilation by maintaining appropriate spacing.",
+        "Destroy residues immediately after harvest."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Avoid late sowing which increases rust pressure.",
+        "Use resistant varieties suited to region."
+      ],
+      "points2": [
+        "Ensure balanced nutrition — avoid excess nitrogen.",
+        "Control alternate host weeds."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use weather-based advisory systems that track dew periods to predict rust outbreaks.",
+        "Try foliar silicon supplements to reduce severity."
+      ],
+      "tips2": [
+        "Use groundnut–cereal–legume rotation sequences to limit rust buildup."
+      ]
+    }
+  },
+  {
+    "key": "guava_anthracnose",
+    "common_name": "Guava Anthracnose (Colletotrichum spp.)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Carbendazim (region-permitting)",
+        "Propiconazole",
+        "Azoxystrobin",
+        "Mancozeb"
+      ],
+      "other_medicines": [
+        "Pruning and sanitation of infected twigs",
+        "Hot-water fruit dip post-harvest",
+        "Biological fungicides (Trichoderma, Bacillus)"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Anthracnose causes sunken, dark lesions on fruits, flowers and leaves. It thrives in humid, rainy conditions. Timely fungicide sprays and pruning significantly reduce incidence.",
+      "step_by_step": [
+        "Remove infected fruits and twigs and destroy them.",
+        "Start protectant sprays at flowering and repeat during rainy periods.",
+        "Apply systemic fungicides at first sign of infection.",
+        "Avoid fruit injury during handling.",
+        "Maintain orchard hygiene and good pruning."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Improve airflow through pruning and canopy management.",
+        "Avoid overhead irrigation during flowering."
+      ],
+      "points2": [
+        "Mulch trees to reduce soil splash infection.",
+        "Maintain balanced nutrition with adequate potassium to strengthen fruit skin."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use weather-based disease warning systems to time sprays precisely.",
+        "Adopt pre-harvest calcium sprays to strengthen fruit skin and reduce lesion expansion."
+      ],
+      "tips2": [
+        "Implement biological control rotations to reduce chemical residue buildup on fruits."
+      ]
+    }
+  },
+  {
+    "key": "guava_fruit_fly",
+    "common_name": "Guava Fruit Fly (Bactrocera spp.)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Protein bait spray mixed with insecticide (spinosad or malathion per label)",
+        "Trapping using methyl eugenol lures"
+      ],
+      "other_medicines": [
+        "Sanitation — collect and destroy fallen fruits",
+        "Bagging of young fruits",
+        "Neem oil sprays"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Fruit flies lay eggs under the fruit skin causing larvae damage and fruit rot. Management depends heavily on bait traps, orchard sanitation and fruit bagging.",
+      "step_by_step": [
+        "Install methyl-eugenol traps at orchard borders.",
+        "Apply protein bait sprays weekly during fruiting season.",
+        "Collect fallen fruits daily and bury or solarize them.",
+        "Bag fruits 45–60 days before harvest for high-value guavas.",
+        "Avoid harvesting injured fruits."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Maintain orchard cleanliness — do not allow infested fruits to remain on the ground.",
+        "Use fruit bagging to guarantee fly-free premium fruits."
+      ],
+      "points2": [
+        "Keep alternate host plants away from orchard.",
+        "Prune to reduce dense canopies favoring fly activity."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use sterile insect technique (SIT) where available for area-wide suppression.",
+        "Adopt color traps with kairomone attractants to increase trapping efficiency."
+      ],
+      "tips2": [
+        "Use automated trap-monitoring systems with sensors for real-time fly count data."
+      ]
+    }
+  },
+  {
+    "key": "healthy_apple",
+    "common_name": "Apple (Healthy)",
+    "recommended_medicine": {
+      "chemical_drugs": [],
+      "other_medicines": [
+        "Regular foliar micronutrient sprays",
+        "Biostimulants to support vigor",
+        "Routine orchard sanitation"
+      ]
+    },
+    "how_to_treat": {
+      "description": "No treatment required. Maintain orchard health through proper nutrition, irrigation and disease prevention practices.",
+      "step_by_step": [
+        "Prune for good canopy structure and airflow.",
+        "Monitor weekly for pests/disease symptoms.",
+        "Irrigate consistently avoiding water stress.",
+        "Apply micronutrients based on soil/tissue results."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Follow an annual integrated pest & disease management schedule.",
+        "Maintain healthy soil using compost and mulching."
+      ],
+      "points2": [
+        "Avoid excessive nitrogen to prevent soft, disease-prone growth.",
+        "Keep orchard free of fallen leaves and mummified fruits."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use weather-based pest forecasting tools to prevent future outbreaks.",
+        "Adopt smart irrigation using soil moisture sensors."
+      ],
+      "tips2": [
+        "Use biological foliar inoculants to establish a protective phyllosphere microbiome."
+      ]
+    }
+  },
+  {
+    "key": "healthy_bean",
+    "common_name": "Bean (Healthy)",
+    "recommended_medicine": {
+      "chemical_drugs": [],
+      "other_medicines": [
+        "Balanced NPK fertilizer",
+        "Micronutrients (Boron, Zinc)",
+        "Trichoderma seed treatment"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Healthy bean plants require no treatment except preventive nutrition and monitoring.",
+      "step_by_step": [
+        "Maintain field sanitation and weed-free zones.",
+        "Ensure correct irrigation schedules.",
+        "Perform weekly disease scouting.",
+        "Apply foliar micronutrients if needed."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Follow crop rotation to prevent soilborne diseases.",
+        "Use certified seeds and proper spacing."
+      ],
+      "points2": [
+        "Avoid waterlogging.",
+        "Ensure good airflow within plant canopy."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use beneficial microbes to boost immunity.",
+        "Adopt drip irrigation + fertigation for optimal nutrition."
+      ],
+      "tips2": [
+        "Plant disease-tolerant bean varieties suited to local climate."
+      ]
+    }
+  },
+  {
+    "key": "healthy_bell_pepper",
+    "common_name": "Bell Pepper (Healthy)",
+    "recommended_medicine": {
+      "chemical_drugs": [],
+      "other_medicines": [
+        "Biological foliar sprays (Bacillus spp.)",
+        "Micronutrient foliar feeding",
+        "Consistent irrigation practices"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Healthy bell peppers require consistent nutrition, moisture, and preventive monitoring.",
+      "step_by_step": [
+        "Inspect roots and leaves regularly.",
+        "Use mulch to maintain soil moisture and prevent splash.",
+        "Maintain drip irrigation to avoid leaf diseases.",
+        "Provide structural support if needed."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Use resistant varieties wherever available.",
+        "Keep greenhouse or field well-ventilated."
+      ],
+      "points2": [
+        "Avoid planting during peak disease seasons.",
+        "Rotate with non-solanaceous crops."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use slow-release fertilizers for consistent nutrient supply.",
+        "Adopt reflective mulches to deter pests like whitefly."
+      ],
+      "tips2": [
+        "Introduce predatory insects early to prevent pest outbreaks."
+      ]
+    }
+  },
+  {
+    "key": "healthy_cherry",
+    "common_name": "Cherry (Healthy)",
+    "recommended_medicine": {
+      "chemical_drugs": [],
+      "other_medicines": [
+        "Organic matter applications",
+        "Balanced fertilization",
+        "Dormant-season pruning oil"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Healthy cherry plants require pruning, balanced nutrition, and irrigation management.",
+      "step_by_step": [
+        "Prune annually during dormant season.",
+        "Apply micronutrients if deficiency symptoms appear.",
+        "Use mulch to regulate soil moisture.",
+        "Monitor pests such as cherry fruit fly."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Maintain orchard hygiene.",
+        "Avoid excessive irrigation that causes root rot."
+      ],
+      "points2": [
+        "Use resistant cultivars where available.",
+        "Control weeds that host pests or diseases."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Install weather monitoring sensors to optimize spray timing.",
+        "Use pheromone-based monitoring traps."
+      ],
+      "tips2": [
+        "Adopt biological soil enhancers to improve long-term tree health."
+      ]
+    }
+  },
+  {
+    "key": "healthy_cotton",
+    "common_name": "Cotton (Healthy)",
+    "recommended_medicine": {
+      "chemical_drugs": [],
+      "other_medicines": [
+        "Balanced NPK + micronutrients",
+        "Seed treatment with Trichoderma or Imidacloprid (for early pest protection where allowed)",
+        "Soil health enhancers (compost, biofertilizers)"
+      ]
+    },
+    "how_to_treat": {
+      "description": "No treatment required for healthy cotton. Keep focus on preventive pest and disease management and maintaining soil fertility.",
+      "step_by_step": [
+        "Irrigate consistently to avoid drought stress.",
+        "Monitor for early pests (aphids, jassids, whiteflies) weekly.",
+        "Apply micronutrient sprays based on tissue testing.",
+        "Avoid overcrowding to maintain good canopy airflow."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Follow a preventive IPM schedule with pheromone traps and biological agents.",
+        "Maintain potassium-rich nutrition to strengthen plant tissues."
+      ],
+      "points2": [
+        "Keep field edges weed-free to avoid pest reservoirs.",
+        "Ensure proper crop rotation to prevent soilborne issues."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Integrate AI/digital scouting tools for early detection of hot spots.",
+        "Use drip fertigation for precise nutrient supply."
+      ],
+      "tips2": [
+        "Install soil moisture sensors to avoid over or underwatering."
+      ]
+    }
+  },
+  {
+    "key": "healthy_cucumber",
+    "common_name": "Cucumber (Healthy)",
+    "recommended_medicine": {
+      "chemical_drugs": [],
+      "other_medicines": [
+        "Balanced soluble fertilizers",
+        "Beneficial microbes like Bacillus and Trichoderma",
+        "Regular pruning to maintain ventilation"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Healthy cucumber plants need no treatment except routine care and preventive maintenance.",
+      "step_by_step": [
+        "Inspect vines weekly for pests like whitefly or aphids.",
+        "Improve trellising structure to reduce humidity.",
+        "Use drip irrigation to keep foliage dry.",
+        "Apply micronutrients when needed."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Use resistant cucumber varieties suited to your region.",
+        "Rotate cucurbits with non-cucurbit crops."
+      ],
+      "points2": [
+        "Avoid water stagnation in low-lying areas.",
+        "Keep greenhouse humidity low with ventilation fans."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use reflective mulches to deter insect vectors.",
+        "Adopt grafting onto disease-resistant rootstocks."
+      ],
+      "tips2": [
+        "Introduce biological predators early in greenhouse systems."
+      ]
+    }
+  },
+  {
+    "key": "healthy_grape",
+    "common_name": "Grape (Healthy)",
+    "recommended_medicine": {
+      "chemical_drugs": [],
+      "other_medicines": [
+        "Organic mulches",
+        "Foliar micronutrient supplements",
+        "Biological fungicide preventives"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Healthy grapevines require canopy management, proper irrigation and nutrient balance set by leaf analysis.",
+      "step_by_step": [
+        "Prune vines to open canopy.",
+        "Monitor for downy mildew, powdery mildew, and berry moth regularly.",
+        "Use drip irrigation to avoid wet foliage.",
+        "Apply foliar micronutrients based on tissue needs."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Ensure balanced N-P-K; avoid excess nitrogen.",
+        "Maintain trellis and pruning schedule strictly."
+      ],
+      "points2": [
+        "Remove weeds that increase humidity around vines.",
+        "Keep vineyard floor clean to prevent disease inoculum."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use canopy sensors to optimize shading and light penetration.",
+        "Apply kaolin clay sprays to reduce solar injury and pest pressure."
+      ],
+      "tips2": [
+        "Use beneficial microbes to maintain vine immunity."
+      ]
+    }
+  },
+  {
+    "key": "healthy_groundnut",
+    "common_name": "Groundnut (Healthy)",
+    "recommended_medicine": {
+      "chemical_drugs": [],
+      "other_medicines": [
+        "Seed treatment with Trichoderma",
+        "Calcium & Boron supplementation for pod formation",
+        "Proper NPK fertilizer schedule"
+      ]
+    },
+    "how_to_treat": {
+      "description": "No treatment is needed; maintain soil fertility and monitor early pests/diseases.",
+      "step_by_step": [
+        "Ensure gypsum application at flowering stage.",
+        "Use irrigation scheduling to avoid waterlogging.",
+        "Scout for leaf spot diseases early.",
+        "Apply micronutrients based on deficiency."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Rotate groundnut with cereals.",
+        "Use disease-free certified seeds."
+      ],
+      "points2": [
+        "Maintain proper plant density.",
+        "Keep field weed-free to reduce competition."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use drone scouting for early detection.",
+        "Adopt soil solarization before sowing in disease-prone regions."
+      ],
+      "tips2": [
+        "Apply organic matter to improve soil microbial activity."
+      ]
+    }
+  },
+  {
+    "key": "healthy_guava",
+    "common_name": "Guava (Healthy)",
+    "recommended_medicine": {
+      "chemical_drugs": [],
+      "other_medicines": [
+        "Organic compost",
+        "Micronutrient sprays",
+        "Pruning for canopy health"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Healthy guava plants require only preventive care and regular maintenance.",
+      "step_by_step": [
+        "Prune inner branches to improve light penetration.",
+        "Maintain irrigation scheduling — avoid extremes.",
+        "Apply micronutrients if symptoms appear.",
+        "Monitor fruit fly traps regularly."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Bag fruits early to avoid pests.",
+        "Maintain orchard sanitation by removing fallen fruit."
+      ],
+      "points2": [
+        "Avoid water stagnation in root zone.",
+        "Use organic mulches to improve soil moisture."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Adopt pheromone trap-based monitoring for fruit flies.",
+        "Use silicon sprays to strengthen cell walls."
+      ],
+      "tips2": [
+        "Use biological foliar sprays for long-term disease prevention."
+      ]
+    }
+  },
+  {
+    "key": "healthy_lemon",
+    "common_name": "Lemon (Healthy)",
+    "recommended_medicine": {
+      "chemical_drugs": [],
+      "other_medicines": [
+        "Micronutrients (Fe, Zn, Mg sprays)",
+        "Proper irrigation and mulching",
+        "Organic matter additions"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Healthy lemon plants need balanced nutrition and pest monitoring.",
+      "step_by_step": [
+        "Apply soil and foliar micronutrients based on deficiency levels.",
+        "Prune regularly to maintain airflow.",
+        "Keep basin weed-free.",
+        "Monitor psyllids, mites and leaf miners."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Maintain optimum pH for citrus (5.5–6.5).",
+        "Avoid waterlogging to prevent root diseases."
+      ],
+      "points2": [
+        "Keep orchard clean and debris-free.",
+        "Irrigate deeply but less frequently."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use pheromone traps for citrus pests.",
+        "Install drip irrigation with automated moisture sensors."
+      ],
+      "tips2": [
+        "Introduce mycorrhizae for enhanced nutrient uptake."
+      ]
+    }
+  },
+  {
+    "key": "healthy_maize",
+    "common_name": "Maize (Healthy)",
+    "recommended_medicine": {
+      "chemical_drugs": [],
+      "other_medicines": [
+        "Balanced NPK fertilization",
+        "Zinc foliar sprays if needed",
+        "Seed treatment with fungicide/Trichoderma"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Healthy maize requires no treatment except preventive nutrition and pest scouting.",
+      "step_by_step": [
+        "Monitor early stages for leaf spots and rusts.",
+        "Maintain proper irrigation schedules.",
+        "Apply micronutrients based on soil reports.",
+        "Weed control to reduce competition."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Use hybrid seeds with disease resistance.",
+        "Rotate maize with legumes or oilseeds."
+      ],
+      "points2": [
+        "Reduce residue accumulation to prevent fungal buildup.",
+        "Avoid water stress during tasseling and grain filling."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use drone aerial monitoring for early stress detection.",
+        "Apply controlled-release fertilizers for consistent growth."
+      ],
+      "tips2": [
+        "Use soil microbial inoculants to improve nutrient cycling."
+      ]
+    }
+  },
+  {
+    "key": "healthy_peach",
+    "common_name": "Peach (Healthy)",
+    "recommended_medicine": {
+      "chemical_drugs": [],
+      "other_medicines": [
+        "Dormant oil spray",
+        "Organic matter",
+        "Micronutrient supplements"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Healthy peaches require pruning, nutrient balance and pest monitoring.",
+      "step_by_step": [
+        "Prune during winter dormancy.",
+        "Apply horticultural oil to suppress overwintering pests.",
+        "Use irrigation scheduling to prevent drought stress.",
+        "Monitor for borers and leaf curl."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Train trees properly with open-center pruning.",
+        "Keep orchard floor clean."
+      ],
+      "points2": [
+        "Ensure balanced fertilization for fruit set.",
+        "Avoid wetting foliage during irrigation."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use pheromone traps for peach fruit moth.",
+        "Install weather sensors for disease prediction."
+      ],
+      "tips2": [
+        "Adopt organic mulches to maintain soil health."
+      ]
+    }
+  },
+  {
+    "key": "healthy_potato",
+    "common_name": "Potato (Healthy)",
+    "recommended_medicine": {
+      "chemical_drugs": [],
+      "other_medicines": [
+        "Seed tuber treatment with mancozeb or Trichoderma",
+        "Proper fertilization schedule",
+        "Drip irrigation for disease avoidance"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Healthy potatoes require disease-free seed and preventive care.",
+      "step_by_step": [
+        "Use certified seed tubers.",
+        "Maintain proper ridge height and drainage.",
+        "Monitor for late blight, early blight and aphids.",
+        "Apply micronutrients like Mg, Zn, and B if needed."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Avoid overhead irrigation to prevent blight.",
+        "Rotate potato with cereals or legumes."
+      ],
+      "points2": [
+        "Keep field weed-free.",
+        "Apply mulches to maintain soil moisture."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use drone-based NDVI imaging to detect early leaf stress.",
+        "Adopt precision fertigation systems."
+      ],
+      "tips2": [
+        "Introduce beneficial nematode populations to improve soil health."
+      ]
+    }
+  },
+  {
+    "key": "healthy_pumpkin",
+    "common_name": "Pumpkin (Healthy)",
+    "recommended_medicine": {
+      "chemical_drugs": [],
+      "other_medicines": [
+        "Micronutrient foliar sprays",
+        "Organic mulch",
+        "Soil microbial inoculants"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Healthy pumpkins need balanced nutrition, irrigation and vine training.",
+      "step_by_step": [
+        "Train vines to avoid overcrowding.",
+        "Irrigate at root zone to keep foliage dry.",
+        "Apply foliar nutrients as needed.",
+        "Scout for powdery mildew weekly."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Use resistant varieties against mildew and viruses.",
+        "Rotate cucurbits with cereals or onion crops."
+      ],
+      "points2": [
+        "Avoid high humidity environments in greenhouses.",
+        "Maintain strong trellising systems."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use UV-blocking greenhouse films to reduce viral vector activity.",
+        "Employ biological fungicides preventively."
+      ],
+      "tips2": [
+        "Use silicon or seaweed extracts to enhance stress tolerance."
+      ]
+    }
+  },
+  {
+    "key": "lemon_curl_virus",
+    "common_name": "Lemon Leaf Curl Virus (Whitefly-transmitted)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Imidacloprid (systemic, early stage)",
+        "Thiamethoxam",
+        "Spirotetramat (for nymph control)"
+      ],
+      "other_medicines": [
+        "Neem oil or azadirachtin sprays",
+        "Sticky traps and reflective mulches",
+        "Rogueing (removal) of infected plants in severe outbreaks"
+      ]
+    },
+    "how_to_treat": {
+      "description": "This is a viral disease; **no chemical can cure it**. The only strategy is vector (whitefly) control and preventing spread to healthy lemon trees.",
+      "step_by_step": [
+        "Eliminate whiteflies using sticky traps and early systemic insecticides.",
+        "Remove heavily infected young plants before virus spreads.",
+        "Avoid excessive nitrogen which attracts whiteflies.",
+        "Keep nursery areas protected with insect-proof netting.",
+        "Maintain good orchard sanitation by removing weeds and alternate hosts."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Plant certified virus-free saplings.",
+        "Use reflective mulches to reduce whitefly landing by up to 60%."
+      ],
+      "points2": [
+        "Avoid planting during peak vector season.",
+        "Regularly prune to maintain airflow and reduce humidity-loved vector conditions."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Deploy AI-based sticky trap cameras for real-time whitefly monitoring.",
+        "Introduce natural predators like *Encarsia formosa* in controlled orchards."
+      ],
+      "tips2": [
+        "Use antiviral plant boosters (seaweed + silicon formulations)."
+      ]
+    }
+  },
+  {
+    "key": "lemon_deficiency",
+    "common_name": "Lemon Nutrient Deficiency (N, Fe, Zn, Mg, Ca, B etc.)",
+    "recommended_medicine": {
+      "chemical_drugs": [],
+      "other_medicines": [
+        "Foliar micronutrient sprays (Zn, Fe, Mg, B)",
+        "Soil pH correction using gypsum or lime as needed",
+        "Organic compost and humic acid applications"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Nutrient deficiency causes yellowing, leaf drop, fruit cracking, poor growth and reduced fruit quality. Correcting the specific deficient nutrient restores plant health.",
+      "step_by_step": [
+        "Identify deficiency using leaf pattern: iron = interveinal chlorosis, zinc = small leaves, boron = fruit cracking.",
+        "Perform soil and leaf nutrient testing.",
+        "Apply foliar micronutrients immediately (2–3 sprays).",
+        "Adjust soil pH to keep nutrients available.",
+        "Add organic matter to improve long-term nutrient retention."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Maintain soil pH around 5.5–6.5 for ideal nutrient uptake.",
+        "Use fertigation to deliver micronutrients accurately."
+      ],
+      "points2": [
+        "Avoid overwatering — waterlogging reduces nutrient uptake.",
+        "Split fertilizer doses rather than applying all at once."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use microbial inoculants (Azospirillum, Bacillus) to improve nutrient availability.",
+        "Adopt soil sensors for real-time nutrient trend monitoring."
+      ],
+      "tips2": [
+        "Use chelated micronutrients (EDTA/EDDHA) for higher absorption efficiency."
+      ]
+    }
+  },
+  {
+    "key": "lemon_dry_leaf",
+    "common_name": "Lemon Dry Leaf Disorder (Abiotic, fungal or nutritional causes)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Mancozeb or Copper fungicides (if fungal)",
+        "Hexaconazole (for powdery-type infections)"
+      ],
+      "other_medicines": [
+        "Foliar micronutrients",
+        "Irrigation correction",
+        "Organic mulching to retain soil moisture"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Dry leaf may occur due to nutrient deficiency, fungal infection, water stress or salt accumulation. Identifying the correct cause ensures recovery.",
+      "step_by_step": [
+        "Check irrigation schedule — both underwatering and salt accumulation cause dryness.",
+        "Inspect for fungal leaf spots; apply fungicides if lesions are present.",
+        "Perform micronutrient spray with Mg, Zn, Fe.",
+        "Mulch the soil to reduce evaporation.",
+        "Avoid pruning harshly during hot dry seasons."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Maintain regular irrigation avoiding extremes.",
+        "Ensure good soil drainage to prevent salt buildup."
+      ],
+      "points2": [
+        "Keep orchard weed-free to reduce moisture competition.",
+        "Apply compost to increase water-holding capacity."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Install automatic drip systems with moisture sensors.",
+        "Use seaweed-based stress-relief foliar sprays."
+      ],
+      "tips2": [
+        "Apply silicon fertilizers to improve drought tolerance."
+      ]
+    }
+  },
+  {
+    "key": "lemon_sooty_mould",
+    "common_name": "Lemon Sooty Mould (Fungal growth on honeydew from pests)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Insecticides like Imidacloprid or Spirotetramat for controlling honeydew-producing pests",
+        "Fungicides like Copper oxychloride or Mancozeb (secondary use)"
+      ],
+      "other_medicines": [
+        "Neem oil sprays",
+        "Remove ants which protect scale/aphids",
+        "Use horticultural soap to clean leaves"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Sooty mould grows on the sugary honeydew secreted by pests (aphids, whiteflies, scale). You must **control pests**, not just the fungus.",
+      "step_by_step": [
+        "Identify and control the pest producing honeydew.",
+        "Wash leaves with mild soap solution to remove black coating.",
+        "Spray neem oil or horticultural oil.",
+        "Apply systemic insecticides for severe scale or whitefly infestation.",
+        "Improve airflow by pruning dense branches."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Eliminate ants — they protect scale insects.",
+        "Prune branches regularly to reduce moisture buildup."
+      ],
+      "points2": [
+        "Keep orchard clean; remove fallen leaves.",
+        "Avoid excessive nitrogen that increases soft pest-prone growth."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use beneficial insects like ladybirds to control aphids/scale.",
+        "Install yellow sticky traps around orchard perimeter."
+      ],
+      "tips2": [
+        "Apply kaolin clay sprays to reduce whitefly attraction."
+      ]
+    }
+  },
+  {
+    "key": "lemon_spider_mites",
+    "common_name": "Lemon Spider Mite Infestation (Tetranychus spp.)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Spiromesifen",
+        "Abamectin (avermectin)",
+        "Fenpyroximate (miticide)"
+      ],
+      "other_medicines": [
+        "Neem oil",
+        "Horticultural soap",
+        "Predatory mites (Phytoseiulus persimilis)"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Spider mites thrive in hot, dry climates. They cause yellow speckling, leaf drying and webbing. Using selective miticides and biological predators gives best control.",
+      "step_by_step": [
+        "Check underside of leaves for mites and webbing.",
+        "Spray neem oil or soap for mild cases.",
+        "Use selective miticides for heavy infestations.",
+        "Do not use repeated pyrethroids — they worsen mite outbreaks.",
+        "Increase humidity slightly to suppress mites in orchards."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Avoid dusty orchard conditions by sprinkling pathways.",
+        "Irrigate regularly to avoid drought stress."
+      ],
+      "points2": [
+        "Introduce predatory mites early in season.",
+        "Remove weeds that house mites."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Alternate miticides with different modes of action to prevent resistance.",
+        "Use overhead micro-sprayers (briefly) in extreme mite outbreaks to increase humidity."
+      ],
+      "tips2": [
+        "Deploy mite detection cards for early-warning monitoring."
+      ]
+    }
+  },
+  {
+    "key": "maize_armyworm",
+    "common_name": "Maize Armyworm (Spodoptera frugiperda / S. litura depending on region)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Emamectin benzoate",
+        "Spinosad",
+        "Chlorantraniliprole",
+        "Indoxacarb"
+      ],
+      "other_medicines": [
+        "Pheromone traps",
+        "Biocontrol: NPV, Bt formulations",
+        "Light traps"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Armyworms feed heavily on maize leaves and whorl tissues. Early detection and treatment at larval stage is critical.",
+      "step_by_step": [
+        "Install pheromone traps at crop establishment stage.",
+        "Use Bt or NPV sprays for early instar larvae.",
+        "For larger larvae, apply emamectin or chlorantraniliprole.",
+        "Avoid relying on pyrethroids due to resistance.",
+        "Destroy egg masses manually when spotted."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Avoid continuous maize cropping.",
+        "Keep border weeds and volunteer plants removed."
+      ],
+      "points2": [
+        "Encourage beneficial insects by avoiding broad-spectrum insecticides.",
+        "Maintain balanced fertilization to prevent lush growth that attracts pests."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use drone-based hotspot mapping for targeted insecticide applications.",
+        "Deploy pheromone lure-based mass trapping during early season."
+      ],
+      "tips2": [
+        "Adopt push–pull technology using repellent and trap crops."
+      ]
+    }
+  },
+  {
+    "key": "maize_ear_rot",
+    "common_name": "Maize Ear Rot (Fusarium / Aspergillus / Diplodia complex)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Prothioconazole (limited effectiveness)",
+        "Fungicides have low curative ability — prevention is key"
+      ],
+      "other_medicines": [
+        "Resistant hybrids",
+        "Harvest at correct moisture",
+        "Good drying and storage management"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Ear rots are mainly pre-harvest and post-harvest fungal infections. Fungicides offer limited control, so prevention and storage hygiene are the main strategies.",
+      "step_by_step": [
+        "Select hybrids resistant to ear rots.",
+        "Avoid insect injury to ears (vectors allow pathogen entry).",
+        "Harvest promptly at correct grain moisture.",
+        "Dry maize quickly to below 13–14% moisture.",
+        "Store in well-ventilated, low-humidity conditions."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Avoid lodging and waterlogging.",
+        "Keep fields clean and avoid delayed harvest."
+      ],
+      "points2": [
+        "Use insect management programs to prevent ear damage.",
+        "Maintain storage hygiene to prevent aflatoxin risk."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use solar or mechanical dryers for rapid moisture removal.",
+        "Test grains for mycotoxins before storage and sale."
+      ],
+      "tips2": [
+        "Use hermetic storage bags for aflatoxin-sensitive markets."
+      ]
+    }
+  },
+  {
+    "key": "maize_stem_borer",
+    "common_name": "Maize Stem Borer (Chilo partellus / Sesamia spp.)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Chlorantraniliprole",
+        "Emamectin benzoate",
+        "Spinosad"
+      ],
+      "other_medicines": [
+        "Trichogramma egg parasitoid release",
+        "Pheromone traps",
+        "Destruction of stubbles"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Stem borers damage maize stalks and tassels, reducing yield significantly. Biological control is extremely effective when released early.",
+      "step_by_step": [
+        "Release Trichogramma parasitoids during egg-laying period.",
+        "Apply selective insecticides at early larval penetration stage.",
+        "Destroy crop residues after harvest.",
+        "Remove infested stalks early to limit spread."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Rotate maize with non-host crops like legumes.",
+        "Keep fields clean from stubble and residues."
+      ],
+      "points2": [
+        "Use resistant or tolerant hybrids.",
+        "Avoid late sowing in high-pressure areas."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use pheromone trap counts to time *Trichogramma* release exactly.",
+        "Adopt push–pull cropping with Napier grass as trap crop."
+      ],
+      "tips2": [
+        "Use drone spraying for canopy penetration in tall maize."
+      ]
+    }
+  },
+  {
+    "key": "peach_bacterial_spot",
+    "common_name": "Peach Bacterial Spot (Xanthomonas arboricola pv. pruni)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Copper hydroxide sprays",
+        "Copper + mancozeb mixes (where allowed)",
+        "No true curative chemicals exist"
+      ],
+      "other_medicines": [
+        "Pruning infected branches",
+        "Avoid overhead irrigation",
+        "Use resistant varieties"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Bacterial spot causes leaf lesions, fruit pitting and twig dieback. Since it is bacterial, copper sprays only slow spread but do not cure.",
+      "step_by_step": [
+        "Remove infected twigs and destroy them.",
+        "Apply copper sprays during early leafing and fruiting.",
+        "Avoid touching trees when foliage is wet.",
+        "Improve airflow through pruning.",
+        "Use resistant peach cultivars when possible."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Do not over-fertilize with nitrogen — creates soft tissue prone to infection.",
+        "Plant trees with adequate spacing to reduce humidity."
+      ],
+      "points2": [
+        "Sanitize tools regularly.",
+        "Remove fallen leaves promptly."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Install weather sensors to predict bacterial spread risk.",
+        "Use biological bactericides (Bacillus spp.) regularly."
+      ],
+      "tips2": [
+        "Adopt copper-resistant formulations with stickers for better rainfastness."
+      ]
+    }
+  },
+  {
+    "key": "potato_early_blight",
+    "common_name": "Potato Early Blight (Alternaria solani)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Mancozeb",
+        "Chlorothalonil",
+        "Azoxystrobin",
+        "Tebuconazole"
+      ],
+      "other_medicines": [
+        "Balanced nutrient supply, especially potassium",
+        "Crop rotation",
+        "Removal of infected debris"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Early blight produces concentric ring lesions. Timely protectant fungicide sprays especially before canopy closure are critical.",
+      "step_by_step": [
+        "Scout early for typical brown lesions with rings.",
+        "Apply protectant fungicides before heavy rains.",
+        "Improve airflow by maintaining proper spacing.",
+        "Remove old leaves at bottom to reduce humidity.",
+        "Rotate potatoes with non-solanaceous crops."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Avoid nitrogen-heavy fertilization which weakens tissue.",
+        "Irrigate at soil level — avoid wetting foliage."
+      ],
+      "points2": [
+        "Destroy debris promptly after harvest.",
+        "Use resistant potato varieties where available."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use disease forecasting models (humidity + temperature) to optimize fungicide timing.",
+        "Apply silicon foliar spray to strengthen leaf tissue."
+      ],
+      "tips2": [
+        "Use drone-based early detection before lesions become severe."
+      ]
+    }
+  },
+  {
+    "key": "potato_late_blight",
+    "common_name": "Potato Late Blight (Phytophthora infestans)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Metalaxyl-M",
+        "Cymoxanil",
+        "Propamocarb",
+        "Mandipropamid",
+        "Chlorothalonil (protectant)"
+      ],
+      "other_medicines": [
+        "Removal of infected foliage",
+        "Drip irrigation to avoid leaf wetness",
+        "Plant resistant/tolerant varieties"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Late blight is one of the most destructive potato diseases. It spreads rapidly under cool, humid conditions. Protectant + systemic fungicide rotation is essential.",
+      "step_by_step": [
+        "Begin protective fungicide sprays before canopy closure if weather is cool and humid.",
+        "Increase spray frequency during continuous rains.",
+        "Use systemic fungicides such as metalaxyl or mandipropamid upon first signs of infection.",
+        "Remove foliage of infected plants to prevent tuber infection.",
+        "Avoid overhead irrigation and ensure good drainage."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Plant certified disease-free seed tubers.",
+        "Use mulching to prevent soil splash."
+      ],
+      "points2": [
+        "Practice crop rotation with cereals or legumes.",
+        "Destroy all volunteer potato plants and cull piles."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use late-blight forecasting apps (humidity + rainfall) for accurate spray scheduling.",
+        "Adopt resistant varieties where possible."
+      ],
+      "tips2": [
+        "Use drone NDVI scanning to identify early blight patches before visual symptoms appear."
+      ]
+    }
+  },
+  {
+    "key": "pumpkin_bacterial_leaf_spot",
+    "common_name": "Pumpkin Bacterial Leaf Spot (Xanthomonas cucurbitae)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Copper oxychloride",
+        "Copper hydroxide",
+        "Copper + mancozeb mixes (where allowed)"
+      ],
+      "other_medicines": [
+        "Seed treatment with hot water",
+        "Resistant varieties",
+        "Weed removal to reduce alternate hosts"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Bacterial leaf spot causes dark brown lesions that lead to leaf blight. Copper sprays suppress spread, but resistant varieties and hygiene are most important.",
+      "step_by_step": [
+        "Remove and destroy infected leaves early.",
+        "Apply copper sprays before rainfall.",
+        "Avoid handling plants when wet.",
+        "Improve airflow by pruning or adjusting spacing.",
+        "Rotate with non-cucurbit crops."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Use certified seed or treat seeds with hot water.",
+        "Prevent overhead irrigation that spreads bacteria."
+      ],
+      "points2": [
+        "Keep fields weed-free.",
+        "Practice crop rotation for at least 2 years."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Adopt biological bactericides like Bacillus subtilis.",
+        "Use mulch to prevent soil splash transmission."
+      ],
+      "tips2": [
+        "Install weather sensors to adjust irrigation based on humidity."
+      ]
+    }
+  },
+  {
+    "key": "pumpkin_downy_mildew",
+    "common_name": "Pumpkin Downy Mildew (Pseudoperonospora cubensis)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Metalaxyl-M",
+        "Dimethomorph",
+        "Oxathiapiprolin",
+        "Chlorothalonil (protectant)"
+      ],
+      "other_medicines": [
+        "Good canopy ventilation",
+        "Morning irrigation only",
+        "Resistant varieties where available"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Downy mildew affects pumpkin leaves with yellow patches and gray fungal growth underneath. It spreads rapidly in humid climates.",
+      "step_by_step": [
+        "Scout for angular yellow lesions on upper leaf surfaces.",
+        "Spray protectant fungicides early during humid conditions.",
+        "Switch to systemic fungicides (oxathiapiprolin, metalaxyl) during outbreaks.",
+        "Increase spacing or prune vines to improve airflow.",
+        "Avoid wetting leaves during irrigation."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Use resistant varieties adapted to your region.",
+        "Ensure early morning irrigation to reduce long leaf wetness durations."
+      ],
+      "points2": [
+        "Remove older infected leaves promptly.",
+        "Rotate cucurbits with non-host crops."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use humidity sensors to predict downy mildew risk.",
+        "Apply preventive systemic fungicides before long rain periods."
+      ],
+      "tips2": [
+        "Use drones for uniform fungicide coverage on dense pumpkin canopies."
+      ]
+    }
+  },
+  {
+    "key": "pumpkin_mosaic_disease",
+    "common_name": "Pumpkin Mosaic Virus (Papaya Ringspot Virus / WMV / ZYMV)",
+    "recommended_medicine": {
+      "chemical_drugs": [],
+      "other_medicines": [
+        "Vector control (aphids, whiteflies)",
+        "Rogue infected plants",
+        "Reflective mulches",
+        "Use resistant varieties"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Mosaic disease is viral and cannot be cured. Management relies on minimizing vector activity and removing infected sources.",
+      "step_by_step": [
+        "Remove infected plants when mosaic or leaf distortion appears.",
+        "Install reflective mulches to reduce vector landing.",
+        "Use sticky traps for early detection of aphids.",
+        "Spray neem oil regularly.",
+        "Use resistant hybrid pumpkin varieties."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Avoid planting near other cucurbits that may host viruses.",
+        "Keep field weed-free to remove vector hosts."
+      ],
+      "points2": [
+        "Use insect-proof nets for nursery seedlings.",
+        "Avoid excessive nitrogen that attracts pests."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Adopt intercropping with repellent plants to reduce vector entry.",
+        "Use AI-based sticky-trap monitoring for aphid outbreak predictions."
+      ],
+      "tips2": [
+        "Implement area-wide vector control for best long-term management."
+      ]
+    }
+  },
+  {
+    "key": "pumpkin_powdery_mildew",
+    "common_name": "Pumpkin Powdery Mildew (Erysiphe or Podosphaera spp.)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Hexaconazole",
+        "Myclobutanil",
+        "Tebuconazole",
+        "Sulfur dust or spray"
+      ],
+      "other_medicines": [
+        "Potassium bicarbonate sprays",
+        "Milk spray (organic alternative)",
+        "Improved ventilation"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Powdery mildew grows well in warm dry conditions. It presents as white powdery spots on leaves and vines.",
+      "step_by_step": [
+        "Begin sulfur sprays at first white discoloration.",
+        "Use systemic fungicides when disease progresses.",
+        "Improve airflow through pruning or training vines.",
+        "Avoid excessive nitrogen.",
+        "Remove heavily infected leaves."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Plant resistant pumpkin varieties.",
+        "Ensure adequate spacing for sunlight penetration."
+      ],
+      "points2": [
+        "Avoid overhead irrigation.",
+        "Apply preventive sprays during high-risk weather."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use silicon foliar sprays to reduce mildew susceptibility.",
+        "Integrate biological fungicides like Bacillus-based products."
+      ],
+      "tips2": [
+        "Use UV-C sanitation in greenhouse pumpkins to suppress powdery fungi."
+      ]
+    }
+  },
+  {
+    "key": "red_cotton_bug",
+    "common_name": "Red Cotton Bug (Dysdercus cingulatus)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Cypermethrin (only when absolutely required)",
+        "Imidacloprid (early stage)",
+        "Malathion (contact insecticide)"
+      ],
+      "other_medicines": [
+        "Field sanitation",
+        "Removal of hibiscus weeds (hosts)",
+        "Deep ploughing after harvest"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Red cotton bugs feed on seeds inside open bolls and stain the lint. They migrate from nearby weeds, especially hibiscus.",
+      "step_by_step": [
+        "Remove all hibiscus and weed hosts around fields.",
+        "Use light traps in early evening to monitor activity.",
+        "Apply selective insecticides if bug population exceeds threshold.",
+        "Avoid spraying indiscriminately — may kill beneficial predators.",
+        "Harvest cotton promptly once mature."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Keep field borders clean.",
+        "Avoid late harvesting which attracts more bugs."
+      ],
+      "points2": [
+        "Use trap cropping with okra around field edges.",
+        "Do not leave open bolls exposed during storage."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use pheromone traps (where available) for population monitoring.",
+        "Coordinate with neighboring farms for area-wide control."
+      ],
+      "tips2": [
+        "Use natural predators such as assassin bugs in integrated pest programs."
+      ]
+    }
+  },
+  {
+    "key": "rice_blast",
+    "common_name": "Rice Blast (Magnaporthe oryzae)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Tricyclazole",
+        "Isoprothiolane",
+        "Pyrazophos",
+        "Azoxystrobin"
+      ],
+      "other_medicines": [
+        "Silicon fertilizers",
+        "Resistant varieties",
+        "Balanced nitrogen splits"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Rice blast affects leaves, nodes and panicles. It develops rapidly in high humidity. Early fungicide application and nitrogen management are essential.",
+      "step_by_step": [
+        "Scout for diamond-shaped leaf lesions.",
+        "Apply tricyclazole at early symptoms.",
+        "Reduce nitrogen application if disease appears.",
+        "Use silicon supplements to harden leaf tissue.",
+        "Use resistant varieties in high-pressure zones."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Keep nursery areas clean.",
+        "Avoid applying nitrogen all at once — split it 3 times."
+      ],
+      "points2": [
+        "Remove crop debris.",
+        "Rotate rice with legumes."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use drone-based application for even fungicide distribution.",
+        "Adopt weather-based blast forecasting tools."
+      ],
+      "tips2": [
+        "Use soil silicon testing to determine amendment needs."
+      ]
+    }
+  },
+  {
+    "key": "strawberry_leaf_scorch",
+    "common_name": "Strawberry Leaf Scorch (Diplocarpon earlianum)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Chlorothalonil",
+        "Captan",
+        "Mancozeb"
+      ],
+      "other_medicines": [
+        "Remove infected leaves",
+        "Improve airflow with pruning",
+        "Avoid overhead irrigation"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Leaf scorch forms irregular dark lesions with reddish borders, reducing photosynthesis. Fungicides + sanitation prevent further spread.",
+      "step_by_step": [
+        "Remove and destroy infected leaves.",
+        "Apply protectant fungicides during humid weather.",
+        "Improve row spacing and airflow.",
+        "Use drip irrigation to avoid leaf wetness.",
+        "Plant certified disease-free seedlings."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Avoid planting strawberries in the same field consecutively.",
+        "Keep bed surfaces clean and mulched."
+      ],
+      "points2": [
+        "Remove debris during and after harvest.",
+        "Use resistant varieties if available."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use UV-C sanitation to suppress fungal pathogens in greenhouses.",
+        "Apply biological fungicides during early crop stage."
+      ],
+      "tips2": [
+        "Use soil moisture sensors to avoid overwatering."
+      ]
+    }
+  },
+  {
+    "key": "sugarcane_bacterial_blight",
+    "common_name": "Sugarcane Bacterial Blight (Xanthomonas albilineans)",
+    "recommended_medicine": {
+      "chemical_drugs": [],
+      "other_medicines": [
+        "Use disease-free seed canes",
+        "Hot-water treatment of setts",
+        "Remove infected clumps"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Bacterial blight causes white leaf streaks, reduced vigor and death of clumps. Since no bactericide cures it, prevention is the key.",
+      "step_by_step": [
+        "Use certified disease-free seed material.",
+        "Perform hot-water treatment of setts (50°C for 20–30 minutes).",
+        "Remove infected plants and destroy them.",
+        "Avoid ratooning in heavily infected fields.",
+        "Improve drainage to reduce stress."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Ensure proper field sanitation.",
+        "Avoid mechanical injury that predisposes plants to infection."
+      ],
+      "points2": [
+        "Maintain soil fertility and avoid nutrient stress.",
+        "Ensure proper spacing and avoid overcrowding."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use disease indexing for seed cane lots.",
+        "Adopt soil microbial inoculants to strengthen root health."
+      ],
+      "tips2": [
+        "Use drone imaging to detect weak patches early."
+      ]
+    }
+  },
+  {
+    "key": "sugarcane_healthy",
+    "common_name": "Sugarcane (Healthy)",
+    "recommended_medicine": {
+      "chemical_drugs": [],
+      "other_medicines": [
+        "Balanced NPK schedule",
+        "Micronutrient sprays (Zn, Fe, B)",
+        "Sett treatment with fungicide/Trichoderma"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Healthy sugarcane needs disease-free planting material, correct spacing and irrigation.",
+      "step_by_step": [
+        "Select clean seed canes.",
+        "Maintain irrigation without waterlogging.",
+        "Monitor for early pests like borers and aphids.",
+        "Apply nutrients based on soil testing."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Rotate sugarcane with legumes periodically.",
+        "Shred trash to improve organic matter."
+      ],
+      "points2": [
+        "Ensure good field drainage.",
+        "Use drip irrigation where possible."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use soil organic carbon boosters for long-term health.",
+        "Install moisture sensors for precision irrigation."
+      ],
+      "tips2": [
+        "Monitor fields with drones to detect early stress."
+      ]
+    }
+  },
+  {
+    "key": "sugarcane_mosaic",
+    "common_name": "Sugarcane Mosaic Virus (SCMV)",
+    "recommended_medicine": {
+      "chemical_drugs": [],
+      "other_medicines": [
+        "Rogueing infected plants",
+        "Planting resistant varieties",
+        "Controlling aphid vectors",
+        "Using disease-free seed canes"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Sugarcane mosaic is a viral disease causing mosaic patterns, stunting and reduced sugar content. There is NO cure; stopping spread and removing infected plants is essential.",
+      "step_by_step": [
+        "Inspect fields for mosaic patterns on young leaves.",
+        "Remove and destroy infected clumps immediately.",
+        "Use only certified mosaic-free seed canes.",
+        "Control aphid populations using neem or selective insecticides.",
+        "Improve soil fertility to support resistance."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Use resistant sugarcane varieties suitable for your region.",
+        "Avoid planting near infected fields."
+      ],
+      "points2": [
+        "Control weeds that harbor aphid vectors.",
+        "Maintain proper spacing for airflow."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Adopt insect-proof nursery practices for seed cane multiplication.",
+        "Use satellite/drone imaging to map mosaic spread patterns early."
+      ],
+      "tips2": [
+        "Apply silicon supplements to improve plant tolerance."
+      ]
+    }
+  },
+  {
+    "key": "sugarcane_red_rot",
+    "common_name": "Sugarcane Red Rot (Colletotrichum falcatum)",
+    "recommended_medicine": {
+      "chemical_drugs": [],
+      "other_medicines": [
+        "Resistant varieties (best solution)",
+        "Hot-water treatment of setts",
+        "Destroying infected clumps",
+        "Crop rotation"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Red rot is known as the 'cancer' of sugarcane; it destroys stalks internally. No chemical cures it. Prevention and resistant varieties are essential.",
+      "step_by_step": [
+        "Inspect seed canes by splitting stalks to check for red tissue with white patches.",
+        "Avoid planting with infected seed material.",
+        "Remove and burn infected clumps immediately.",
+        "Rotate with non-host crops for 1–2 seasons.",
+        "Ensure field drainage to reduce susceptibility."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Use certified disease-free seed setts.",
+        "Do not ratoon severely infected fields."
+      ],
+      "points2": [
+        "Plant resistant varieties recommended by agricultural department.",
+        "Improve soil conditions with organic matter."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Test seed canes with quick field diagnostic kits.",
+        "Use sett treatment with Trichoderma for improved disease suppression."
+      ],
+      "tips2": [
+        "Use drone imaging to identify weak or drying patches before full collapse."
+      ]
+    }
+  },
+  {
+    "key": "sugarcane_rust",
+    "common_name": "Sugarcane Rust (Puccinia melanocephala)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Propiconazole",
+        "Tebuconazole",
+        "Hexaconazole"
+      ],
+      "other_medicines": [
+        "Resistant varieties",
+        "Field sanitation",
+        "Balanced nutrition"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Rust causes orange pustules on leaves and weakens the crop. Systemic fungicides work well when applied early.",
+      "step_by_step": [
+        "Scout for orange pustules on lower leaves.",
+        "Spray systemic fungicides at first detection.",
+        "Remove and destroy heavily infected plant parts.",
+        "Keep field weed-free.",
+        "Avoid waterlogging."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Plant rust-resistant cultivars.",
+        "Maintain proper NPK nutrition."
+      ],
+      "points2": [
+        "Promote airflow by using correct row spacing.",
+        "Avoid overhead irrigation."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use weather-driven rust prediction models.",
+        "Apply silicon to increase structural resistance."
+      ],
+      "tips2": [
+        "Use biological fungicides in rotation to reduce chemical load."
+      ]
+    }
+  },
+  {
+    "key": "sugarcane_yellow_leaf_disease",
+    "common_name": "Sugarcane Yellow Leaf Disease (SCYLV virus)",
+    "recommended_medicine": {
+      "chemical_drugs": [],
+      "other_medicines": [
+        "Plant virus-resistant varieties",
+        "Control aphid vectors",
+        "Remove infected clumps",
+        "Use certified healthy seed canes"
+      ]
+    },
+    "how_to_treat": {
+      "description": "This viral disease causes yellowing of midrib and leaf blade, reducing cane yield. No cure exists; vector control and resistant varieties are essential.",
+      "step_by_step": [
+        "Inspect leaves for yellowing starting from midrib.",
+        "Remove severely infected plants.",
+        "Control aphids using neem oil or systemic insecticides.",
+        "Use certified seed cane from virus-free nurseries.",
+        "Improve soil fertility to increase tolerance."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Never use seed canes from infected fields.",
+        "Control aphid populations regularly."
+      ],
+      "points2": [
+        "Monitor plants frequently during young growth stages.",
+        "Maintain good drainage to reduce stress."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use ELISA/diagnostic tests for detecting infected seed lots.",
+        "Install reflective mulches to reduce aphid landing."
+      ],
+      "tips2": [
+        "Adopt beneficial microbes to enhance immunity and tolerance."
+      ]
+    }
+  },
+  {
+    "key": "sugarcane_yellow_rust",
+    "common_name": "Sugarcane Yellow Rust (Puccinia kuehnii)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Propiconazole",
+        "Tebuconazole",
+        "Azoxystrobin"
+      ],
+      "other_medicines": [
+        "Resistant varieties",
+        "Sanitation",
+        "Avoid waterlogging"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Yellow rust forms yellow-orange streaks and reduces photosynthesis sharply. Early fungicide sprays are critical.",
+      "step_by_step": [
+        "Scout leaves for yellow streaking and uredia.",
+        "Apply systemic fungicides during early infection.",
+        "Repeat sprays during humid weather.",
+        "Avoid dense planting which increases humidity.",
+        "Remove infected leaves if possible."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Use resistant/tolerant varieties.",
+        "Maintain low humidity by proper spacing."
+      ],
+      "points2": [
+        "Avoid excessive nitrogen.",
+        "Keep field weed-free."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use weather alerts to anticipate rust outbreaks.",
+        "Combine resistant varieties with preventive fungicide schedules."
+      ],
+      "tips2": [
+        "Adopt silicon foliar sprays for added tolerance."
+      ]
+    }
+  },
+  {
+    "key": "thirps_on__cotton",
+    "common_name": "Thrips on Cotton (Thrips tabaci / Frankliniella spp.)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Spinosad",
+        "Fipronil (limited use)",
+        "Imidacloprid (seed treatment or early spray)",
+        "Lambda-cyhalothrin (avoid repeated use)"
+      ],
+      "other_medicines": [
+        "Sticky traps",
+        "Neem oil",
+        "Predatory bugs like Orius spp."
+      ]
+    },
+    "how_to_treat": {
+      "description": "Thrips damage young leaves by sucking sap, causing curling and silvering. Early control is necessary to avoid stunted growth.",
+      "step_by_step": [
+        "Place blue sticky traps for monitoring.",
+        "Spray neem oil during early infestation.",
+        "Use spinosad for moderate to heavy attack.",
+        "Avoid repeated pyrethroid sprays—they increase resistance.",
+        "Maintain good crop spacing for airflow."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Avoid excessive nitrogen which attracts thrips.",
+        "Control weeds that host thrips."
+      ],
+      "points2": [
+        "Do not plant cotton near onion/garlic crops which harbor thrips.",
+        "Encourage natural predators."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use UV-reflective mulches to reduce thrips landing.",
+        "Adopt biocontrol agents in early crop stages."
+      ],
+      "tips2": [
+        "Use AI-based monitoring traps for real-time detection."
+      ]
+    }
+  },
+  {
+    "key": "tomato_bacterial_spot",
+    "common_name": "Tomato Bacterial Spot (Xanthomonas spp.)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Copper hydroxide",
+        "Copper oxychloride",
+        "Copper + mancozeb mixes",
+        "Streptomycin (restricted regions only)"
+      ],
+      "other_medicines": [
+        "Sanitation",
+        "Drip irrigation",
+        "Resistant hybrids"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Bacterial spot affects leaves, stems and fruits, causing dark lesions and defoliation. Management is mainly preventive.",
+      "step_by_step": [
+        "Remove infected leaves early.",
+        "Spray copper-based bactericides regularly during humid conditions.",
+        "Avoid overhead irrigation.",
+        "Enhance airflow by pruning lower foliage.",
+        "Use resistant or tolerant tomato varieties."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Sanitize tools and avoid handling plants when wet.",
+        "Mulch to reduce soil splash."
+      ],
+      "points2": [
+        "Use certified disease-free seedlings.",
+        "Rotate with cereals for 2 seasons."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use biological bactericides such as Bacillus subtilis.",
+        "Apply copper + sticker adjuvants for better adherence during rains."
+      ],
+      "tips2": [
+        "Use smart sensor-based irrigation to reduce moisture-related disease risk."
+      ]
+    }
+  },
+  {
+    "key": "tomato_early_blight",
+    "common_name": "Tomato Early Blight (Alternaria solani)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Chlorothalonil",
+        "Mancozeb",
+        "Azoxystrobin",
+        "Difenoconazole"
+      ],
+      "other_medicines": [
+        "Mulching",
+        "Pruning lower leaves",
+        "Crop rotation"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Early blight causes concentric ring lesions on older leaves. Moist conditions accelerate spread.",
+      "step_by_step": [
+        "Scout lower leaves for brown spots with target-like rings.",
+        "Apply protectant fungicides before humid periods.",
+        "Prune lower foliage to improve airflow.",
+        "Avoid overhead watering.",
+        "Destroy plant debris after harvest."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Maintain proper spacing.",
+        "Apply balanced fertilizer—avoid excess nitrogen."
+      ],
+      "points2": [
+        "Use resistant or hybrid varieties.",
+        "Rotate fields every 2–3 seasons."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use forecasting models (leaf wetness + humidity) for optimal fungicide timing.",
+        "Use silicon foliar sprays for enhanced resistance."
+      ],
+      "tips2": [
+        "Adopt drone imaging to detect early blight hotspots early."
+      ]
+    }
+  },
+  {
+    "key": "tomato_late_blight",
+    "common_name": "Tomato Late Blight (Phytophthora infestans)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Metalaxyl-M",
+        "Mandipropamid",
+        "Cymoxanil",
+        "Chlorothalonil",
+        "Propamocarb"
+      ],
+      "other_medicines": [
+        "Drip irrigation",
+        "Remove infected leaves",
+        "Use resistant varieties"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Late blight is extremely destructive, causing rapid leaf collapse and fruit rot. Weather-driven outbreaks need aggressive fungicide programs.",
+      "step_by_step": [
+        "Spray protectant fungicides before rainfall.",
+        "Switch to systemic fungicides during outbreaks.",
+        "Remove infected leaves immediately.",
+        "Avoid overhead irrigation.",
+        "Improve airflow by pruning."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Use resistant varieties where available.",
+        "Keep field well-ventilated."
+      ],
+      "points2": [
+        "Destroy debris after harvest.",
+        "Rotate with cereals and pulses."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use data-driven late blight forecasting for optimized spray intervals.",
+        "Apply silicon to strengthen tissues."
+      ],
+      "tips2": [
+        "Use drone mapping for targeted fungicide spraying."
+      ]
+    }
+  },
+  {
+    "key": "tomato_septoria_leaf_spot",
+    "common_name": "Tomato Septoria Leaf Spot (Septoria lycopersici)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Chlorothalonil",
+        "Mancozeb",
+        "Copper fungicides"
+      ],
+      "other_medicines": [
+        "Mulching",
+        "Sanitation",
+        "Pruning lower leaves"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Septoria leaf spot produces small circular lesions with dark borders. It rapidly defoliates tomato plants if uncontrolled.",
+      "step_by_step": [
+        "Remove infected leaves early.",
+        "Begin fungicide applications at first spotting.",
+        "Avoid overhead watering.",
+        "Prune plants for better airflow.",
+        "Keep soil from splashing onto lower foliage."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Use drip irrigation.",
+        "Avoid dense planting."
+      ],
+      "points2": [
+        "Rotate tomatoes every 2–3 years.",
+        "Solarize soil in high-pressure areas."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use resistant/tolerant cultivars.",
+        "Apply copper + sticker combinations for durability in rainy periods."
+      ],
+      "tips2": [
+        "Use biological fungicides for residue-free production."
+      ]
+    }
+  },
+  {
+    "key": "tomato_yellow_leaf_curl_virus",
+    "common_name": "Tomato Yellow Leaf Curl Virus (TYLCV)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Imidacloprid (early stage, for whitefly control)",
+        "Thiamethoxam",
+        "Spirotetramat"
+      ],
+      "other_medicines": [
+        "Yellow sticky traps",
+        "Reflective mulches",
+        "Virus-resistant hybrid seeds",
+        "Neem oil sprays"
+      ]
+    },
+    "how_to_treat": {
+      "description": "TYLCV is a serious viral disease transmitted by whiteflies. No chemical cures the virus — management focuses entirely on vector control and prevention.",
+      "step_by_step": [
+        "Use certified virus-free seedlings.",
+        "Install sticky traps and reflective mulches to deter whiteflies.",
+        "Apply systemic insecticides early in crop life to suppress vectors.",
+        "Remove severely infected plants to reduce inoculum.",
+        "Avoid planting tomatoes near abandoned fields or old solanaceous crops."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Use insect-proof netting in nurseries.",
+        "Use tolerant or resistant tomato hybrids."
+      ],
+      "points2": [
+        "Control weeds and alternate hosts.",
+        "Avoid excessive nitrogen which increases susceptibility."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Install AI-based sticky-trap monitoring systems for real-time whitefly counts.",
+        "Use repellant intercrops like marigold around tomato fields."
+      ],
+      "tips2": [
+        "Apply silicon fertilizers to enhance leaf strength and reduce vector feeding."
+      ]
+    }
+  },
+  {
+    "key": "tungro",
+    "common_name": "Rice Tungro Disease (RTD – Viral)",
+    "recommended_medicine": {
+      "chemical_drugs": [],
+      "other_medicines": [
+        "Control green leafhopper vectors",
+        "Remove infected clumps",
+        "Use resistant rice varieties",
+        "Plant synchronously with neighbors"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Tungro is a viral disease transmitted by green leafhoppers. No cure exists; all management focuses on preventing spread.",
+      "step_by_step": [
+        "Identify orange-yellow discoloration and stunted growth early.",
+        "Remove and destroy infected rice clumps immediately.",
+        "Control leafhoppers using neem oil or selective insecticides.",
+        "Sow resistant varieties in tungro-prone regions.",
+        "Synchronize planting to disrupt vector migration cycles."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Avoid staggered planting which increases vector survival.",
+        "Keep bunds and field edges weed-free."
+      ],
+      "points2": [
+        "Use light traps to monitor leafhopper populations.",
+        "Maintain balanced nitrogen levels."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use pheromone or sticky traps for vector monitoring.",
+        "Adopt community-level cropping calendars."
+      ],
+      "tips2": [
+        "Use resistant varieties developed specifically for tungro hotspots."
+      ]
+    }
+  },
+  {
+    "key": "wheat_aphid",
+    "common_name": "Wheat Aphid (Sitobion avenae / Rhopalosiphum spp.)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Imidacloprid",
+        "Thiamethoxam",
+        "Lambda-cyhalothrin"
+      ],
+      "other_medicines": [
+        "Neem oil spray",
+        "Ladybird beetles",
+        "Avoid excess nitrogen"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Aphids suck sap from wheat leaves and spread viruses. Early control prevents yield loss.",
+      "step_by_step": [
+        "Monitor wheat plants for colonies on undersides of leaves.",
+        "Spray neem oil in early infestations.",
+        "Apply systemic insecticides during moderate to heavy infestation.",
+        "Encourage natural predators like ladybird beetles.",
+        "Avoid excessive nitrogen which attracts aphids."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Keep weeds under control.",
+        "Avoid late sowing which increases aphid pressure."
+      ],
+      "points2": [
+        "Use resistant wheat cultivars.",
+        "Maintain proper spacing for airflow."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use yellow sticky traps for monitoring aphid flights.",
+        "Adopt precision nitrogen management to avoid lush aphid-prone growth."
+      ],
+      "tips2": [
+        "Use drone surveillance to detect hotspots early."
+      ]
+    }
+  },
+  {
+    "key": "wheat_black_rust",
+    "common_name": "Wheat Black Rust (Puccinia graminis f. sp. tritici)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Propiconazole",
+        "Tebuconazole",
+        "Triazole fungicides"
+      ],
+      "other_medicines": [
+        "Resistant varieties",
+        "Crop rotation",
+        "Sanitation of volunteer wheat"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Black rust is highly destructive and can cause rapid yield loss. Early fungicide intervention is essential.",
+      "step_by_step": [
+        "Scout for black, elongated pustules on stems and leaves.",
+        "Spray systemic fungicides at first detection.",
+        "Remove volunteer wheat plants which harbor the pathogen.",
+        "Avoid late sowing to reduce exposure to rust periods.",
+        "Maintain good field sanitation."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Plant rust-resistant varieties wherever possible.",
+        "Monitor weather conditions that favor rust outbreaks."
+      ],
+      "points2": [
+        "Ensure balanced nutrient application.",
+        "Avoid overhead irrigation."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use weather-based rust prediction apps for timely fungicide use.",
+        "Use silicon to improve leaf structural resistance."
+      ],
+      "tips2": [
+        "Adopt drone spraying for high canopy wheat regions."
+      ]
+    }
+  },
+  {
+    "key": "wheat_blast",
+    "common_name": "Wheat Blast (Magnaporthe oryzae Triticum)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Tebuconazole",
+        "Triazole + strobilurin mixes",
+        "Propiconazole"
+      ],
+      "other_medicines": [
+        "Avoid high humidity planting windows",
+        "Destroy infected residues",
+        "Plant resistant varieties"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Wheat blast is fast-spreading and devastating, affecting spikes and reducing grain fill. Prevention is critical.",
+      "step_by_step": [
+        "Monitor for spike bleaching and black lesions.",
+        "Apply fungicides protectively during heading and flowering.",
+        "Destroy infected residues and infected patches immediately.",
+        "Avoid wheat–rice continuous rotations in blast-prone regions.",
+        "Use resistant/tolerant varieties."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Avoid late sowing which increases humidity exposure.",
+        "Maintain field sanitation."
+      ],
+      "points2": [
+        "Use crop rotation with non-host crops.",
+        "Avoid high-density planting."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use disease forecasting tools to optimize spray timing.",
+        "Adopt remote sensing (NDVI) for detecting early stress in wheat heads."
+      ],
+      "tips2": [
+        "Use silicon foliar sprays to strengthen cell walls."
+      ]
+    }
+  },
+  {
+    "key": "wheat_brown_leaf_rust",
+    "common_name": "Wheat Brown Leaf Rust (Puccinia triticina)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Propiconazole",
+        "Azoxystrobin",
+        "Tebuconazole"
+      ],
+      "other_medicines": [
+        "Resistant varieties",
+        "Balanced fertilizer",
+        "Good field sanitation"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Brown rust causes orange-brown pustules on leaves, reducing photosynthesis. Early sprays of systemic fungicides help control.",
+      "step_by_step": [
+        "Scout lower leaves for rust pustules.",
+        "Spray at early onset of symptoms.",
+        "Avoid dense planting which increases humidity.",
+        "Remove volunteer wheat or grasses nearby.",
+        "Maintain proper irrigation timing."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Use resistant varieties wherever possible.",
+        "Avoid excessive nitrogen."
+      ],
+      "points2": [
+        "Ensure airflow through appropriate spacing.",
+        "Monitor with rust prediction models."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use silicon-based fertilizers to boost disease resistance.",
+        "Adopt drone monitoring for uniform scouting."
+      ],
+      "tips2": [
+        "Alternate fungicide modes of action to prevent resistance."
+      ]
+    }
+  },
+  {
+    "key": "wheat_brown_rust",
+    "common_name": "Wheat Brown Rust (Duplicate Key Similar to Leaf Rust)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Propiconazole",
+        "Tebuconazole",
+        "Azoxystrobin"
+      ],
+      "other_medicines": [
+        "Resistant cultivars",
+        "Field hygiene",
+        "Avoid excessive nitrogen"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Symptoms and management are similar to wheat leaf rust, characterized by brown pustules and reduced leaf area.",
+      "step_by_step": [
+        "Monitor leaves regularly.",
+        "Spray fungicides early in infection.",
+        "Remove nearby volunteer wheat.",
+        "Ensure proper airflow in field.",
+        "Use resistant varieties."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Rotate crops to break rust cycle.",
+        "Avoid continuous wheat cultivation."
+      ],
+      "points2": [
+        "Maintain balanced fertilization.",
+        "Avoid overhead irrigation during warm/humid periods."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use disease modeling tools for rust timing.",
+        "Apply foliar silicon to reduce severity."
+      ],
+      "tips2": [
+        "Use drone-based scouting for early rust patch detection."
+      ]
+    }
+  },
+  {
+    "key": "wheat_common_root_rot",
+    "common_name": "Wheat Common Root Rot (Bipolaris sorokiniana)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Seed treatment with Carboxin",
+        "Seed treatment with Thiram",
+        "Limited effect of foliar fungicides — prevention is best"
+      ],
+      "other_medicines": [
+        "Crop rotation",
+        "Residue management",
+        "Resistant cultivars"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Root rot affects crown and roots, leading to stunting and poor tillering. Seed treatment and rotation are the most important interventions.",
+      "step_by_step": [
+        "Use fungicide-treated seeds.",
+        "Avoid planting wheat in the same field continuously.",
+        "Improve drainage to prevent waterlogging.",
+        "Add organic matter to improve soil health.",
+        "Remove infected residues."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Rotate with legumes or oilseeds.",
+        "Maintain soil structure with organic manure."
+      ],
+      "points2": [
+        "Avoid planting in fields with a history of root rot.",
+        "Test soil for pathogen buildup."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use soil microbial inoculants (Trichoderma) to suppress pathogens.",
+        "Adopt reduced tillage to improve soil biological balance."
+      ],
+      "tips2": [
+        "Use remote sensing to detect early root rot stress patterns."
+      ]
+    }
+  },
+  {
+    "key": "wheat_fusarium_head_blight",
+    "common_name": "Wheat Fusarium Head Blight / Scab (Fusarium graminearum)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Prothioconazole",
+        "Tebuconazole",
+        "Metconazole"
+      ],
+      "other_medicines": [
+        "Crop rotation",
+        "Avoiding corn–wheat rotations",
+        "Clean planting material"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Fusarium head blight causes bleached spikelets and produces harmful mycotoxins. Spraying at flowering is critical.",
+      "step_by_step": [
+        "Apply fungicides at early to mid-flowering.",
+        "Avoid corn residue in wheat fields.",
+        "Remove infected plant residues immediately.",
+        "Test grains for mycotoxins after harvest.",
+        "Dry grains quickly to safe moisture levels."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Avoid planting wheat after maize (high Fusarium carryover).",
+        "Rotate crops with non-hosts."
+      ],
+      "points2": [
+        "Maintain proper airflow in fields.",
+        "Monitor humidity during flowering."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use high-quality fungicide programs aligned with flowering weather.",
+        "Adopt combine-mounted chaff spreaders to reduce Fusarium inoculum."
+      ],
+      "tips2": [
+        "Use drone spectral analysis to detect early blighted heads."
+      ]
+    }
+  },
+  {
+    "key": "wheat_leaf_blight",
+    "common_name": "Wheat Leaf Blight (Helminthosporium / Bipolaris species)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Mancozeb",
+        "Chlorothalonil",
+        "Tebuconazole"
+      ],
+      "other_medicines": [
+        "Crop rotation",
+        "Residue destruction",
+        "Balanced nutrition (avoid excess nitrogen)"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Leaf blight reduces photosynthesis and weakens the crop. Fungicides combined with sanitation manage the disease effectively.",
+      "step_by_step": [
+        "Scout fields for brown, irregular lesions on leaves.",
+        "Spray fungicides at early infection stage.",
+        "Maintain good field hygiene and remove residues.",
+        "Avoid overhead irrigation, especially in humid conditions.",
+        "Ensure balanced NPK nutrition to minimize susceptibility."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Use resistant wheat cultivars where available.",
+        "Rotate with legumes or oilseeds."
+      ],
+      "points2": [
+        "Keep field well-ventilated with proper spacing.",
+        "Avoid late sowing in high-pressure regions."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use satellite/drone NDVI analysis to catch early stress patterns.",
+        "Incorporate silicon to strengthen leaf structure."
+      ],
+      "tips2": [
+        "Use biological fungicides in rotation to reduce chemical load."
+      ]
+    }
+  },
+  {
+    "key": "wheat_mildew",
+    "common_name": "Wheat Mildew (Erysiphe graminis – Powdery Mildew)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Hexaconazole",
+        "Tebuconazole",
+        "Sulfur dust or spray"
+      ],
+      "other_medicines": [
+        "Resistant varieties",
+        "Avoid excessive nitrogen",
+        "Improve airflow"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Powdery mildew appears as white, powdery growth on leaves. It develops in cool, dry weather. Early fungicide intervention is key.",
+      "step_by_step": [
+        "Begin sulfur or systemic fungicide sprays at first appearance.",
+        "Remove infected leaves if feasible.",
+        "Improve ventilation by reducing plant density.",
+        "Maintain balanced fertilization.",
+        "Avoid irrigating late in the day."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Plant resistant varieties.",
+        "Avoid high-density planting."
+      ],
+      "points2": [
+        "Manage crop residues properly.",
+        "Monitor weather for mildew-favorable conditions."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use early-warning powdery mildew forecasting based on humidity.",
+        "Adopt silicon sprays for increased resistance."
+      ],
+      "tips2": [
+        "Use drones for uniform sulfur dusting in tall wheat crops."
+      ]
+    }
+  },
+  {
+    "key": "wheat_mite",
+    "common_name": "Wheat Mite (Aceria tosichella / Tarsonemid mites)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Propargite",
+        "Fenpyroximate",
+        "Spiromesifen"
+      ],
+      "other_medicines": [
+        "Avoid drought stress",
+        "Control grassy weeds",
+        "Encourage predatory mites"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Mites cause leaf curling, yellow streaks, and reduced grain fill. They thrive in hot, dry environments.",
+      "step_by_step": [
+        "Inspect underside of leaves for mites.",
+        "Use miticides for moderate to heavy infestations.",
+        "Increase irrigation slightly to reduce dustiness.",
+        "Remove weeds that shelter mite populations.",
+        "Encourage natural predators."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Avoid overdue nitrogen fertilization.",
+        "Maintain even soil moisture."
+      ],
+      "points2": [
+        "Use resistant or tolerant varieties.",
+        "Rotate crops regularly to avoid buildup."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use dust suppression waterings on field borders.",
+        "Introduce predatory mites early in the season."
+      ],
+      "tips2": [
+        "Use automated pest-scouting sensors for mite detection."
+      ]
+    }
+  },
+  {
+    "key": "wheat_powdery_mildew",
+    "common_name": "Wheat Powdery Mildew (Blumeria graminis)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Sulfur",
+        "Myclobutanil",
+        "Hexaconazole"
+      ],
+      "other_medicines": [
+        "Resistant varieties",
+        "Avoid thick canopy",
+        "Balanced nitrogen management"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Powdery mildew appears as white, powder-like fungal growth on leaves, reducing photosynthesis.",
+      "step_by_step": [
+        "Apply sulfur or systemic fungicides early.",
+        "Thin the canopy by adjusting spacing.",
+        "Avoid overhead irrigation.",
+        "Destroy infected plant debris.",
+        "Monitor crop weekly for early symptoms."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Maintain recommended spacing to reduce humidity.",
+        "Adopt resistant cultivars."
+      ],
+      "points2": [
+        "Avoid excessive nitrogen.",
+        "Practice rotation with non-host crops."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use humidity sensors to identify mildew risk days.",
+        "Apply silicon foliar sprays for extra resistance."
+      ],
+      "tips2": [
+        "Use drone dusters for sulfur application in tall fields."
+      ]
+    }
+  },
+  {
+    "key": "wheat_scab",
+    "common_name": "Wheat Scab (Fusarium Head Blight – FHB)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Prothioconazole",
+        "Tebuconazole",
+        "Metconazole"
+      ],
+      "other_medicines": [
+        "Crop rotation",
+        "Avoid corn residues",
+        "Proper field drainage"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Scab bleaches spikelets and contaminates grains with mycotoxins. Controlling infection at flowering is critical.",
+      "step_by_step": [
+        "Spray fungicides during early flowering stage.",
+        "Avoid continuous wheat–maize rotation.",
+        "Destroy infected residues immediately.",
+        "Test grain for mycotoxins before marketing or storage.",
+        "Dry grain to safe moisture levels (≤13%)."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Rotate with non-host crops like legumes.",
+        "Use resistant or moderately resistant varieties."
+      ],
+      "points2": [
+        "Ensure proper field drainage.",
+        "Avoid late sowing."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use flowering-time weather prediction to schedule fungicide spraying.",
+        "Adopt remote sensing for detecting early bleaching."
+      ],
+      "tips2": [
+        "Use hermetic storage bags to avoid moisture absorption after harvest."
+      ]
+    }
+  },
+  {
+    "key": "wheat_septoria",
+    "common_name": "Wheat Septoria Leaf Blotch (Zymoseptoria tritici)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Chlorothalonil (protectant)",
+        "Propiconazole",
+        "Tebuconazole"
+      ],
+      "other_medicines": [
+        "Residue management",
+        "Crop rotation",
+        "Increase airflow"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Septoria causes small necrotic spots with pycnidia. It thrives in wet, cool weather.",
+      "step_by_step": [
+        "Apply protectant fungicides early in crop growth.",
+        "Switch to systemic fungicides as disease progresses.",
+        "Increase spacing for airflow.",
+        "Avoid back-to-back wheat cropping.",
+        "Destroy stubble after harvest."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Rotate crops every 2–3 years.",
+        "Avoid overhead irrigation."
+      ],
+      "points2": [
+        "Use resistant/tolerant cultivars.",
+        "Ensure good field drainage."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use weather-based Septoria prediction models for fungicide timing.",
+        "Adopt silicon fertilization for improved leaf strength."
+      ],
+      "tips2": [
+        "Use drone spectral analysis for early cluster detection."
+      ]
+    }
+  },
+  {
+    "key": "wheat_smut",
+    "common_name": "Wheat Smut (Ustilago spp.)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Carboxin seed treatment",
+        "Thiram seed treatment",
+        "Tebuconazole seed dressing"
+      ],
+      "other_medicines": [
+        "Certified smut-free seeds",
+        "Crop rotation",
+        "Sanitation of equipment"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Smut replaces wheat kernels with black powdery spores. Seed treatment is the only reliable prevention.",
+      "step_by_step": [
+        "Use fungicide-treated seeds before sowing.",
+        "Avoid sowing in fields with a history of smut outbreaks.",
+        "Destroy infected plant material and residues.",
+        "Ensure proper cleaning of equipment to avoid spreading spores.",
+        "Practice rotation with non-host crops."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Use certified, disease-free seed batches.",
+        "Rotate away from wheat for 1–2 seasons in smut-prone fields."
+      ],
+      "points2": [
+        "Avoid delayed sowing in high-risk regions.",
+        "Maintain low humidity in stored seed material."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use seed-coating polymers to improve fungicide adherence.",
+        "Test seeds with rapid smut detection kits before sowing."
+      ],
+      "tips2": [
+        "Use soil inoculants to suppress soilborne fungal activity."
+      ]
+    }
+  },
+  {
+    "key": "wheat_stem_fly",
+    "common_name": "Wheat Stem Fly (Delia flavibasis)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Imidacloprid (seed treatment)",
+        "Thiamethoxam",
+        "Limited foliar chemical effect — control at early stage important"
+      ],
+      "other_medicines": [
+        "Deep ploughing",
+        "Early sowing",
+        "Destroying stubbles"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Stem fly larvae feed inside wheat stems, causing deadheart symptoms. Seed treatment and clean cultivation give best prevention.",
+      "step_by_step": [
+        "Treat seeds with systemic insecticides before sowing.",
+        "Plough fields deeply to destroy pupae in soil.",
+        "Destroy stubbles and crop residues post-harvest.",
+        "Avoid late sowing which increases fly activity.",
+        "Remove symptomatic plants early."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Rotate wheat with legumes.",
+        "Maintain field sanitation and remove volunteer plants."
+      ],
+      "points2": [
+        "Avoid waterlogging.",
+        "Use resistant/tolerant cultivars if available."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use pheromone traps for early detection of adult flies.",
+        "Adopt community-level stubble destruction to break lifecycle."
+      ],
+      "tips2": [
+        "Use seed polymer coatings to hold insecticide for extended protection."
+      ]
+    }
+  },
+  {
+    "key": "wheat_tan_spot",
+    "common_name": "Wheat Tan Spot (Pyrenophora tritici-repentis)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Chlorothalonil",
+        "Propiconazole",
+        "Tebuconazole"
+      ],
+      "other_medicines": [
+        "Residue management",
+        "Avoid continuous wheat cropping",
+        "Rotate with broadleaf crops"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Tan spot causes tan lesions with yellow halos on leaves. It thrives in fields with heavy wheat residue.",
+      "step_by_step": [
+        "Remove wheat residues or incorporate deep into soil.",
+        "Apply protectant fungicides during early growth.",
+        "Use systemic fungicides during outbreaks.",
+        "Increase row spacing for airflow.",
+        "Avoid planting wheat after wheat."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Rotate with legumes or oilseeds.",
+        "Use resistant cultivars."
+      ],
+      "points2": [
+        "Improve soil drainage.",
+        "Avoid overhead irrigation."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use weather-based risk alerts to time fungicide sprays.",
+        "Combine residue decomposition microbes for faster breakdown."
+      ],
+      "tips2": [
+        "Use drone-based mapping to identify tan spot clusters early."
+      ]
+    }
+  },
+  {
+    "key": "wheat_yellow_rust",
+    "common_name": "Wheat Yellow Rust (Stripe Rust – Puccinia striiformis)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Propiconazole",
+        "Tebuconazole",
+        "Azoxystrobin"
+      ],
+      "other_medicines": [
+        "Resistant varieties",
+        "Avoid late sowing",
+        "Remove volunteer wheat plants"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Yellow rust forms bright yellow stripes on wheat leaves. It spreads rapidly in cool, humid weather and can cause total crop loss.",
+      "step_by_step": [
+        "Scout for yellow stripes on leaves weekly.",
+        "Spray systemic fungicides at first sign of infection.",
+        "Repeat sprays during high humidity periods.",
+        "Remove volunteer wheat and grassy weeds.",
+        "Use resistant wheat cultivars."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Avoid late sowing of wheat.",
+        "Use only clean, disease-free seeds."
+      ],
+      "points2": [
+        "Maintain balanced nitrogen.",
+        "Ensure proper field airflow and avoid overcrowding."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use rust prediction apps for accurate spray scheduling.",
+        "Adopt silicon fertilization for added resistance."
+      ],
+      "tips2": [
+        "Use drones for automated rust scouting and hotspot detection."
+      ]
+    }
+  },
+  {
+    "key": "wilt",
+    "common_name": "General Plant Wilt (Fusarium / Verticillium / Water Stress)",
+    "recommended_medicine": {
+      "chemical_drugs": [
+        "Carbendazim (for Fusarium)",
+        "Trichoderma soil treatment",
+        "Copper oxychloride for some wilt-associated pathogens"
+      ],
+      "other_medicines": [
+        "Improve drainage",
+        "Avoid water stress",
+        "Use resistant varieties",
+        "Organic matter enrichment"
+      ]
+    },
+    "how_to_treat": {
+      "description": "Wilt can be due to fungal infection, nematodes, or water mismanagement. Diagnosis is essential before treatment.",
+      "step_by_step": [
+        "Check basal stem brown discoloration (Fusarium).",
+        "Improve soil drainage immediately.",
+        "Solarize soil in nursery beds.",
+        "Apply Trichoderma mixed with compost.",
+        "Avoid over-irrigation and waterlogging.",
+        "For nematode wilt, rotate with non-host crops like marigold."
+      ]
+    },
+    "prevention_and_care": {
+      "points1": [
+        "Use disease-free planting material.",
+        "Avoid repeated cropping of same host plant."
+      ],
+      "points2": [
+        "Maintain soil pH within optimal range.",
+        "Apply organic compost to improve soil health."
+      ]
+    },
+    "premium_tips": {
+      "tips1": [
+        "Use soil-testing and pathogen-detection kits regularly.",
+        "Adopt drip irrigation to avoid water stress cycles."
+      ],
+      "tips2": [
+        "Introduce beneficial fungi and microbes to build long-term soil suppressiveness."
+      ]
+    }
+  }
+]

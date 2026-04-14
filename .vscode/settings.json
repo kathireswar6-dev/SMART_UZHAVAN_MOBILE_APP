@@ -3,5 +3,33 @@
     "source.fixAll": "explicit",
     "source.organizeImports": "explicit",
     "source.sortMembers": "explicit"
-  }
+  },
+  "java.project.sourcePaths": [
+    "android/app/src"
+  ],
+  "java.import.gradle.enabled": false,
+  "gradle.autoDetect": "off",
+  "gradle.nestedProjects": false,
+  "java.import.gradle.java.home": "C:\\Program Files\\Java\\jdk-21.0.10",
+  "java.jdt.ls.java.home": "C:\\Program Files\\Java\\jdk-21.0.10",
+  "java.import.exclusions": [
+    "**/node_modules/**",
+    "**/.git/**",
+    "**/build/**",
+    "**/dist/**"
+  ],
+  "java.project.resourceFilters": [
+    "node_modules",
+    ".git",
+    "__CREATED_BY_JAVA_LANGUAGE_SERVER__",
+    ".idea",
+    ".settings",
+    "build",
+    "dist"
+  ],
+  "files.exclude": {
+    "**/node_modules": true
+  },
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.compile.nullAnalysis.mode": "automatic"
 }
