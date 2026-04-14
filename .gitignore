@@ -37,6 +37,7 @@ android/app/build/
 
 # backend virtual environment
 /backend/venv
+/backend/Models/
 
 # Python cache and env files
 __pycache__/
